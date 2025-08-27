@@ -1,0 +1,12 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Environment variables
+.env
+# Python virtual environment
+skill_env/
+# Data folder
+data/
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
