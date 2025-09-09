@@ -4,7 +4,6 @@
 # Python virtual environment
 skill_env/
 # Data folder
-data/
 # Python cache
 __pycache__/
 *.pyc

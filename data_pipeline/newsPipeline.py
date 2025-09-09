@@ -7,11 +7,21 @@ import requests
 import time
 from requests.auth import HTTPBasicAuth
 
+from analysis.sentimentAnalysis import analyze_sentiment
+from pathlib import Path
+
 # ----------------------------
-# Load environment variables from .env
+# Find path relative to this file
+# ----------------------------
+BASE_DIR = Path(__file__).resolve().parent
+SKILLS_FILE = BASE_DIR / "skills.json"
+
+# ----------------------------
+# Load environment
 # ----------------------------
 load_dotenv()
 
+# Credentials
 NEWSAPI_TOKEN = os.getenv("NEWSAPI_TOKEN")
 NEWSAPI_URL = "https://newsapi.org/v2/everything"
 
@@ -23,14 +33,17 @@ REDDIT_CLIENT_SECRET = os.getenv("REDDIT_CLIENT_SECRET")
 REDDIT_USERNAME = os.getenv("REDDIT_USERNAME")
 REDDIT_PASSWORD = os.getenv("REDDIT_PASSWORD")
 
+SERP_API_KEY = os.getenv("SERP_API_KEY")
+SERP_API_URL = "https://serpapi.com/search"
+
 # ----------------------------
-# Load domains & skills dynamically from JSON
+# Load domains & skills from JSON
 # ----------------------------
-with open("skills.json") as f:
+with open(SKILLS_FILE) as f:
     DOMAINS_AND_SKILLS = json.load(f)
 
 # ----------------------------
-# Fetch NewsAPI articles
+# Fetch news articles (NewsAPI)
 # ----------------------------
 def fetch_newsapi(query, domain, max_results=20):
     url = f"{NEWSAPI_URL}?q={query}&apiKey={NEWSAPI_TOKEN}&language=en&pageSize={max_results}"
@@ -38,30 +51,37 @@ def fetch_newsapi(query, domain, max_results=20):
         response = requests.get(url).json()
     except Exception as e:
         print(f"Error fetching NewsAPI for '{query}': {e}")
-        return pd.DataFrame()
+        return pd.DataFrame(columns=["domain","skill_query","title","description","source","publishedAt","url","platform","sentiment","sentiment_score"])
     
     if response.get("status") != "ok":
         print(f"NewsAPI error for '{query}': {response.get('message')}")
-        return pd.DataFrame()
+        return pd.DataFrame(columns=["domain","skill_query","title","description","source","publishedAt","url","platform","sentiment","sentiment_score"])
     
     articles = []
     for a in response.get("articles", []):
-        # Parse publishedAt safely
         published_at = pd.to_datetime(a.get("publishedAt"), errors='coerce')
+        if published_at is pd.NaT:
+            published_at = datetime.now()
+
+        text = f"{a.get('title', '')} {a.get('description', '')}"
+        sentiment = analyze_sentiment(text)
+
         articles.append({
             "domain": domain,
             "skill_query": query,
             "title": a.get("title"),
             "description": a.get("description"),
             "source": a.get("source", {}).get("name"),
-            "publishedAt": published_at.isoformat() if published_at is not pd.NaT else None,
+            "publishedAt": published_at.isoformat(),
             "url": a.get("url"),
-            "platform": "NewsAPI"
+            "platform": "NewsAPI",
+            "sentiment": sentiment["label"],
+            "sentiment_score": sentiment["score"]
         })
     return pd.DataFrame(articles)
 
 # ----------------------------
-# Fetch NewsData.io articles
+# Fetch news (NewsData.io)
 # ----------------------------
 def fetch_newsdata(query, domain, max_results=20):
     params = {"apikey": NEWSDATA_TOKEN, "q": query, "language": "en"}
@@ -69,26 +89,75 @@ def fetch_newsdata(query, domain, max_results=20):
         response = requests.get(NEWSDATA_URL, params=params).json()
     except Exception as e:
         print(f"Error fetching NewsData.io for '{query}': {e}")
-        return pd.DataFrame()
+        return pd.DataFrame(columns=["domain","skill_query","title","description","source","publishedAt","url","platform","sentiment","sentiment_score"])
     
     articles = []
     for a in response.get("results", [])[:max_results]:
-        # Parse pubDate safely
         published_at = pd.to_datetime(a.get("pubDate"), errors='coerce')
+        if published_at is pd.NaT:
+            published_at = datetime.now()
+
+        text = f"{a.get('title', '')} {a.get('description', '')}"
+        sentiment = analyze_sentiment(text)
+
         articles.append({
             "domain": domain,
             "skill_query": query,
             "title": a.get("title"),
             "description": a.get("description"),
             "source": a.get("source_id"),
-            "publishedAt": published_at.isoformat() if published_at is not pd.NaT else None,
+            "publishedAt": published_at.isoformat(),
             "url": a.get("link"),
-            "platform": "NewsData"
+            "platform": "NewsData",
+            "sentiment": sentiment["label"],
+            "sentiment_score": sentiment["score"]
         })
     return pd.DataFrame(articles)
 
 # ----------------------------
-# Get Reddit 
+# Fetch news (Google News via SerpAPI)
+# ----------------------------
+def fetch_googlenews(query, domain, max_results=20):
+    params = {
+        "engine": "google_news",
+        "q": query,
+        "api_key": SERP_API_KEY
+    }
+    try:
+        response = requests.get(SERP_API_URL, params=params).json()
+    except Exception as e:
+        print(f"Error fetching Google News for '{query}': {e}")
+        return pd.DataFrame(columns=["domain","skill_query","title","description","source","publishedAt","url","platform","sentiment","sentiment_score"])
+    
+    articles = []
+    for a in response.get("news_results", [])[:max_results]:
+        published_at = pd.to_datetime(a.get("date"), errors='coerce')
+        if published_at is pd.NaT:
+            published_at = datetime.now()
+
+        text = f"{a.get('title', '')} {a.get('snippet', '')}"
+        sentiment = analyze_sentiment(text)
+
+        source_val = a.get("source")
+        if isinstance(source_val, dict):
+            source_val = source_val.get("name")
+
+        articles.append({
+            "domain": domain,
+            "skill_query": query,
+            "title": a.get("title"),
+            "description": a.get("snippet"),
+            "source": source_val,
+            "publishedAt": published_at.isoformat(),
+            "url": a.get("link"),
+            "platform": "GoogleNews",
+            "sentiment": sentiment["label"],
+            "sentiment_score": sentiment["score"]
+        })
+    return pd.DataFrame(articles)
+
+# ----------------------------
+# Get Reddit Token
 # ----------------------------
 def get_reddit_token():
     auth = HTTPBasicAuth(REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET)
@@ -112,22 +181,27 @@ def fetch_reddit(query, domain, token, max_results=20):
         response = requests.get("https://oauth.reddit.com/search", headers=headers, params=params).json()
     except Exception as e:
         print(f"Error fetching Reddit for '{query}': {e}")
-        return pd.DataFrame()
+        return pd.DataFrame(columns=["domain","skill_query","title","description","source","publishedAt","url","platform","sentiment","sentiment_score"])
     
     posts = []
     for p in response.get("data", {}).get("children", []):
         post = p["data"]
-        # Parse created_utc safely
-        created_at = datetime.fromtimestamp(post.get("created_utc")).isoformat() if post.get("created_utc") else None
+        published_at = datetime.fromtimestamp(post.get("created_utc")) if post.get("created_utc") else datetime.now()
+
+        text = f"{post.get('title', '')} {post.get('selftext', '')}"
+        sentiment = analyze_sentiment(text)
+
         posts.append({
             "domain": domain,
             "skill_query": query,
             "title": post.get("title"),
             "description": post.get("selftext"),
             "source": post.get("subreddit"),
-            "publishedAt": created_at,
+            "publishedAt": published_at.isoformat(),
             "url": f"https://reddit.com{post.get('permalink')}" if post.get("permalink") else None,
-            "platform": "Reddit"
+            "platform": "Reddit",
+            "sentiment": sentiment["label"],
+            "sentiment_score": sentiment["score"]
         })
     return pd.DataFrame(posts)
 
@@ -135,41 +209,40 @@ def fetch_reddit(query, domain, token, max_results=20):
 # Main pipeline
 # ----------------------------
 if __name__ == "__main__":
-    output_dir = "../data/raw"
+    output_dir = Path(__file__).resolve().parent.parent / "data" / "raw"
     os.makedirs(output_dir, exist_ok=True)
-    all_data = pd.DataFrame()
+    all_data = pd.DataFrame(columns=["domain","skill_query","title","description","source","publishedAt","url","platform","sentiment","sentiment_score"])
     total_queries = sum(len(skills) for skills in DOMAINS_AND_SKILLS.values())
     query_count = 0
 
-    # Get Reddit token once
     reddit_token = get_reddit_token()
     if not reddit_token:
-        print("Failed to get Reddit token. Reddit data will be skipped.")
+        print("⚠️ Failed to get Reddit token. Skipping Reddit data.")
 
-    # Loop through domains & skills dynamically
     for domain, skills in DOMAINS_AND_SKILLS.items():
         for skill in skills:
             query_count += 1
-            print(f"[{query_count}/{total_queries}] Fetching news for '{skill}' in '{domain}'...")
+            print(f"\n[{query_count}/{total_queries}] Fetching for '{skill}' in '{domain}'...")
 
             df_newsapi = fetch_newsapi(skill, domain)
             all_data = pd.concat([all_data, df_newsapi], ignore_index=True)
-            time.sleep(1)
 
             df_newsdata = fetch_newsdata(skill, domain)
             all_data = pd.concat([all_data, df_newsdata], ignore_index=True)
-            time.sleep(1)
+
+            df_googlenews = fetch_googlenews(skill, domain)
+            all_data = pd.concat([all_data, df_googlenews], ignore_index=True)
 
             if reddit_token:
                 df_reddit = fetch_reddit(skill, domain, reddit_token)
                 all_data = pd.concat([all_data, df_reddit], ignore_index=True)
-                time.sleep(1)
 
-    # Save merged data to CSV
+            time.sleep(1)
+
     timestamp = datetime.now().strftime("%Y%m%d_%H%M")
-    output_file = f"{output_dir}/merged_news_by_domain_{timestamp}.csv"
+    output_file = f"{output_dir}/merged_with_sentiment_{timestamp}.csv"
     all_data.to_csv(output_file, index=False)
-    print(f"\n Data saved to {output_file} ({len(all_data)} rows)")
+    print(f"\n✅ Data with sentiment saved to {output_file} ({len(all_data)} rows)")
 
 
 
