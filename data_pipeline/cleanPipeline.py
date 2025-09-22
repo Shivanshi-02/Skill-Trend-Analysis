@@ -4,27 +4,18 @@ from pathlib import Path
 from datetime import datetime, timezone
 
 def clean_text(text):
-    """
-    Cleans text by removing HTML tags, keeping only alphanumeric and basic
-    punctuation, and normalizing whitespace. This approach is more robust than
-    listing specific junk characters.
-    """
+    """Remove HTML tags, special chars, extra spaces and newlines."""
     if not isinstance(text, str):
         return ""
-    
-    # 1. Remove HTML tags using a general pattern
-    text = re.sub(r'<[^>]+>', '', text)
-    
-    # 2. Keep only alphanumeric characters, spaces, and common punctuation.
-    # This will remove all other special characters and garbled text.
-    text = re.sub(r'[^a-zA-Z0-9\s.,?!-]', '', text)
-    
-    # 3. Replace all newline characters with a single space to prevent row merging
-    text = text.replace('\n', ' ').replace('\r', ' ')
 
-    # 4. Replace multiple spaces with a single space and strip leading/trailing whitespace
-    text = re.sub(r'\s+', ' ', text).strip()
-    
+    # Remove HTML tags
+    text = re.sub(r"<[^>]+>", "", text)
+    # Remove unwanted characters
+    text = re.sub(r"[^a-zA-Z0-9\s.,?!-]", "", text)
+    # Replace newlines with space
+    text = text.replace("\n", " ").replace("\r", " ")
+    # Collapse multiple spaces
+    text = re.sub(r"\s+", " ", text).strip()
     return text
 
 # Paths
@@ -33,37 +24,38 @@ raw_dir = BASE_DIR / "data" / "raw"
 processed_dir = BASE_DIR / "data" / "processed"
 processed_dir.mkdir(parents=True, exist_ok=True)
 
-# Load latest raw file. Added `encoding='utf-8'` to correctly handle characters.
+# Load latest RAW file (now without sentiment)
 try:
-    raw_file = max(raw_dir.glob("merged_with_sentiment_*.csv"), key=lambda f: f.stat().st_mtime)
+    raw_file = max(raw_dir.glob("merged_raw_*.csv"), key=lambda f: f.stat().st_mtime)
     print(f"📂 Using raw file: {raw_file}")
-    df = pd.read_csv(raw_file, encoding='utf-8')
-except FileNotFoundError:
-    print("❌ Error: No raw CSV file found. Please ensure your data is in the 'data/raw' folder.")
+    df = pd.read_csv(raw_file, encoding="utf-8")
+except ValueError:
+    print("❌ No raw CSV file found in data/raw.")
     exit()
 
-# Apply the cleaning function to the 'title' and 'description' columns
+# Clean text columns
 df["title"] = df["title"].apply(clean_text)
 df["description"] = df["description"].apply(clean_text)
 
-# Drop any rows where the 'title' is empty, as this indicates a completely blank record.
-df.dropna(subset=['title'], inplace=True)
+# Drop rows where title is empty after cleaning
+df.dropna(subset=["title"], inplace=True)
 
-# Convert 'publishedAt' to datetime (timezone-aware)
+# Convert publishedAt to UTC datetime
 df["publishedAt"] = pd.to_datetime(df["publishedAt"], errors="coerce", utc=True)
 
-# Fill missing dates with current UTC timestamp (timezone-aware)
+# Fill missing dates with current UTC time
 now = datetime.now(timezone.utc)
 df["publishedAt"] = df["publishedAt"].fillna(now)
 
-# Convert datetime to string in desired format
+# Convert datetime back to string
 df["publishedAt"] = df["publishedAt"].dt.strftime("%Y-%m-%d %H:%M:%S")
 
-# Save to processed folder. Added `encoding='utf-8'` to save correctly.
+# Save cleaned file (NO sentiment yet)
 timestamp = datetime.now().strftime("%Y%m%d_%H%M")
-processed_file = processed_dir / f"cleaned_with_sentiment_{timestamp}.csv"
-df.to_csv(processed_file, index=False, encoding='utf-8')
+processed_file = processed_dir / f"cleaned_raw_{timestamp}.csv"
+df.to_csv(processed_file, index=False, encoding="utf-8")
 
 print(f"✅ Cleaned data saved to {processed_file} ({len(df)} rows)")
+
 
 

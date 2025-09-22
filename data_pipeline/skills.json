@@ -1,6 +1,6 @@
 {  
-"Technology": ["Python", "PyTorch", "TensorFlow", "Kubernetes", "Rust", "Golang"],
-  "Finance": ["Blockchain", "Cryptocurrency", "Fintech", "DeFi", "Stock Market"],
-  "Healthcare": ["Biotech", "Genomics", "Telemedicine", "AI in Healthcare"],
-  "Marketing": ["Digital Marketing", "SEO", "Content Strategy", "AI in Marketing"] 
+"Technology": ["Python"],
+  "Finance": [ "Stock Market"],
+  "Healthcare": [ "AI in Healthcare"],
+  "Marketing": [ "Content Strategy"]
 }
