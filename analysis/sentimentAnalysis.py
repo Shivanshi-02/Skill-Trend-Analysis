@@ -1,3 +1,4 @@
+# sentimentAnalysis.py
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from transformers import pipeline
 
@@ -10,35 +11,22 @@ model = AutoModelForSequenceClassification.from_pretrained(model_name)
 sentiment_pipeline = pipeline("sentiment-analysis", model=model, tokenizer=tokenizer)
 
 def analyze_sentiment(text):
-    # Handle edge case: if the text is empty or just spaces
+    """
+    Analyze text sentiment using HuggingFace model.
+    Returns a dictionary: {'label': 'POSITIVE/NEGATIVE/NEUTRAL', 'score': 0-1}
+    """
     if not text or not text.strip():
         return {"label": "NEUTRAL", "score": 0.0}
 
     try:
-        # Run the sentiment pipeline
-        result = sentiment_pipeline(
-            text,
-            truncation=True,
-            max_length=512
-        )[0]
-
-        # Mapping labels of our model
-        label_map = {
-            "LABEL_0": "NEGATIVE",
-            "LABEL_1": "NEUTRAL",
-            "LABEL_2": "POSITIVE"
-        }
-
-        # Convert raw label into mapped label
+        result = sentiment_pipeline(text, truncation=True, max_length=512)[0]
+        label_map = {"LABEL_0": "NEGATIVE", "LABEL_1": "NEUTRAL", "LABEL_2": "POSITIVE"}
         label = label_map.get(result["label"], result["label"])
-
-        # Return dictionary with readable label and rounded confidence score
         return {"label": label, "score": round(result["score"], 4)}
-
     except Exception as e:
         print("Sentiment analysis failed:", e)
-        # Return safe default
         return {"label": "NEUTRAL", "score": 0.0}
+
 
 
 

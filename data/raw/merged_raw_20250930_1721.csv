@@ -1,0 +1,1543 @@
+skill_query,title,description,source,publishedAt,platform
+Python,New Python Documentary Released On YouTube,"""From a side project in Amsterdam to powering AI at the world's biggest companies — this is the story of Python,"" says the description of a new 84-minute documentary. 
+
+Long-time Slashdot reader destinyland writes:
+It traces Python all the way back to its ori…",Slashdot.org,2025-08-30T14:34:00+00:00,NewsAPI
+Python,Massive monster: See the longest snake caught in the 2025 Florida Python Challenge,Longest python caught in the 2025 Florida Python Challenge was recorded in the Novice category. Plus a look at some of the biggest snakes ever caught.,Palm Beach Post,2025-09-22T14:55:09+00:00,NewsAPI
+Python,Nvmath-Python: Nvidia Math Libraries for the Python Ecosystem,NVIDIA Math Libraries for the Python Ecosystem. Contribute to NVIDIA/nvmath-python development by creating an account on GitHub.,Github.com,2025-09-18T22:37:44+00:00,NewsAPI
+Python,Python-Style Kwargs in TypeScript,"A pain-free way to write expressive, readable typed option bags in TypeScript.",Xavd.id,2025-09-22T08:25:53+00:00,NewsAPI
+Python,"Python on the Edge: Fast, sandboxed, and powered by WebAssembly","With AI workloads on the rise, the demand for Python support on WebAssembly on the Edge has grown rapidly.
+
+However, bringing Python to WebAssembly is...",Wasmer.io,2025-09-24T15:48:36+00:00,NewsAPI
+Python,Sharing a mutable reference between Rust and Python,"Background As part of my ongoing project to reimplement Django’s templating language in Rust, I have been adding support for custom template tags.
+Simple tags The simplest custom tag will look something like:
+# time_tags.py from datetime import datetime from …",Lilyf.org,2025-09-03T13:30:25+00:00,NewsAPI
+Python,Why Today's Python Developers Are Embracing Type Hints,What is Typed Python? Why is it important for Python developers today? How to can you get started?,Pyrefly.org,2025-09-24T11:23:54+00:00,NewsAPI
+Python,Further Adventures in Colorimeter Hacking,"One of the great things about sharing hacks is that sometimes one person’s work inspires someone else to take it even further. A case in point is [Ivor]’s colorimeter hacking (parts two and three),…",Hackaday,2025-09-09T11:00:08+00:00,NewsAPI
+Python,Measuring Nanoparticles by Scattering a Laser,"A fundamental difficulty of working with nanoparticles is that your objects of study are too small for an optical microscope to resolve, and thus measuring their size can be quite a challenge. Of c…",Hackaday,2025-08-30T08:00:04+00:00,NewsAPI
+Python,Python has had async for 10 years – why isn't it more popular?,A deep-dive into the challenges and misconceptions surrounding async programming in Python,Github.io,2025-09-02T17:24:57+00:00,NewsAPI
+Python,Debugging vs Printing,"We’ll admit it. We have access to great debugging tools and, yes, sometimes they are invaluable. But most of the time, we’ll just throw a few print statements in whatever program we&#82…",Hackaday,2025-09-11T08:00:46+00:00,NewsAPI
+Python,Reverse Engineering a (Toy) Fire Engine,Your kid has a toy remote control fire truck. You have an RTL SDR. See where this is going? [Jacob] couldn’t resist tearing into the why and how of the truck’s remote control protocol. …,Hackaday,2025-09-07T02:00:00+00:00,NewsAPI
+Python,A noise attack on license plate readers (Flock AI),"A quick and simple way to automate small, hardly-noticeable, random gaussian shapes to confuse AI license plate readers used by law enforcement and retailers.  - GitHub - bennjordan/PlateShapez: A ...",Github.com,2025-09-06T02:08:43+00:00,NewsAPI
+Python,Show HN: Nallely – A Python signals/MIDI processing system inspired by Smalltalk,"Nallely is an experimental organic system for advanced MIDI patching, live coding, generative music, and multimodal art, built for hacker/musicians, developed in Python, inspired by Smalltalk and Systems as Living Things",Github.io,2025-09-19T00:09:27+00:00,NewsAPI
+Python,I got the highest score on ARC-AGI again swapping Python for English,Using Multi-Agent Collaboration with Evolutionary Test-Time Compute,Substack.com,2025-09-17T01:53:47+00:00,NewsAPI
+Python,"Wind and Solar Will Power Datacenters More Cheaply Than Nuclear, Study Finds","An anonymous reader quotes a report from The Register: Renewable energy sources could power datacenters at a lower cost than relying on nuclear generation from small modular reactors (SMRs), claims a recently revealed study. ... [A]nalysis from the Centre for…",Slashdot.org,2025-09-27T03:30:00+00:00,NewsAPI
+Python,"As a local, I've visited many of Scotland's castles. There's one tourists can probably skip — and 4 they shouldn't miss.","I've visited over a dozen of Scotland's most popular castles. I'd go back to Stirling and Doune, but Edinburgh Castle didn't feel worth the hype.",Business Insider,2025-09-20T13:42:01+00:00,NewsAPI
+Python,First Transistor Computer Reborn,"Ok, we’ll admit it. If you asked us what the first transistorized computer was, we would have guessed it was the TC from the University of Manchester. After all, Dr. Wilkes and company were a…",Hackaday,2025-09-22T02:00:01+00:00,NewsAPI
+Python,Silent No More: Open-Source Fix for Mic Mishaps,"“Sorry, my mic was muted…” With the rise of video calls, we’ve all found ourselves rushing to mute or unmute our mics in the midst of a call. This open-source Mute Button, s…",Hackaday,2025-08-30T20:00:00+00:00,NewsAPI
+Python,How An Attacker's Blunder Gave Us a Rare Look Inside Their Day-to-Day Operations,"An attacker installed Huntress onto their operating machine, giving us a detailed look at how they’re using AI to build workflows, searching for tools like Evilginx, and researching targets like software development companies.",Huntress.com,2025-09-09T15:42:32+00:00,NewsAPI
+Python,$400 exoskeleton suit built from threads and motors delivers lifelike VR feedback,"Kinethreads exosuit uses fabric threads, motors, and a Raspberry Pi to deliver lifelike VR haptics and rehab support for under $500.",interestingengineering,2025-09-29T23:16:40,NewsData
+Python,D-Wave Quantum (NYSE:QBTS) Shares Down 5.6% – Here’s What Happened,"D-Wave Quantum Inc. (NYSE:QBTS – Get Free Report) fell 5.6% during mid-day trading on Monday . The stock traded as low as $24.97 and last traded at $25.27. 68,602,136 shares changed hands during trading, an increase of 6% from the average session volume of 64,851,969 shares. The stock had previously closed at $26.76. Wall Street [...]",themarketsdaily,2025-09-29T23:14:47,NewsData
+Python,"‘Louis Theroux Podcast’ Sets Season 6 Guests: Florence Pugh, David Byrne, Malala Yousafzai and More (EXCLUSIVE)","“The Louis Theroux Podcast” has unveiled its slate of Season 6 guests, including Florence Pugh, David Byrne and Malala Yousafzai. The Spotify and Mindhouse podcast, hosted by the award-winning British journalist, will debut new episodes starting Oct. 7. Alongside Pugh, Byrne and Yousafzai, other big names sitting down with Theroux include comedian and writer Steve [...]",variety,2025-09-29T23:01:00,NewsData
+Python,TekaSketch: Where Etch A Sketch Meets Graph Theory,"The Etch A Sketch was never supposed to meet a Raspberry Pi, a camera, or a mathematical algorithm, but here we are. [Tekavou]’s Teka-Cam and TekaSketch are a two-part hack ...read more",hackaday,2025-09-29T23:00:01,NewsData
+Python,"Crypto, VPNs & CCTV inside high-tech movie piracy hunt",,toi,2025-09-29T22:58:48,NewsData
+Python,Custom Email Notifications for Databricks Pipeline Failures,"This blog walks through approaches to implement custom notifications using SMTP, SendGrid, Azure Logic Apps, and Microsoft Graph API. Using SMTP with Python inside a Databricks notebook, you can generate an Excel report and send it via email whenever a pipeline fails.",hackernoon,2025-09-29T22:13:45,NewsData
+Python,"This lightweight IDE runs on basically everything, and it supports custom plugins","Discover Geany, the fast and lightweight IDE that runs on any system, supports custom plugins, and provides essential features for efficient coding across multiple languages.",xda_developers,2025-09-29T22:00:20,NewsData
+Python,Britney Spears enrages Hollywood bosses with 'erratic' antics... as insiders tell of dire behind the scenes mood on singer's biopic,"Two years ago Britney Spears dropped her bombshell memoir, The Woman in Me, and launched a fierce bidding war over the rights to adapt the tell-all book into a Hollywood movie.",dailymailuk,2025-09-29T21:46:36,NewsData
+Python,"Inside North Korea’s DeceptiveDevelopment Job Fraud, Malware Scheme","DeceptiveDevelopment blends job fraud and malware, using social engineering and insider tactics to compromise developers and crypto firms.The post Inside North Korea’s DeceptiveDevelopment Job Fraud, Malware Scheme appeared first on eSecurity Planet.",esecurityplanet,2025-09-29T21:36:21,NewsData
+Python,Mid Cap Stocks To Consider – September 29th,"Merus, AltC Acquisition, Rigetti Computing, Marathon Digital, and D-Wave Quantum are the five Mid Cap stocks to watch today, according to MarketBeat’s stock screener tool. Mid-cap stocks are shares of companies whose total market capitalization generally falls between roughly $2 billion and $10 billion. They typically offer investors a balance between the stability of large-cap [...]",thelincolnianonline,2025-09-29T21:18:45,NewsData
+Python,Python for Data Science (Free 7-Day Mini-Course),,KDnuggets,2025-09-30T17:21:00.957719,GoogleNews
+Python,Meet oLLM: A Lightweight Python Library that brings 100K-Context LLM Inference to 8 GB Consumer GPUs via SSD Offload—No Quantization Required,,MarkTechPost,2025-09-30T17:21:00.958360,GoogleNews
+Python,CodeQL zero to hero part 5: Debugging queries,,The GitHub Blog,2025-09-30T17:21:00.958580,GoogleNews
+Python,Iman Proves Snakeskin’s Staying Power in Tod’s Python Boots at Milan Fashion Week,,WWD,2025-09-30T17:21:00.958746,GoogleNews
+Python,Can You Make a Living Hunting Pythons? We Asked Florida’s Invasive Snake Contractors,,Outdoor Life,2025-09-30T17:21:00.958902,GoogleNews
+Python,Hunt is on for two pythons on the loose in Queens' Forest Park,,NBC New York,2025-09-30T17:21:00.959043,GoogleNews
+Python,Oracle's GraalVM To Shift Focus To Non-Java Languages Like Python & JavaScript,,Phoronix,2025-09-30T17:21:00.959180,GoogleNews
+Python,Police searching for suspect accused of stealing ball python from Colorado pet store,,KKTV,2025-09-30T17:21:00.959316,GoogleNews
+Python,"4-foot python recovered from Forest Park, Queens. 2 are still missing",,CBS News,2025-09-30T17:21:00.959457,GoogleNews
+Python,How to Use pandas DataFrames in Python to Analyze and Manipulate Data,,How-To Geek,2025-09-30T17:21:00.959604,GoogleNews
+Python,"Snakes missing in NYC: One python rescued by Puppy Kitty NYC, two others on the loose in Queens",,ABC7 New York,2025-09-30T17:21:00.959746,GoogleNews
+Python,Robotic rabbits are deployed in South Florida python hot spots to fight snake explosion,,The Palm Beach Post,2025-09-30T17:21:00.959892,GoogleNews
+Python,Burmese python vomits out a whole deer in Florida: A ‘stunning survival moment’ in the wild,,The Times of India,2025-09-30T17:21:00.960051,GoogleNews
+Python,pyForth – a Forth implementation in Python,,Adafruit,2025-09-30T17:21:00.960211,GoogleNews
+Python,"‘Communal’ python nesting site on Florida island had dozens of eggs, video shows",,Miami Herald,2025-09-30T17:21:00.960361,GoogleNews
+Python,"I replaced all my bash scripts with Python, and here’s what happened",,XDA,2025-09-30T17:21:00.960508,GoogleNews
+Python,Python and Poetry: 4 tools for keeping Python simple,,InfoWorld,2025-09-30T17:21:00.960658,GoogleNews
+Python,I Spent a Grueling 10 Days Doing Nothing but Catching Pythons. Then Something Incredible Happened.,,Slate,2025-09-30T17:21:00.960823,GoogleNews
+Python,"Python P Breaks Down Long Term Friendship with Ab-Soul, Production & New Al",,Power 100.9,2025-09-30T17:21:00.960968,GoogleNews
+Python,9-foot albino python found in Coventry; police searching for owner,,WFSB,2025-09-30T17:21:00.961103,GoogleNews
+Python,Why Students Use FindMyGuru to Find Tutors in India?,"Every student’s journey is unique. Some of us want to ace IIT-JEE, some dream of mastering Python programming, while others may want to simply speak English more confidently. But one thing remains common — finding the right mentor makes all the difference. That’s where **FindMyGuru comes in to help students find tutors in India**.",teaching,2025-09-30T17:11:30,Reddit
+Python,Looking for Data Science professional (Middleperson),"**Key Responsibilities**
+
+* Review and refine AI-generated prompts, responses, and code
+* Validate concepts for technical accuracy
+* Provide structured feedback on solution quality and clarity
+* Tag and organize content by topic and difficulty
+* Support benchmarking efforts to assess model capabilities
+
+**Ideal Qualifications**
+
+* 3+ years of experience in data science, machine learning, or applied statistics (industry or research)
+* Degree in Data Science, Statistics, Computer Science, Applied Mathematics, or a related quantitative field (Bachelor’s minimum; advanced degree preferred)
+* Strong proficiency in Python and SQL; familiarity with R, Java, or Scala is a plus
+* Hands-on experience building and deploying machine learning models using frameworks like scikit-learn, TensorFlow, or PyTorch
+* Experience with statistical analysis, data wrangling, and feature engineering on large datasets
+
+**Project Timeline**
+
+* Start Date: Immediate
+* Duration: 1–2 months
+* Commitment: Part-time (15–25 hours/week, with flexibility up to 40 hours/week)
+* Schedule: Fully remote and asynchronous – flexible working hours
+
+**Compensation &amp; Contract**
+
+* Competitive hourly rate based on experience ($70–$120 USD/hr)
+* Independent contractor
+* Daily payment via Stripe Connect
+
+**Application &amp; Onboarding Process**
+
+* Upload your resume
+* AI interview: A short, 15-minute conversational session to understand your background, experience, and interest in the role
+* Follow-up communication within a few days with next steps and onboarding details
+
+DM for the application link.",DeveloperJobs,2025-09-30T17:11:22,Reddit
+Python,How to build website for a small business,"I am building a small business of jewelry. I want to start with 0 investment in the website of my brand. Shopify, wordpress and wix are monthly paid platforms. Should I code frontend and backend and connect to free database? I am thinking to use react + tailwind on the frontend and flask, python, razorpay API on the backend. For database, I am using MongoDB. Can you all tell if this is right thing? I am up for suggestion. Also, know that i am from tech bg. Would coding my side would be a write action to take?",smallbusiness,2025-09-30T17:10:50,Reddit
+Python,"9.5 h (4.5 stars)- Master Web Development: HTML5, Python, &amp; Flask Framework",,udemyfreebies,2025-09-30T17:07:55,Reddit
+Python,Trying To Use stable diffusion with AMD and CHATGPT,"Every step I get stuck from chatgpt. It's like they're intentionally trolling me or I am just plain stupid.
+
+I just don't get what is trying to tell me. What does step 2 even mean go to Mathetica save as wtf is that?
+
+I need instructions an 3 yr old can understand.
+
+https://preview.redd.it/8hoqd00hgasf1.png?width=803&amp;format=png&amp;auto=webp&amp;s=a89d6420d3a5ecde52bc2468461f02d84ae1090f",StableDiffusion,2025-09-30T17:06:46,Reddit
+Python,"Stories from running a workflow engine, e.g., Hatchet, in Production","Hi everybody! I find myself in need of a workflow engine (I'm DevOps, so I'll be using it and administering it), and it seems the Python space is exploding with options right now. I'm passingly familiar with Celery+Canvas and DAG-based tools such as Airflow, but the hot new thing seems to be Durable Execution frameworks like Temporal.io, DBOS, Hatchet, etc. I'd love to hear stories from people actually using and managing such things in the wild, as part of evaluating which option is best for me.
+
+Just from reading over these projects docs, I can give my initial impressions:
+
+* Temporal.io - enterprise-ready, lots of operational bits and bobs to manage, seems to want to take over your entire project
+* DBOS - way less operational impact, but also no obvious way to horizontally scale workers independent of app servers (which is sort of a key feature for me)
+* Hatchet - evolving fast, Durable Execution/Workflow bits seem fairly recent, no obvious way to logically segment queues, etc. by tenant (Temporal has Namespaces, Celery+Canvas has Virtual Hosts in RabbitMQ, DBOS… might be leveraging your app database, so it inherits whatever you are doing there?)
+
+Am I missing any of the big (Python) players? What has your experience been like?",Python,2025-09-30T17:04:07,Reddit
+Python,Ship stats comparison tool - compare the stats of ships with each other or with means and medians,"Wrote a simple comparison tool in python. It has two functionalities: to compare the stats of a selected ship with the means and medians of other ships in the same class to see where it stands, and to simply bring up the stats of two ships side by side to allow for at a glance comparison. Here is the link to the repo:
+
+The data is from the Azur Lane wiki list of stats of all ships. It currently has no UI and so simply runs in the terminal. The main program is in the form of the .exe file in the repo but the source code is also present in the repo.
+
+People may be rightfully apprehensive about downloading and running an .exe file from a random on the internet, so if one has python installed, they can instead just download the entire repo and run the .py file. If you'd rather not download anything at all then I can understand that too. A tool like this it would be best presented as a web page. 
+
+The ultimate goal would be easy side by side comparison of the theoretical performance between ships as well as how their theoretical performance fits in with ships of the same class, same class and rarity etc. which of course you'd need to take into account efficiencies and skills. I suppose my two main questions in this post are: 
+
+1. Is there a tool already out there that already does this?  
+2. If not, is this even worth further looking into? Would it be useful? ",AzureLane,2025-09-30T17:03:44,Reddit
+Python,Imagine the existential horror of finding out you're an AI inside Minecraft,"""I built a small language model in Minecraft using no command blocks or datapacks!
+
+The model has 5,087,280 parameters, trained in Python on the TinyChat dataset of basic English conversations. It has an embedding dimension of 240, vocabulary of 1920 tokens, and consists of 6 layers. The context window size is 64 tokens, which is enough for (very) short conversations. Most weights were quantized to 8 bits, although the embedding and LayerNorm weights are stored at 18 and 24 bits respectively. The quantized weights are linked below; they are split into hundreds of files corresponding to the separate sections of ROM in the build.
+
+The build occupies a volume of 1020x260x1656 blocks. Due to its immense size, the Distant Horizons mod was used to capture footage of the whole build; this results in distant redstone components looking strange as they are being rendered at a lower level of detail.
+
+It can produce a response in about 2 hours when the tick rate is increased using MCHPRS (Minecraft High Performance Redstone Server) to about 40,000x speed.""
+
+Source: [https://www.youtube.com/watch?v=VaeI9YgE1o8](https://www.youtube.com/watch?v=VaeI9YgE1o8)",ChatGPT,2025-09-30T17:03:13,Reddit
+Python,Imagine the existential horror of finding out you're an AI inside Minecraft,"""I built a small language model in Minecraft using no command blocks or datapacks!
+
+The model has 5,087,280 parameters, trained in Python on the TinyChat dataset of basic English conversations. It has an embedding dimension of 240, vocabulary of 1920 tokens, and consists of 6 layers. The context window size is 64 tokens, which is enough for (very) short conversations. Most weights were quantized to 8 bits, although the embedding and LayerNorm weights are stored at 18 and 24 bits respectively. The quantized weights are linked below; they are split into hundreds of files corresponding to the separate sections of ROM in the build.
+
+The build occupies a volume of 1020x260x1656 blocks. Due to its immense size, the Distant Horizons mod was used to capture footage of the whole build; this results in distant redstone components looking strange as they are being rendered at a lower level of detail.
+
+It can produce a response in about 2 hours when the tick rate is increased using MCHPRS (Minecraft High Performance Redstone Server) to about 40,000x speed.""
+
+Source: [https://www.youtube.com/watch?v=VaeI9YgE1o8](https://www.youtube.com/watch?v=VaeI9YgE1o8)",artificial,2025-09-30T17:02:35,Reddit
+Python,Imagine the existential horror of finding out you're an AI inside Minecraft,"""I built a small language model in Minecraft using no command blocks or datapacks!  
+  
+The model has 5,087,280 parameters, trained in Python on the TinyChat dataset of basic English conversations. It has an embedding dimension of 240, vocabulary of 1920 tokens, and consists of 6 layers. The context window size is 64 tokens, which is enough for (very) short conversations. Most weights were quantized to 8 bits, although the embedding and LayerNorm weights are stored at 18 and 24 bits respectively. The quantized weights are linked below; they are split into hundreds of files corresponding to the separate sections of ROM in the build.  
+  
+The build occupies a volume of 1020x260x1656 blocks. Due to its immense size, the Distant Horizons mod was used to capture footage of the whole build; this results in distant redstone components looking strange as they are being rendered at a lower level of detail.  
+  
+It can produce a response in about 2 hours when the tick rate is increased using MCHPRS (Minecraft High Performance Redstone Server) to about 40,000x speed.""  
+  
+Source: [https://www.youtube.com/watch?v=VaeI9YgE1o8](https://www.youtube.com/watch?v=VaeI9YgE1o8)",OpenAI,2025-09-30T17:01:39,Reddit
+Python,Beyond the Lore: My Concept for a Real-World Glimmer.,"What I am gonna share is not more sci-fi this is real thing nor fandiction. This doc is based on real scientific research paper and the real scientific study going on. This doc states the real road map to make a **Glimmer** or more genericaly speaking a **Photonic crystal** that stores light. (This what possible with modern technolgy right now) . Why I am shareing this because I am just a collage student I don't have a team nor lab to do this. What I need an actual lab and budget to this research.😓
+
+# Phase 1: Understand and Model the Physics
+
+1. **Literature Sweep**
+   * Gather seminal and recent papers on photon storage, slow light, and light trapping in photonic crystals and resonators.
+   * Focus on mechanisms like Electromagnetically Induced Transparency (EIT), cavity QED, and photon–atom hybrid states.
+2. **Build a Simple Python Model**
+   * Implement Maxwell’s equations for a 1D photonic crystal using libraries such as MPB or MEEP.
+   * Verify that a photonic bandgap stops targeted wavelengths.
+
+# Phase 2: Design and Optimize the Photonic Crystal
+
+1. **Parametric Crystal Design**
+   * Write Python scripts to sweep parameters: lattice spacing, refractive index contrasts, defect-cavity geometries.
+   * Compute bandgaps and identify configurations that maximize photon dwell time.
+2. **Quantum-Level Loss Mitigation**
+   * Conceptualize error-correction via periodic control pulses or active feedback loops to compensate for scattering and absorption losses.
+
+# Phase 3: Simulate the “Solidified” Light System
+
+1. **Material + Control Algorithm Integration**
+   * Combine the optimized crystal model with a feedback algorithm (PID controller or RL agent) to actively maintain photon confinement.
+2. **Quantify Energy Storage**
+   * Calculate how many photons at a given wavelength can be trapped and for how long.
+   * Derive the effective energy density (“10 g stores 10 kJ” scale estimates).
+
+# Phase 4: Prototype Fabrication and Testing
+
+1. **Lab Collaboration**
+   * Partner with a nanofabrication facility or maker space capable of nanoimprint lithography, electron-beam lithography, or self-assembly.
+   * Start with microsphere or waveguide test structures if full photonic-crystal fabrication is unavailable.
+2. **Iterative Loop**
+   * Fabricate test pieces, measure confinement lifetimes and losses.
+   * Feed experimental data back into the Python optimization scripts for next-generation designs.
+
+# Phase 5: Define and Develop the “Glimmer” Product
+
+1. **Concept Specification**
+   * Decide on Glimmer’s form factor: a light-battery module, a photonic memory element, or a functional light block.
+   * Design the release mechanism—controlled energy discharge, optical signaling, or visual display.
+2. **Documentation and IP Strategy**
+   * Record experimental methods, simulation code, and performance metrics.
+   * File provisional patents or prepare publications to protect and communicate your innovation.",DestinyLore,2025-09-30T17:01:03,Reddit
+Python,Finding the Right Product Development Firm in Karnataka: A Deep Dive for Businesses,"Karnataka, with its epicenter Bengaluru, stands as the undeniable heart of India's technological revolution. Dubbed the ""Silicon Valley of India,"" this state is a magnet for innovation, talent, and entrepreneurial spirit. For businesses, both established enterprises and ambitious startups, looking to launch a new digital product or transform an existing one, the sheer volume of product development firms in Karnataka can be both an opportunity and a challenge.
+
+How do you cut through the noise to find a partner that not only understands your vision but can also execute it with precision, scalability, and strategic foresight? This deep dive will guide you through the critical factors, due diligence, and strategic considerations for selecting the ideal product development firm in Karnataka to ensure your project's success.
+
+**The Karnataka Advantage: More Than Just a Name**
+
+Before diving into selection criteria, it's crucial to acknowledge *why* Karnataka is a prime location for product development:
+
+* **Unparalleled Talent Pool:** Home to premier engineering institutions and a thriving tech ecosystem, Karnataka offers access to a vast pool of highly skilled software engineers, AI/ML specialists, UI/UX designers, and product managers.
+* **Innovation Hotbed:** The state’s dynamic startup culture fosters an environment of rapid iteration, cutting-edge technology adoption, and a problem-solving mindset crucial for modern product development.
+* **Cost-Effectiveness (Relative):** While not the cheapest, the combination of high-quality talent and competitive pricing often yields superior value compared to Western markets.
+* **Global Exposure:** Many firms in Karnataka have extensive experience working with international clients, understanding global best practices and diverse market needs.
+
+**Beyond the Brochure: 7 Critical Factors for Selection**
+
+Choosing a product development firm isn't about ticking boxes; it's about finding a true partner. Here are the paramount factors to evaluate:
+
+1. **Specialized Domain Expertise:**
+   * **The Nuance:** Does the firm genuinely understand *your industry* (e.g., FinTech, Logistics, Healthcare, Industrial IoT)? A generalist might build functional software, but a specialist understands the unique regulatory challenges, user behaviors, and specific terminologies of your sector.
+   * **Action:** Look for case studies, client testimonials, and team experience specifically within your domain. A firm that speaks your industry's language will accelerate development and minimize costly misunderstandings.
+2. **Product-First, Engineering-Driven Philosophy:**
+   * **The Nuance:** Many firms are excellent at coding. But true product development requires a ""product mindset"" – a focus on user needs, market fit, and business outcomes *before* writing a single line of code. They should be able to challenge your assumptions constructively.
+   * **Action:** Inquire about their product discovery process, their approach to defining Minimum Viable Products (MVPs), and how they integrate UI/UX design from the outset.
+3. **Technical Prowess &amp; Technology Stack:**
+   * **The Nuance:** Are they proficient in modern, scalable technologies? This includes cloud-native architectures (AWS, Azure, GCP), microservices, robust backend frameworks (Node.js, Python, Java), modern front-end stacks (React, Angular, Vue.js), and mobile development.
+   * **Action:** Discuss their approach to scalability, security, and maintainability. For AI-driven products, assess their expertise in Machine Learning, Deep Learning, MLOps, and data science. A strong firm will be technology-agnostic but deeply proficient in tools that deliver robust solutions.
+4. **Agile Methodologies &amp; Transparent Communication:**
+   * **The Nuance:** Modern product development thrives on agility. A firm should use iterative development (Scrum, Kanban) allowing for flexibility, continuous feedback, and rapid adaptation. Transparency in progress, challenges, and decisions is non-negotiable.
+   * **Action:** Ask about their communication cadence (daily stand-ups, weekly demos), project management tools, and how they handle scope changes. Look for a partner who prioritizes clear, consistent dialogue.
+5. **Robust Security &amp; Compliance Frameworks:**
+   * **The Nuance:** For any digital product, especially in regulated industries like FinTech or HealthTech, security is paramount. Compliance with data protection laws (GDPR, DPDPA) and industry standards isn't optional.
+   * **Action:** Inquire about their internal security protocols, data encryption practices, penetration testing, and their experience navigating regulatory landscapes relevant to your product.
+6. **Scalability &amp; Post-Launch Support:**
+   * **The Nuance:** An MVP is just the beginning. The product needs to scale seamlessly as your user base grows. A good firm considers future growth from day one and offers ongoing support, maintenance, and further feature development.
+   * **Action:** Discuss their DevOps capabilities, cloud infrastructure management, and their philosophy on long-term partnership versus a one-off project.
+7. **Proven Track Record &amp; Client Validation:**
+   * **The Nuance:** Claims on a website are one thing; independent validation is another.
+   * **Action:** Request detailed case studies relevant to your needs. Critically, seek out and scrutinize reviews and testimonials on independent B2B review platforms like [**Clutch.co**](http://Clutch.co)**, G2, or industry-specific forums.** Talk to past clients if possible.
+
+**Due Diligence Checklist: Your Actionable Steps**
+
+* **Initial Research:** Scour firm websites, LinkedIn profiles of their key personnel, and industry reports.
+* **Portfolio Review:** Demand a detailed portfolio with specific examples of similar projects.
+* **Team Meet &amp; Greet:** Insist on meeting the actual development team members who would work on your project, not just sales or project managers. Assess their technical depth and cultural fit.
+* **Proposals &amp; Scope Definition:** A good proposal goes beyond a price tag; it outlines methodology, timelines, deliverables, and how risks will be managed.
+* **References:** Always ask for client references and follow up on them.
+* **Trial Project (Optional but Recommended):** For larger engagements, a small, paid discovery phase or a mini-project can be a low-risk way to assess compatibility and quality before committing fully.
+
+**Frugal Scientific: Your Strategic Product Engineering Partner in Karnataka**
+
+At Frugal Scientific, we understand the complexities of bringing a product to market in today's dynamic tech landscape. Located in Karnataka, our core expertise lies in **AI centric product engineering** and **venture building**. We specialize in co-building scalable, intelligent platforms for sectors like FinTech, Logistics, Sustainability, and Industrial IoT.
+
+We pride ourselves on:
+
+* **Deep Domain Understanding:** Our teams are immersed in the nuances of our focus industries.
+* **A Product-First Approach:** We prioritize user experience, market validation, and business outcomes.
+* **Cutting-Edge AI &amp; Full-Stack Expertise:** Building secure, high-performance, and future-proof solutions.
+* **Transparent &amp; Agile Partnership:** Ensuring continuous collaboration and adaptability.
+
+Choosing the right product development firm in Karnataka is a strategic decision that will define your product's future. By focusing on expertise, methodology, and a proven track record, you can forge a partnership that turns your vision into a resounding success.
+
+**Ready to build an intelligent, scalable product with a trusted partner in Karnataka?** **Contact** [Frugal Scientific](https://www.frugalscientific.com/) **today to explore how we can bring your vision to life!**
+
+ ",fsdacademy,2025-09-30T16:59:03,Reddit
+Python,IIM Mumbai Interview Transcript,"Personal Interview (around 15 mins)
+
+P1 - A Male Professor, 40 or so
+
+P2 - A Female Professor 30-35
+
+A - Me
+
+P1 - TMAY
+
+A - Told
+
+P1 - What have you done since your graduation
+
+A - Told about my internship
+
+P1 - Discussion on final year project
+
+A - Answered
+
+P1 - What do you want to do in future?
+
+A - Answered
+
+P1 - From where did you take coaching?
+
+A - Answered
+
+P1 - Why marketing?
+
+A - Answered
+
+P1 - Tell some creative tagline.
+
+A - Told
+
+P1 - Tagline of AMUL
+
+A - Answered
+
+P1 - Create a tagline for Anmol.
+
+A - Took paper and thought to write and told
+
+P1 - Make it crisp
+
+A - Answered something silly and both panellist and I laughed
+
+P2 - Create something else.
+
+A - Answered
+
+P1 - Why your marks in a particular subject so low?
+
+A - Answered
+
+P1 - Told, these are excuses. Told I created a tagline for you and said the tagline(couldn't remember) but it's not valid now. (Basically, they were trying to add stress)
+
+P2 took over
+
+P2 - How comfortable are you with Artificial Intelligence?
+
+A - Answered. (Was expecting some questions on AI)
+
+P2 came up with statistics
+
+P2 - Key concept of statistics
+
+A - Answered
+
+P2 - Measure of central tendency and measure of central dispersion and some 5-6 L2-L3 questions on stats
+
+A - Couldn't answer all, but answered some.
+
+P2 - You are familiar with AI but not proficient in statistics. Name any 5 python libraries.
+
+A - Answered 1st
+
+P2 - Where it is used?
+
+A - Answered and went on to answer 2nd.
+
+P2 - Is it a library?
+
+A - Answered and explained that it is indeed and told 2 more
+
+P1 asked in between.
+
+P1 - Why IIM Mumbai?
+
+A - Answered
+
+P2 again.
+
+P2 - When was IIM Mumbai formed?
+
+A - Answered
+
+P2 - What is guerrilla marketing?
+
+A - Knew it but fumbled a little due to pressure.
+
+P2 - Where are you from?
+
+A - Answered
+
+P2 - Have you ever been to Mumbai?
+
+A - Answered
+
+P2 - What all IIM calls do you have?
+
+A - Answered.",CATiim,2025-09-30T16:58:00,Reddit
+Python,"Definition of a DRIVAAAH, I don't stop AAAALL",That intro track is on some serious shit. Mach-Hommy will get that python soon. ,machhommy,2025-09-30T16:51:59,Reddit
+Python,"📢 Affirm is [hiring] a Software Engineering Manager, Infrastructure Platform (Continuous Integration)!","Company: Affirm
+
+Location: Canada Remote 📍
+
+Salary: 130.6K - 167.2K 💰
+
+Date Posted: September 29, 2025 📅
+
+Categories: #remote#engineer#senior#devops#python#java#fulltime
+
+
+
+
+Apply &amp; Description 👉 https://jobboardsearch.com/redirect?utm_source=reddit&amp;utm_medium=bot&amp;utm_id=jobboarsearch&amp;utm_term=brenxor.com&amp;rurl=aHR0cHM6Ly9icmVueG9yLmNvbS9qb2ItZGV0YWlscy04NTg0NC1zb2Z0d2FyZS1lbmdpbmVlcmluZy1tYW5hZ2VyJTJjLWluZnJhc3RydWN0dXJlLXBsYXRmb3JtLShjb250aW51b3VzLWludGVncmF0aW9uKQ==",jobboardsearch,2025-09-30T16:49:09,Reddit
+Python,"Gaming and productivity, ideally&lt;$2000","LAPTOP QUESTIONNAIRE
+
+Total budget: US $2000
+
+Are you open to refurbs/used?
+
+Only if there is a good warranty 
+
+How would you prioritize form factor (ultrabook, 2-in-1, etc.), build quality, performance, and battery life
+
+Looking for solid build quality and performance, don't care about battery life. I prefer a less flashy appearance (minimal/no RGB) but it's not a deal breaker.
+
+How important is weight and thinness to you?
+
+Not very.
+
+Do you have a preferred screen size? If indifferent, put N/A.
+
+16 inches, but willing to consider others 
+
+Are you doing any CAD/video editing/photo editing/gaming? List which programs/games you desire to run
+
+Dark table, gimp, QGIS, CPU-heavy Python (sklearn)
+
+If you're gaming, do you have certain games you want to play? At what settings and FPS do you want?
+
+No Man's Sky, Dead Island 2, 60 fps on High
+
+
+Any specific requirements such as good keyboard, reliable build quality, touch-screen, finger-print reader, optical drive or good input devices (keyboard/touchpad)?
+
+Build quality is important. I want this to last 5+ years if possible.
+
+Leave any finishing thoughts here that you may feel are necessary and beneficial to the discussion.
+
+No Lenovo, I'm here because my Legion 7 motherboard died for the second time, so I'd rather go with a different brand.
+
+I have SSDs and RAM from my deceased Legion 7, so I'm really just looking for good CPU, GPU, and screen.",SuggestALaptop,2025-09-30T16:48:56,Reddit
+Python,Azure auth problem with python,"    import duckdb
+    import 
+    os
+    
+    # Set up Azure credentials
+    os
+    .environ['AZURE_STORAGE_ACCOUNT'] = 'your_storage_account'
+    os
+    .environ['AZURE_STORAGE_ACCESS_KEY'] = 'your_storage_account_key'
+    
+    conn = 
+    duckdb
+    .connect()
+    
+    conn.execute(""INSTALL azure;"")
+    conn.execute(""LOAD azure;"")
+    
+    query = """"""
+    SELECT * FROM read_parquet('azure://your-container/path/to/file.parquet')
+    """"""
+    result = conn.execute(query).fetchall()
+
+  
+So we don't have AZURE\_STORAGE\_ACCESS\_KEY, use client\_id and secret instead. How to make this simple example work?  
+  
+ ",DuckDB,2025-09-30T16:48:43,Reddit
+Python,Hospedagem de Bots: O Que É e Como Escolher a Melhor Opção,"A **hospedagem de bots** vem ganhando cada vez mais espaço no mercado digital, principalmente com o crescimento do uso de automações em empresas, e-commerces e até projetos pessoais. Um bom serviço de hospedagem garante estabilidade, segurança e desempenho para que os bots funcionem sem interrupções.
+
+Mas afinal, o que é a [**hospedagem de bots**](https://squarecloud.app/pt-br/bots)? Trata-se de um serviço em nuvem ou em servidores dedicados que mantém programas automatizados ativos 24 horas por dia. Esses bots podem desempenhar diversas funções, como atendimento ao cliente, gerenciamento de redes sociais, envio de notificações, moderação de comunidades online ou integração com sistemas internos.
+
+Uma das principais vantagens é a disponibilidade. Com a **hospedagem de bots**, você não precisa manter seu computador ligado para que o programa funcione. O bot fica ativo no servidor, garantindo operação contínua e maior confiabilidade para tarefas importantes.
+
+Outro ponto essencial é a escalabilidade. À medida que a demanda aumenta, a **hospedagem de bots** permite expandir os recursos de memória, processamento e armazenamento, sem comprometer a performance. Isso é especialmente útil para projetos em crescimento.
+
+A segurança também é um fator decisivo. Bons provedores oferecem proteção contra ataques, backups automáticos e sistemas de monitoramento que asseguram o funcionamento dos bots sem falhas. Isso dá tranquilidade a empresas que dependem dessas automações no dia a dia.
+
+Além disso, a flexibilidade é um grande atrativo. A **hospedagem de bots** pode ser configurada para rodar diferentes linguagens e frameworks, como Node.js, Python ou Java, atendendo desenvolvedores de diversas áreas.
+
+O custo-benefício é outro aspecto positivo. Hoje, é possível encontrar planos de **hospedagem de bots** acessíveis, que oferecem excelente performance a preços competitivos. Essa democratização do serviço permite que pequenos negócios e startups também adotem a tecnologia.
+
+Em resumo, investir em **hospedagem de bots** é garantir praticidade, segurança e eficiência para automações digitais. Seja para negócios, projetos pessoais ou comunidades online, contar com um servidor dedicado a manter seus bots ativos é um passo essencial para o sucesso no ambiente digital.",SeoProExpert,2025-09-30T16:47:42,Reddit
+Python,"📢 Ciandt is [hiring] a [Job-24880 ]Data Tech Lead - Databricks Architect, Brazil!","Company: Ciandt
+
+Location: Brazil Remote 📍
+
+Date Posted: September 29, 2025 📅
+
+Categories: #engineer#data#python#fulltime
+
+
+
+
+Apply &amp; Description 👉 https://jobboardsearch.com/redirect?utm_source=reddit&amp;utm_medium=bot&amp;utm_id=jobboarsearch&amp;utm_term=brenxor.com&amp;rurl=aHR0cHM6Ly9icmVueG9yLmNvbS9qb2ItZGV0YWlscy04NTc4OC0lNWJqb2IlMmIyNDg4MC0lNWRkYXRhLXRlY2gtbGVhZC0lMmItZGF0YWJyaWNrcy1hcmNoaXRlY3QlMmMtYnJhemls",jobboardsearch,2025-09-30T16:47:28,Reddit
+Python,"📢 Ciandt is [hiring] a [Job- 24624].Net Software Architect , Brazil!","Company: Ciandt
+
+Location: Brazil Remote 📍
+
+Date Posted: September 29, 2025 📅
+
+Categories: #senior#engineer#fullstack#devops#python#reactjs#java#automation#AI#dotnet#frontend#backend
+
+
+
+
+Apply &amp; Description 👉 https://jobboardsearch.com/redirect?utm_source=reddit&amp;utm_medium=bot&amp;utm_id=jobboarsearch&amp;utm_term=brenxor.com&amp;rurl=aHR0cHM6Ly9icmVueG9yLmNvbS9qb2ItZGV0YWlscy04NTg3Ny0lNWJqb2IlMmItMjQ2MjQlNWQubmV0LXNvZnR3YXJlLWFyY2hpdGVjdC0lMmMtYnJhemls",jobboardsearch,2025-09-30T16:47:05,Reddit
+Rust,Who Wants a Rusty Old Smartphone?,"If we’re talking about oxidized iron… probably nobody. If we’re talking about Rust the programming language, well, that might be a different story. Google agrees, and is working on bringing …read more",Hackaday,2025-09-24T11:00:10+00:00,NewsAPI
+Rust,The rules behing Rust functions,"Demystifying fn, Fn, FnMut, and FnOnce from everyday usage to compiler magic under the hood",Cuongle.dev,2025-09-10T20:58:34+00:00,NewsAPI
+Rust,Rust tool for generating random fractals,A Rust implementation of the 'Chaos Game' algorithm for generating fractal images from randomness. - benjaminrall/chaos-game,Github.com,2025-09-06T21:56:05+00:00,NewsAPI
+Rust,Why Zig Feels More Practical Than Rust,A deep dive into the practical advantages of Zig over Rust for building command-line interfaces.,Dayvster.com,2025-09-23T12:56:00+00:00,NewsAPI
+Rust,A Dumb Introduction to z3 using Rust,Exploring the world of constraint solvers with very simple examples.,Github.io,2025-09-15T11:46:45+00:00,NewsAPI
+Rust,Hyperion: Minecraft game engine for custom events,The most advanced Minecraft game engine built in Rust,Hyperion.rs,2025-09-17T02:23:10+00:00,NewsAPI
+Rust,The 9 Best Grills of 2025,"We grilled, smoked, seared, cleaned, and repeated to find the best. Our top-pick Weber is a tried and true classic.",Wired,2025-09-19T15:33:00+00:00,NewsAPI
+Rust,"Thunk: Build Rust program to support Windows XP, Vista and more","Build Rust program to support Windows XP, Vista and more - felixmaker/thunk",Github.com,2025-09-01T17:57:06+00:00,NewsAPI
+Rust,RustGPT: A pure-Rust transformer LLM built from scratch,An transformer based LLM. Written completely in Rust - tekaratzas/RustGPT,Github.com,2025-09-15T09:47:18+00:00,NewsAPI
+Rust,Abstract Machine Models Also: what Rust got particularly right,"Ever since 2010, I have studied the “meta” of software, by studying (and thinking about) the continued dialogue between programming language designers, computer designers, and programmers. The following constitutes a snapshot of my current thinking. Epistemol…",Dr-knz.net,2025-08-31T02:20:10+00:00,NewsAPI
+Rust,Sharing a mutable reference between Rust and Python,"Background As part of my ongoing project to reimplement Django’s templating language in Rust, I have been adding support for custom template tags.
+Simple tags The simplest custom tag will look something like:
+# time_tags.py from datetime import datetime from …",Lilyf.org,2025-09-03T13:30:25+00:00,NewsAPI
+Rust,Writing a Hypervisor in 1k Lines,"Writing a Hypervisor in 1,000 Lines",Seiya.me,2025-08-29T22:12:51+00:00,NewsAPI
+Rust,I built Foyer: a Rust hybrid cache that slashes S3 latency,"How RisingWave built Foyer, a hybrid caching library in Rust to beat S3 latency",Dataengineerthings.org,2025-09-23T16:25:13+00:00,NewsAPI
+Rust,"Beyond OpenMP in C++ and Rust: Taskflow, Rayon, Fork Union",TL;DR: Most C++ and Rust thread-pool libraries leave significant performance on the table - often running 10× slower than OpenMP on classic fork-join workloads and micro-benchmarks. So I’ve drafted a minimal ~300-line library called Fork Union that lands with…,Ashvardanian.com,2025-09-28T08:53:36+00:00,NewsAPI
+Rust,"Resizing images in Rust, now with EXIF orientation support","A new version of Rust's image crate has support for EXIF orientation, which allows me to resize images without mangling their rotation.",Alexwlchan.net,2025-09-09T10:31:22+00:00,NewsAPI
+Rust,Engineering a fixed-width bit-packed integer vector in Rust,"Design and implementation of a memory-efficient, fixed-width bit-packed integer vector in Rust, with extremely fast random access.",Lukefleed.xyz,2025-09-24T15:17:08+00:00,NewsAPI
+Rust,From Rust to Reality: The Hidden Journey of Fetch_max,A compiler deep-dive tracing Rust’s AtomicU64::fetch_max from macro expansion and rustc intrinsics through LLVM’s atomicrmw umax and AtomicExpandPass to the final x86-64 CAS loop,Questdb.com,2025-09-23T21:24:45+00:00,NewsAPI
+Rust,We still chose C++ (instead of Rust) for new database development,"Discover why we chose C++ for EloqKV, focusing on its scalability, efficiency, and durability over languages like Rust and Go.",Eloqdata.com,2025-09-26T18:46:50+00:00,NewsAPI
+Rust,The Moon is Rusting - Thanks To 'Wind' Blown All the Way From Earth,"The Moon is rusting -- and it's Earth's fault. Nature: Scientists have found that oxygen particles blown from Earth to the Moon can turn lunar minerals into hematite, also known as rust. The discovery adds to researchers' growing understanding of the deep int…",Slashdot.org,2025-09-22T23:50:00+00:00,NewsAPI
+Rust,2025 Hackaday Superconference: Announcing our Workshops and Tickets,"Can you feel the nip of fall in the air? That can only mean one thing: Supercon is just around the corner. The next few weeks are going to bring a blitz of Supercon-related reveals, and we’re…",Hackaday,2025-09-23T17:00:20+00:00,NewsAPI
+Rust,Jianglin Steel Unveils Comprehensive Buyer Guide for Octagonal Steel Bar Selection,"Choosing the right Octagonal Steel Bar [https://jianglinsteel.com/octagonal-steel-bar/] can save time, cut costs, and improve part performance. Buyers face many choices: grade, finish, tolerance, and supply chain. This guide explains what matters. It helps global buyers from Europe to Southeast Asia",openpr,2025-09-29T23:06:03,NewsData
+Rust,How to Send Diwali Gift Hampers to Friends and Family in the USA,"Image: https://www.abnewswire.com/upload/2025/09/a6429d8108b89e4946b464ec2ee6d809.jpgWondering how to send Diwali gifts in the USA? Here's your ultimate guide to heartfelt hampers and personalized surprises.Diwali 2025 is a festival all about lights and joy. It is a time when families gather to enjoy, share sweet",openpr,2025-09-29T22:56:03,NewsData
+Rust,Jimmy Jones Rustic Gallery: Practicing the art of second chances,"If he isn't ministering to prisoners or preaching on Sunday, the Reverend Jones is making the most of his own second chance in life to make sure as many different objects and people get theirs, too.",kfor,2025-09-29T22:39:34,NewsData
+Rust,Toronto Trailers Highlights Proven Methods for Creating Secure Loads Using E-Track and F-Track Systems,"When it comes to transporting goods safely, securing your load is essential. One of the most efficient and reliable ways to do this is by using E-Track and F-Track systems, along with logistic straps. These systems provide a versatile, strong",openpr,2025-09-29T22:24:04,NewsData
+Rust,Greensideupcontracting Unveils Expert Guide to Designing Multi-Level Decks for Sloped Yards,"Designing a multi-level deck for a sloped yard can transform a challenging outdoor space into a functional and beautiful extension of your home. Sloped yards often present problems like uneven ground and drainage issues, but with the right design, you",openpr,2025-09-29T22:10:04,NewsData
+Rust,"Rest vs. rust: How Mariners are handling off week before ALDS - Mon, 29 Sep 2025 PST",SEATTLE – Rust vs. rest.,spokesman,2025-09-29T21:48:00,NewsData
+Rust,The terrorist in my bedroom wardrobe: Joe and the forgotten bombs of Bali,"20 years on, survivor of 2005 Bali terror bombings tells his story.",bluemountainsgazette,2025-09-29T21:30:00,NewsData
+Rust,The terrorist in my bedroom wardrobe: Joe and the forgotten bombs of Bali,"20 years on, survivor of 2005 Bali terror bombings tells his story.",bordermail,2025-09-29T21:30:00,NewsData
+Rust,The terrorist in my bedroom wardrobe: Joe and the forgotten bombs of Bali,"20 years on, survivor of 2005 Bali terror bombings tells his story.",braidwoodtimes,2025-09-29T21:30:00,NewsData
+Rust,Andrew Callahan: Patriots flash new potential in Panthers blowout; can they fulfill it?,"FOXBOROUGH, Mass. — You’re forgiven if you forgot what that looked like.",kdhnews,2025-09-29T21:11:42,NewsData
+Rust,A Lot Of Rust Code Lining Up For The Linux 6.18 Kernel,,Phoronix,2025-09-30T17:21:08.616860,GoogleNews
+Rust,"Common mineral ‘green rust’ could make hydrogen cars, ships a reality",,Interesting Engineering,2025-09-30T17:21:08.617495,GoogleNews
+Rust,"Malicious Rust Crates Steal Solana and Ethereum Keys — 8,424 Downloads Confirmed",,The Hacker News,2025-09-30T17:21:08.618100,GoogleNews
+Rust,Safe C++ proposal all but abandoned in favor of profiles,,theregister.com,2025-09-30T17:21:08.618658,GoogleNews
+Rust,Microsoft’s Rust Bet: From Blue Screens to Safer Code,,The New Stack,2025-09-30T17:21:08.619211,GoogleNews
+Rust,Orange Crabs in the Machine: How Rust is rewriting the rules of modern software,,GeekWire,2025-09-30T17:21:08.619755,GoogleNews
+Rust,"The Moon Is Rusting, And It's All Earth's Fault",,ScienceAlert,2025-09-30T17:21:08.620268,GoogleNews
+Rust,Malicious Rust packages on Crates.io steal crypto wallet keys,,BleepingComputer,2025-09-30T17:21:08.620770,GoogleNews
+Rust,"Cloudflare just got faster and more secure, powered by Rust",,The Cloudflare Blog,2025-09-30T17:21:08.621270,GoogleNews
+Rust,Mysterious moon rust explained by oxygen coming from Earth's 'wind',,Phys.org,2025-09-30T17:21:08.622135,GoogleNews
+Rust,Linzy named Assistant Women’s Basketball Coach at Rust College,,Women's HoopDirt,2025-09-30T17:21:08.622778,GoogleNews
+Rust,Scientists discover cars of the future might literally run on rust,,supercarblondie.com,2025-09-30T17:21:08.623302,GoogleNews
+Rust,Three Rust Belt cities to visit via nonstop flights from St. Louis,,St. Louis Magazine,2025-09-30T17:21:08.623836,GoogleNews
+Rust,The moon is rusting,,The Week,2025-09-30T17:21:08.624326,GoogleNews
+Rust,Post Game: Rust (09.27.25),,NHL.com,2025-09-30T17:21:08.624809,GoogleNews
+Rust,Meet Your Neighbor – Choir teacher inspires young singers,,The Cedar Mill News,2025-09-30T17:21:08.625284,GoogleNews
+Rust,Mariners have the most wholesome plan possible to avoid playoff bye week rust,,Sodo Mojo,2025-09-30T17:21:08.625799,GoogleNews
+Rust,Ubuntu 25.10's Move To Rust Coreutils Is Causing Major Breakage For Some Executables,,Phoronix,2025-09-30T17:21:08.626293,GoogleNews
+Rust,Turning rust into fuel,,chemeurope.com,2025-09-30T17:21:08.626773,GoogleNews
+Rust,The Moon Is Rusting — And Earth Is To Blame,,The Weather Channel,2025-09-30T17:21:08.627259,GoogleNews
+Rust,Does anyone have a spare rusted sword?,"Got a Zacian from home, then sent it to violet, got the rusted sword, but when i sent it to shield, the sword was gone",PokemonSwordAndShield,2025-09-30T17:17:23,Reddit
+Rust,OBS Ford frame painting/coating,"Hello I have a 97 f250 that I did some frame repairs to. That is all good but I want to coat it. So far I wire wheeled it and sprayed a coat of rust reformer primer so it didnt flash rust. At this point I could wire wheel that back off, use Ospho, neutralize/clean that off, and do an epoxy primer with a black enamel top coat.
+
+I am just not sure which paints and primers to buy. I heard that the Majic 1 gal. Black Tractor Truck &amp; Implement Enamel Paint can be painted on with a brush and does require any additive but im not sure if thats true. Does tractor supply sell a good 2k epoxy primer that would work with that Enamel paint? I have also heard that people have used the rust oleum Pro paint and brushed it on. I am just looking for something I can get from store today! 
+
+Any input of what I should buy to get this done would be really helpful.
+
+ORRRRRR should I just do the POR 15 degreaser, metal prep, and the por 15 paint itself.",Autobody,2025-09-30T17:17:07,Reddit
+Rust,Is this normal Benchmade return procedure?,"Purchased my first Benchmade knife and received it with the lock mechanism almost in a rusted state as when I would move it to open it, you could feel the grind. Definitely didn't feel like a new ($300) knife, felt like a knife that had been sitting on open display and gone through several different seasons of weather.
+
+Did a chat with Benchmade support and they immediately said that wasn't normal and were going to send me a replacement with a return label. However I got no confirmation email other than an email asking me to rate their customer service and nothing showing up on my account when I log in either. Is this normal procedure? Only thing I have is a screenshot of the chat log with the rep, should I call and confirm this with their phone customer service or wait it out and hope it shows up.",knives,2025-09-30T17:16:05,Reddit
+Rust,Deserted Carnival: Calliope Echoes for Children Who Never Stopped Playing,"You can hear it before you see it. That’s the strange part. The music comes thin and cracked, drifting through dead trees like smoke. The old calliope still plays, though everyone swears the carnival shut down decades ago. I didn’t believe it at first not when the stories were whispered in cafeterias, nervous kids daring one another to cross the dusty field where the Ferris wheel rusts against the skyline. I thought it was a myth. But then, one evening, I walked that way myself. I thought I’d only pass by. I thought it wasn’t real.
+
+The song found me first air wheezing through busted brass pipes, uneven and wrong, like someone trying to remember a tune but forgetting the order with every breath. That’s when I smelled the faint, sweet burn of candied sugar. Imagine finding the scent of melting cotton candy when the midway is nothing but weeds and wire. That’s how it hooks you. It feels familiar. Warm. Almost like safety. And then the air begins to tighten around you, and it loses that warmth.
+
+I stepped closer. I shouldn’t have.
+
+The rides stand there, leaning forward, waiting. The carousel horses are frozen mid-gallop, their painted eyes peeled wide, chipped mouths open as if screaming. The games hang waiting too, prizes sagging in waterlogged rows, faded bears and rabbits with glassy eyes that look back. It feels like the moment just before lights turn on, just before the crowd comes pouring in except there is no crowd. Never again. But the carnival keeps itself alive, refusing to rot all the way through. And at the very center of it, I saw the calliope.
+
+It doesn’t look like it should work. Rust crawls across its pipes, wooden panels blackened by weather and age. And yet, as I stood there, the keys pressed down one by one, invisible hands pounding out that chipped and broken song. It wasn’t just sound it was an invitation.
+
+That’s when the children came.
+
+They aren’t alive anymore. You see it instantly. Their movements stick and jolt, like puppets with tangled strings. Their clothes are wrong too, from different decades, stiff with years of dust. But their faces God, their faces those are not young anymore. They aren’t children’s faces, not really. Skin stretched too thin. Eyes sunken dark with hunger. Teeth chattering, though not from cold. Have you ever seen someone smile while starving? That’s what it looks like.
+
+They came in shuffling groups, climbing down from Ferris-wheel seats, crawling out from the cracked funhouse mirrors, swinging stiff and slow from the monkey bars in the rusted playground beyond the gates. They whispered to each other in short, sharp bursts, giggling like kids playing hide and seek. But there was nothing playful in it. Their voices came out hollow, carved down by years of echoing through empty throats.
+
+One girl stepped forward. A dirty lace bow still clung to her hair. She tilted her head at me, listening, as if I had already joined their game. “Tag,” she rasped, and her smile spread too wide.
+
+The others followed her lead.
+
+They ran without running. It’s hard to explain. One moment they were at the rides, the next they were closer, skipping forward in perfect rhythm with the blare of the calliope. Every note pulled them quicker, closer, their laughter cutting sharper, building and building and building. I tried to step back but my legs felt stiff, sluggish, the air around me folding in, weighing me down. The sound vibrated inside my chest, pressing against my ribs like it belonged inside me, not in the air at all.
+
+The closer they came, the more real they felt not like ghosts, but like children who had never stopped playing, never stopped running, never stopped feeding off the carnival’s endless night. And I realized then that none of them looked older than twelve. They had been here a long, long time, but they weren’t allowed to grow. They were stuck between laughter and death, mouths stretching in the space between the two.
+
+“Play with us,” the girl whispered. Only her mouth moved this time, her words sliding into my ears without sound. “Just one game.”
+
+I don’t entirely remember what happened next. Running, maybe. Screaming though I couldn’t hear myself over the collapsing rush of music spilling from the calliope, louder and faster like organs tearing themselves apart. The rides spun. The lights snapped on for just a second, flooding the whole midway in white heat. I remember their faces in that flash children no longer, but dried husks carved into carnival masks, wide eyes and painted grins. Their fingers reached for me, thin as wires, twitching like claws, pulling at the air between us.
+
+I remember falling. And then waking.
+
+Not at home. Not in my bed.
+
+Here.
+
+The calliope is still playing now. I’ve been writing this while it screams in the background, because I don’t know what else to do. I’ve tried leaving. Every path I take bends back to the main gates. Beyond the field, only darkness. I can’t find the town anymore. What’s out there isn’t roads or grass or sky it’s something else, some endless black canvas that doesn’t end.
+
+The music doesn’t stop, not for a second. It’s playing outside this tent where I’m hiding, its notes shaking the canvas, pressing through the ground. Every time I close my eyes I feel the children drawing closer, circling. I hear their bare feet scuffing the gravel, hear them humming along with the tune.
+
+I think I understand now. I shouldn’t have come alone. Carnival games are always meant for two or more. That’s all they want. That’s why the gates keep opening every few years when someone wanders too close. Games can’t exist without players. And the children they never stop. They just wait for someone new to stumble inside.
+
+The girl is standing outside my tent now. I can see her shadow against the fabric. She’s smiling. I can feel it sharp against my skin. And her voice, even softer than before, seeps through the canvas:
+
+“Your turn.”",loudscarytruestories,2025-09-30T17:15:37,Reddit
+Rust,Subject 047: The Thing in the Mine | True Horror / Creepypasta,"I need to tell someone what happened down there. Maybe writing this out will help me make sense of it. Or maybe I just need to warn others.
+
+My name is Jake. I'm a coal miner in Appalachia. Was a coal miner. I don't think I can ever go back underground again.
+
+# The Beginning
+
+Another 12-hour shift. My hands were bleeding through my gloves, my back screaming with every swing of the pickaxe. But I kept going. I always keep going. My daughter Sarah has leukemia. Stage 3. Her treatment costs $340 every two weeks. Insurance doesn't cover half of it.
+
+So I dig. I bleed. I break my body in the darkness so she can live in the light.
+
+That day started like any other. Hard hat, LED headlamp, pickaxe over my shoulder. Down into the coal-black tunnels, wooden support beams creaking overhead, coal dust coating everything.
+
+*Strike. Strike. Strike.*
+
+The rhythm of survival. Each hit is a dollar. Each dollar is a dose of medicine. Each dose is another day for Sarah.
+
+# The Discovery
+
+Then my pickaxe hit something that shouldn't exist.
+
+*CLANG!*
+
+Not stone. Not coal. *Metal.*
+
+I brushed away the debris with my gloved hands. A steel door. Heavy, industrial, buried under years of rock and coal. Warning symbols were corroded away, but I could make out edges of text: ""...AUTHORIZED PERSONNEL ONLY..."" ""...BIOHAZARD...""
+
+Nobody knew this was here. No records. No maps. This section of the mine was abandoned in the 1970s.
+
+I should have reported it. Should have walked away. Should have let it stay buried.
+
+But I was curious. And tired. And stupid.
+
+The door groaned as I pulled it open. My LED beam barely penetrated the darkness beyond. Cold air rushed out – wrong air, stale and rotten.
+
+I stepped through.
+
+# The Laboratory
+
+My headlamp revealed an underground facility that shouldn't exist. Concrete floors cracked and stained. Metal examination tables overturned, leather restraints torn apart. Broken glass vials everywhere – hundreds of them, scattered like fallen stars.
+
+Medical equipment. Rusted IV stands. Surgical tools. Monitoring devices with shattered screens.
+
+And cages.
+
+Metal cages with bars bent outward from the *inside*. Deep claw marks scored into the walls. Restraints hanging loose, torn through.
+
+Whatever was kept here... escaped.
+
+On one wall, I found a faded document behind cracked glass:
+
+**PROJECT RESURRECTION** **Subject 047 - Status: CRITICAL FAILURE** **Age: 8 years** **Procedure: Cellular regeneration via tissue grafting** **Notes: Subject shows signs of consciousness but extreme aggression. Recommend immediate termination.**
+
+Eight years old.
+
+They experimented on a *child*.
+
+# The Sound
+
+That's when I heard it. Scratching. Slow, deliberate. Coming from the far corner of the lab, beyond my light's reach.
+
+My hands gripped the pickaxe tighter. My heart hammered against my ribs.
+
+""Hello?"" My voice cracked. ""Someone there?""
+
+The scratching stopped.
+
+Then I heard breathing. Wet, labored, struggling.
+
+My headlamp flickered – the battery dying at the worst possible moment. In the strobing light, I saw it:
+
+A pale shape. Crouched. Elongated limbs folded at wrong angles.
+
+*Flicker.*
+
+Glowing red eyes.
+
+*Flicker.*
+
+Black stitching across yellowish skin.
+
+*Flicker.*
+
+Numbers carved into its chest: **047**
+
+My headlamp steadied. And I saw Subject 047 in full.
+
+# The Monster
+
+It was humanoid. Six feet tall but skeletal, emaciated. Pale yellowish skin stretched over bones. Black surgical stitching crisscrossed its entire body – arms, legs, torso, face. Like someone had torn a person apart and sewn them back together wrong.
+
+Its limbs were too long. Too thin. Clearly attached surgically, different skin tones at the joints where they'd been grafted on.
+
+But the worst part? Its face.
+
+It still looked like a child. A child's features stretched and distorted. Eyes that glowed red like burning embers, but underneath... I could see they were still *human* eyes. Scared. Confused. In pain.
+
+It wore a tattered hospital gown – cream colored, stained, with ""047"" printed on the chest.
+
+We stared at each other. Man and monster. Predator and prey. Father and... another victim of a cruel world.
+
+# The Connection
+
+It moved closer. Not attacking – *crawling*. Its elongated limbs moved with jerky, puppet-like motions. It reached one stitched hand toward me, and I saw its fingers trembling.
+
+It tried to speak. Its mouth opened, vocal cords damaged by whatever they'd done, and only a rasping whisper emerged:
+
+""...hurts...""
+
+God. It was still in there. The child was still in there, trapped in this nightmare body.
+
+I lowered my pickaxe. ""I'm sorry,"" I whispered. ""I'm so sorry for what they did to you.""
+
+Its glowing red eyes flickered – and for just a moment, they looked normal. Brown. A child's eyes. It saw me. Really *saw* me.
+
+And I saw my daughter in its suffering.
+
+# The Change
+
+Then its body convulsed. It doubled over, clutching its stomach. The red glow in its eyes intensified.
+
+Hunger.
+
+It had been trapped down here for *decades*. Alone. Starving. Waiting.
+
+The connection we'd shared vanished. The human consciousness retreated behind primal need.
+
+It looked at me differently now. Not as a person. As *food*.
+
+""Wait—"" I started backing away. ""Wait, I can help—""
+
+It lunged.
+
+# The Chase
+
+I ran. Boots pounding coal dust, LED beam bouncing wildly off tunnel walls. Behind me, the creature pursued with unnatural speed, its elongated limbs carrying it in a horrific crawl.
+
+*Left tunnel. Right. Another left.*
+
+The mine was a maze. I'd worked here for three years and still got lost sometimes. Now I was running blind, my headlamp dying, the creature's glowing red eyes visible in my peripheral vision.
+
+*Gaining. It was gaining.*
+
+I turned a corner and slammed into solid rock. Dead end. I'd taken a wrong turn.
+
+I spun around just as it reached me.
+
+# The End
+
+It tackled me to the ground. My headlamp flew off, clattering across the tunnel floor, casting crazy shadows. The creature's face was inches from mine, its breath cold and wrong.
+
+Those red eyes... they flickered again. Human. Monster. Human. Monster.
+
+It was fighting itself. The hunger versus what little humanity remained.
+
+I stopped struggling. My hands fell to my sides.
+
+""It's okay,"" I whispered, and I meant it. ""It's okay.""
+
+I thought of Sarah. My beautiful daughter. I'd been killing myself slowly in these mines to keep her alive. Working myself to death for medicine money.
+
+Maybe... maybe this was just a faster way to do the same thing.
+
+This creature – Subject 047 – it had been a child once too. Taken. Experimented on. Tortured. Left to suffer alone in the dark for decades.
+
+If my death could end its pain, even for a moment...
+
+""I understand,"" I told it. ""I'm a father too. I know what it's like to hurt for your child. To do anything to make their pain stop.""
+
+Its red eyes dimmed. Tears – actual tears – streaked down its stitched face.
+
+It was grateful. And sorry. And so, so tired.
+
+My last thought before everything went dark was simple:
+
+*At least my suffering fed another child.*
+
+# Epilogue
+
+They found my hard hat three days later. My pickaxe. My wedding ring in the tunnel.
+
+They never found me.
+
+They sealed that section of the mine. Said it was structurally unsound. Dangerous. Nobody goes down there now.
+
+But sometimes, miners in nearby tunnels report strange sounds. Scratching. Breathing. Crying.
+
+And once, just once, someone's headlamp caught something moving in the deep darkness. Something pale. Something stitched together. Something with glowing red eyes that looked almost... peaceful.
+
+Subject 047 isn't hungry anymore.
+
+But it's still down there.
+
+Still waiting.
+
+Still alone.
+
+**If you're reading this and you work underground – in mines, in tunnels, in caves – please. Be careful. Not everything buried should be found.**
+
+**And not every monster chose to become one.**
+
+**\[End\]**
+
+# Author's Note:
+
+This story was created as part of a horror fiction project combining narrative writing with AI-generated imagery. The full visual version of Subject 047's story is available on YouTube with 30+ scenes bringing this tragic tale to life.
+
+**🎬 Watch the full visual story on YouTube:** SIGHTEDTUBE
+
+If you enjoyed this story, please consider:
+
+* Subscribing to the channel for more horror content
+* Sharing your thoughts and theories in the comments
+* Suggesting ideas for future horror stories
+
+**⚠️ Content Warning:** The YouTube version contains disturbing imagery, horror elements, and mature themes. Viewer discretion advised.
+
+ \#HorrorStory #CreepyPasta #NoSleep #UndergroundHorror #TrueHorror #ScaryStory #MiningHorror #Subject047",Sightedtube,2025-09-30T17:15:06,Reddit
+Rust,Octopus Energy – £50 bonus credit for switching or up to £100 for green technology installation,"Octopus Energy are offering **£50 bill credit** for both referrer and referee when you switch both gas and electric to them using a referral link. They offer a unique ""Tracker"" tariff where their daily price follows the wholesale energy price, and it's cheaper than a fixed price tariff. 
+
+Octopus may ask for details of the person who referred them, so please note down my username in case they ask so you can contact me.
+
+
+**Instructions:**
+
+1. Sign up using my referral link: **https://share.octopus.energy/rust-prawn-381** (read on for info about my other referral links)
+2. Enter your post code and follow the steps to create a quote and compare this price against your current provider
+3. Proceed with the switch
+4. Receive confirmation email
+3. **Both you and I receive £50 credit** after your first payment has been taken
+
+There are no exit fees, so you can always leave Octopus if you are not satisfied.
+
+
+
+*I also have separate links for those who book a green technology installation*
+
+[Link to book a heat pump or solar panels installation through Octopus](https://tech.referrals.octopus.energy/us3cRbXA). **This gives a £100 gift card**. 
+
+[Link to book Electric vehicle charger installation referral link](https://tech.referrals.octopus.energy/uXBe1wHE) **This gives a £25 gift card**. 
+
+
+
+Non-referral link (no bonus): https://octopus.energy/
+",beermoneyuk,2025-09-30T17:13:36,Reddit
+Rust,Laser Rust Removal Machine | Fast &amp; Precise Cleaning,"Upgrade your cleaning process with our[ laser rust removal machine](https://printandlaser.com/product/300w-500w-pulse-laser-cleaning-machine-laser-metal-rust-remover-laser-rust-oil-paint-coating-fine-cleaning-machine/). It provides non-abrasive, eco-friendly rust removal for metals and machinery. Perfect for workshops, industries, and restoration projects, this advanced technology ensures long-lasting results while saving time and maintenance costs. Experience cleaner surfaces with modern laser innovation.",u_printandlaser,2025-09-30T17:11:35,Reddit
+Rust,"[Store] 300+ KNIVES AND GLOVES e.g. Cool Mint FT &amp; Vice FT and WW &amp; Slingshot FT, Butterfly Slaughter FN &amp; Rust Coat &amp; Crimson BS, Talon Tiger Tooth &amp; Vanilla &amp; Slaughter FT, M9 Doppler FN P3 &amp; Vanilla ST, Bayonet Gamma Doppler FN P2, Skeleton Ruby FN ST &amp; Marble Fade FN &amp; Slaughter FN &amp; many more","Taking CS skins mainly (knives, gloves, aks, m4s, awps and so on). Anything as long as offer is good.
+
+I don't update this list everyday, so I have many items which aren't listed here. Check if something interests you! Also, some of the items are on trade hold, for release date you can add me and ask.
+
+TRADE LINK: [https://steamcommunity.com/tradeoffer/new/?partner=35769104&amp;token=J30wyEpy](https://steamcommunity.com/tradeoffer/new/?partner=35769104&amp;token=J30wyEpy)
+
+Add me to talk here: [https://steamcommunity.com/profiles/76561197996034832](https://steamcommunity.com/profiles/76561197996034832)
+
+Gloves/wraps:
+
+Gloves Cool Mint FT - B/O 2000$
+
+Gloves Crimson Weave FT - B/O 1350$
+
+Gloves Vice FT - B/o 1180$
+
+Gloves Slingshot FT - B/O 980$
+
+Gloves Vice WW - B/O 920$
+
+Gloves Amphibious FT - B/O 910$
+
+Gloves Lunar Weave FT - B/O 700$
+
+Gloves Slingshot WW - B/O 680$
+
+Gloves Boom FT - B/O 590$
+
+Gloves Arid BS - B/O 530$
+
+Gloves Snow Leopard WW - B/O 480$
+
+Wraps Cobalt Skulls FT - B/O 475$
+
+Gloves Scarlet Shamagh FT - B/O 450$
+
+Wraps Badlands FT - B/O 430$
+
+Gloves Turtle MW - B/O 420$
+
+Gloves Big Game FT - B/o 395$
+
+Gloves Crimson Web FT - B/O 340$
+
+Gloves Fade WW - B/O 315$
+
+Gloves Marble Fade FT - B/O 300$
+
+Gloves Black Tie FT - B/O 290$
+
+Wraps CAUTION FT - B/O 261$
+
+Gloves Crimson Web WW - B/O 257$
+
+Wraps Leather BS - B/O 251$
+
+Gloves Big Game BS - B/O 246$
+
+Gloves Blood Pressure FT - B/O 243$
+
+Gloves Bronzed MW - B/O 231$
+
+Gloves Field Agent WW - B/O 231$
+
+Gloves Black Tie WW - B/O 231$
+
+Gloves Lt. Commander FT - B/O 228$
+
+Gloves Fade BS - B/O 208$
+
+Gloves King Snake BS - B/O 205$
+
+Gloves Polygon WW - B/O 201$
+
+Wraps CAUTION BS - B/O 199$
+
+Gloves Yellow-banded MW - B/O 195$
+
+Wraps Duct Tape MW - B/O 185$
+
+Gloves Turtle FT - B/O 180$
+
+Gloves Lt. Commander BS - B/O 171$
+
+Gloves Smoke Out BS - B/O 163$
+
+Gloves Jade FT - B/O 160$
+
+Gloves Unhinged MW - B/O 157$
+
+Gloves Guerrilla BS - B/O 156$
+
+Gloves Snakebite FT - B/O 138$
+
+Gloves Case Hardened FT - B/O 135$
+
+Gloves Rezan the Red BS - B/O 128$
+
+Gloves Racing Green MW - B/O 121$
+
+Gloves Snakebite BS - B/O 121$
+
+Gloves Turtle BS - B/O 119$
+
+Gloves Bronzed BS - B/O 107$
+
+Gloves Buckshot MW - B/O 103$
+
+Gloves Unhined FT - B/O 94$
+
+Gloves Queen Jaguar BS - B/O 91$
+
+Gloves Needle Point WW - B/O 87$
+
+Gloves 3rd Commando Company FT - B/O 84$
+
+Gloves Needle Point BS - B/O 81$
+
+Gloves Rattler WW - B/O 69$
+
+Gloves Racing Green FT - B/O 63$
+
+Gloves Rattler FT - B/O 63$
+
+Knives and high tier items:
+
+Butterfly Slaughter FN - B/O 3000$
+
+Butterfly Rust Coat BS - B/O 990$
+
+Butterfly Rust Coat BS ST - B/O 981$
+
+Butterfly Crimson Web BS - B/O 980$
+
+Butterfly Urban Masked FT - B/O 815$
+
+Butterfly Safari Mesh FT - B/O 780$
+
+Karambit Freehand FT - B/O 911$
+
+Karambit Boreal Forest MW - B/O 770$
+
+Karambit Urban Masked FT - B/O 705$
+
+Karambit Safari Mesh FT - B/O 650$
+
+M9 Doppler FN P3 - B/O 1980$
+
+M9 Vanilla ST - B/O 1400$
+
+M9 Crimson Web FT - B/O 770$
+
+M9 Freehand FT - B/O 666$
+
+Bayonet Doppler FN P4 - B/O 746$
+
+Bayonet Marble Fade FN - B/o 670$
+
+Bayonet Lore MW - B/O 575$
+
+Bayonet Tiger Tooth FN - B/O 550$
+
+Bayonet Autotronic FT - B/O 460$
+
+Bayonet Case Hardened WW - B/O 375$
+
+Bayonet Lore BS - B/O 360$
+
+Bayonet Night MW - B/O 313$
+
+Bayonet Crimson Web BS - B/O 278$
+
+Bayonet Freehand FT - B/O 277$
+
+Bayonet Urban Masked FT - B/O 209$
+
+Bayonet Scorched BS - B/O 206$
+
+Bayonet Forest Ddpat BS - B/O 191$
+
+Talon Tiger Tooth FN - B/O 831$
+
+Talon Slaughter FT - B/O 777$
+
+Talon Vanilla - B/O 580$
+
+Talon Vanilla ST - B/O 561$
+
+Talon Damascus Steel FT - B/o 491$
+
+Talon Forest Ddpat MW - B/O 365$
+
+Talon Safari Mesh FT - B/O 303$
+
+Skeleton Ruby FN ST - B/O 5300$
+
+Skeleton Doppler FN ST P3 - B/O 1260$
+
+Skeleton Marble Fade FN - B/O 885$
+
+Skeleton Slaughter FN - B/O 855$
+
+Skeleton Vanilla - B/O 626$
+
+Skeleton Stained BS - B/O 308$
+
+Skeleton Rust Coat BS - B/O 270$
+
+Skeleton Boreal Forest FT - B/O 207$
+
+Skeleton Boreal Forest FT ST - B/O 206$
+
+Stiletto Doppler FN P1 - B/O 865$
+
+Stiletto Slaughter FN - B/o 655$
+
+Stiletto Slaughter MW - B/O 561$
+
+Stiletto Slaughter FT - B/O 560$
+
+Stiletto Vanilla - B/O 395$
+
+Stiletto Crimson Web FT - B/O 370$
+
+Stiletto Safari Mesh FN - B/O 322$
+
+Stiletto Blue Steel WW ST - B/O 320$
+
+Kukri Slaughter FN - B/O 338$
+
+Kukri Night FN - B/O 280$
+
+Kukri Case Hardened MW - B/O 232$
+
+Kukri Crimson Web FT ST - B/O 200$
+
+Classic Blue Steel MW - B/O 223$
+
+Classic Blue Steel FT - B/O 207$
+
+Classic Stained MW - B/O 188$
+
+Classic Stained FT - B/O 180$
+
+Classic Night MW - B/O 178$
+
+Classic Stained FT ST - B/O 176$
+
+Classic Scorched MW - B/O 167$
+
+Classic Urban Masked FT - B/O 161$
+
+Classic Stained BS - B/O 154$
+
+Ursus Fade FN - B/O 456$
+
+Ursus Slaughter FN - B/O 332$
+
+Ursus Tiger Tooth FN - B/O 287$
+
+Ursus Blue Steel FT ST - B/O 189$
+
+Ursus Scorched FT - B/O 133$
+
+Flip Doppler FN P1 - B/O 588$
+
+Flip Marble Fade FN - B/O 480$
+
+Flip Slaughter MW - B/O 433$
+
+Flip Tiger Tooth FN - B/O 391$
+
+Flip Autotronic FT - B/O 303$
+
+Flip Crimson Web BS - B/O 236$
+
+Flip Bright Water FT - B/O 205$
+
+Flip Ultraviolet BS - B/O 205$
+
+Flip Rust Coat BS - B/O 197$
+
+Flip Stained FT - B/O 196$
+
+Huntsman Marble Fade FN - B/O 355$
+
+Huntsman Case Hardened FT - B/O 252$
+
+Huntsman Crimson Web FT - B/O 182$
+
+Huntsman Safari Mesh BS - B/O 122$
+
+Nomad Vanilla - B/O 379$
+
+Nomad Damascus Steel MW - B/O 286$
+
+Nomad Stained BS - B/O 210$
+
+Nomad Night FT - B/o 183$
+
+Bowie Doppler FN P2 - B/O 557$
+
+Bowie Lore FN ST - B/o 503$
+
+Bowie Gamma Doppler FN P1 - B/O 405$
+
+Bowie Fade FN - B/O 392$
+
+Bowie Lore FN - B/O 354$
+
+Bowie Marble Fade FN - B/O 318$
+
+Bowie Case Hardened MW - B/O 287$
+
+Bowie Black Laminate MW - B/O 144$
+
+Bowie Black Laminate FT - B/O 129$
+
+Bowie Black Laminate BS - B/O 122$
+
+Bowie Rust Coat BS - B/O 106$
+
+Falchion Slaughter MW - B/O 307$
+
+Falchion Tiger Tooth FN - B/O 254$
+
+Falchion Lore MW - B/O 215$
+
+Falchion Vanilla - B/O 195$
+
+Falchion Damascus Steel FN - B/O 191$
+
+Falchion Crimson Web FT - B/O 188$
+
+Falchion Blue Steel BS - B/O 186$
+
+Falchion Freehand FT - B/O 155$
+
+Falchion Forest Ddpat MW - B/O 135$
+
+Falchion Scorched FT - B/O 125$
+
+Falchion Boreal Forest FT - B/O 122$
+
+Paracord Doppler FN P3 - B/O 386$
+
+Paracord Fade FN - B/O 318$
+
+Paracord Slaughter FN - B/O 286$
+
+Paracord Marble Fade FN - B/O 259$
+
+Paracord Slaughter MW - B/O 238$
+
+Paracord Blue Steel MW - B/O 156$
+
+Paracord Vanilla ST - B/O 145$
+
+Paracord Blue Steel BS - B/O 138$
+
+Paracord Scorched FT - B/O 95$
+
+Paracord Rust Coat BS - B/O 92$
+
+Paracord Forest Ddpat FT - B/O 88$
+
+Survival Fade - B/O 295$
+
+Survival Slaughter FN - B/O 242$
+
+Survival Marble Fade FN - B/O 240$
+
+Survival Slaughter FT - B/O 236$
+
+Survival Slaughter MW - B/O 218$
+
+Survival Tiger Tooth FN - B/O 201$
+
+Survival Case Hardened FT - B/O 168$
+
+Survival Crimson Web WW - B/O 161$
+
+Survival Stained FT - B/O 119$
+
+Survival Boreal Forest FT ST - B/O 109$
+
+Survival Rust Coat BS - B/O 91$
+
+Gut Lore FN - B/O 265$
+
+Gut Fade FN - B/O 224$
+
+Gut Slaughter FN - B/O 206$
+
+Gut Marble Fade FN - B/O 205$
+
+Gut Tiger Tooth FN ST - B/O 200$
+
+Gut Tiger Tooth FN - B/O 184$
+
+Gut Case Hardened FT - B/O 161$
+
+Gut Freehand FN - B/O 142$
+
+Gut Freehand MW - B/O 140$
+
+Gut Crimson Web FT - B/O 133$
+
+Gut Ultraviolet FT ST - B/O 130$
+
+Gut Vanilla - B/O 130$
+
+Gut Blue Steel WW - B/O 129$
+
+Gut Black Laminate FT - B/O 114$
+
+Gut Ultraviolet FT - B/O 111$
+
+Daggers Doppler FN P4 - B/O 245$
+
+Daggers Gamma Doppler FN P3 - B/O 188$
+
+Daggers Slaughter FN - B/O 182$
+
+Daggers Marble Fade FN - B/O 178$
+
+Daggers Tiger Tooth FN - B/O 156$
+
+Daggers Autotronic MW - B/O 125$
+
+Daggers Freehand FN - B/O 125$
+
+Daggers Autotronic BS - B/O 101$
+
+Daggers Urban Masked FT - B/O 98$
+
+Navaja Fade FN - B/O 184$
+
+Navaja Tiger Tooth FN ST - B/O 168$
+
+Navaja Slaughter FN - B/O 164$
+
+Navaja Case Hardened MW - B/O 137$
+
+Navaja Crimson Web FT - B/O 112$
+
+Navaja Ultraviolet MW - B/O 111$
+
+Navaja Ultraviolet FT ST - B/O 111$
+
+Navaja Ultraviolet WW - B/O 90$
+
+Navaja Rust Coat BS - B/O 83$
+
+AK Fire Serpent BS - B/O 602$
+
+M4 Fade FN - B/O 587$
+
+AK Jet Set FT - B/O 461$
+
+M4 In Living Color FN - B/O 311$
+
+M4 Master Piece MW - B/O 293$
+
+M4 Printstream FT - B/O 261$
+
+M4 Eye of Horus FT - B/O 245$
+
+Glock Gamma Doppler FN - B/O 238$
+
+AK Panhtera Onca FT - B/O 231$
+
+M4 Atomic Alloy FN - B/O 214$
+
+USP Kill Confirmed MW - B/O 210$
+
+USP Orion FN - B/O 209$
+
+AWP Graphite FN - B/O 206$
+
+AWP Containment Breach MW - B/o 196$
+
+USP Whiteout MW - B/O 196$
+
+M4 Neo Noir FN - B/o 195$
+
+AK Case Hardened BS - B/O 195$
+
+AK Case Hardened WW - B/O 194$
+
+M4 Golden Coil BS ST - B/O 182$
+
+AWP Oni Taiji WW - B/O 182$
+
+M4 Master Piece FT Souvenir - B/O 166$
+
+AK The Outsiders FN - B/O 161$
+
+USP Monster Mashup FN - B/O 151$
+
+AK Fuel Injector BS - B/O 144$
+
+USP Orion MW ST - B/O 140$
+
+M4 Golden Coil FT ST - B/O 140$
+
+M4 The Coalition FT - B/O 138$
+
+M4 Eye of Horus BS - B/O 137$
+
+M4 Master Piece MW - B/O 134$
+
+AWP Asiimov FT - B/O 133$
+
+Deagle Cobalt Disruption FN - B/O 128$
+
+M4 Chantico's Fire MW ST - B/O 127$
+
+D Squadron Officer | NZSAS - B/O 125$
+
+M4 Desolate Space FN - B/O 123$
+
+AK Inheritance MW - B/O 119$
+
+USP Neo Noir FN - B/O 110$
+
+Bloody Darryl The Strapped - B/O 98$
+
+AK Neon Rider FT ST - B/O 96$
+
+AK Leet Museo FT ST - B/O 94$
+
+M4 Buzz Kill MW - B/O 90$
+
+Number K - B/O 89$",GlobalOffensiveTrade,2025-09-30T17:07:51,Reddit
+Rust,Animated cover,[https://www.reddit.com/r/steamgrid/comments/dgtwb7/c\_rust\_design\_is\_from\_the\_poster\_they\_sell\_in\_the/?utm\_source=share&amp;utm\_medium=web3x&amp;utm\_name=web3xcss&amp;utm\_term=1&amp;utm\_content=share\_button](https://www.reddit.com/r/steamgrid/comments/dgtwb7/c_rust_design_is_from_the_poster_they_sell_in_the/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button),savevideoL,2025-09-30T16:52:18,Reddit
+Rust,[EU] Vultaic | 2x Solo/Duo/Trio - Weekly Wipes on Monday,"**Vultaic** is a new server with **high performance** and **no pay to win** at all!
+
+# Server Information
+
+* 2x Gather and Stack Size
+* Maximum of 3 players in a group
+* Weekly wipes every Monday at 16:00 CEST
+* **Zero** pay to win
+* Always open to suggestions and feedback
+
+If you're looking for a new server, give it a try. Always down to chat about Rust, whether you need help with anything technical, beginner questions, want to discuss upcoming updates or have ideas about the server and what would make it better. I've been playing this game for years and have seen some wild sh\*t with servers already.. From toxic admins to admin abuse and cheaters that are running around without active admins.
+
+Even if you are not planning to play here at all or barely, I would appreciate any kind of feedback. Are you looking into this kind of server and what are your needs? Do you prefer vanilla or modded? Team limit or not? What makes you stick with a server long term?
+
+# Server Details
+
+**Name**: \[EU\] Vultaic | 2x Solo/Duo/Trio
+
+**Wipe Schedule**: Every Monday at 16:00 CEST
+
+**Location**: Europe
+
+**Discord**: [https://discord.gg/UBXZTYM23x](https://discord.gg/UBXZTYM23x)",RustPc,2025-09-30T16:52:01,Reddit
+Rust,Subway Station — survivors know: the best loot’s underground… and so are the worst nightmares | Battlemap | 40x30,"Beneath the ruined city, the subway station lies broken and silent. Cracked platforms stretch between rusted rails, while dead escalators lead to entrances buried in debris. Shattered ticket booths, scorched bathrooms, and dark utility rooms offer both cover and danger. In the flicker of failing lights, raiders, ghouls, and worse wait in the shadows—every corner a gamble between scavenged survival and sudden death.
+
+[DOWNLOAD THE PACK HERE](https://www.patreon.com/posts/138784821)
+
+40x30 | 100 ppi | Gridded &amp; Non-Gridded
+
+Patrons can unlock all of the variants in this pack to jump right into the action. Discover more of my work on my [Patreon Map Archive](https://www.patreon.com/posts/map-database-132277939). Grab free versions of all my maps, no pledge required.
+
+Station - Crime Scene - Clean - Night Vision - Dark - Wasteland - With &amp; Without Trains",Fallout2d20,2025-09-30T16:47:58,Reddit
+Rust,Battlegrounds games should die already!,"I have 11k kills on heros and I took a break from those games for a year and I came back to see what was new I admit I was rust and had a skill issue on my end but after play the game for 3 months and brushing up on my skills I can say I am done with these games the only sweats on these games are headless emos, furrys, and femboys with 20-30k kills and they know every high damage or 100% combo and I am tired of sweating off 20 pounds just to win one fight and then they come running back because I damaged their ego then after we go back and fourth killing eachother till one of us gets a killstreak then leaves, I am tired of hanging on the edge my seat everytime I fight these no lifes and in all honest these games needs to die. PLEASE!",roblox,2025-09-30T16:44:54,Reddit
+Rust,The Mystery of the PKR 2.85 Million Honda City: Why Buying a Used Car in Pakistan Is an Existential Crisis,"My Encounter with the $10,000 Time Capsule
+
+I thought I was prepared for the chaos of Pakistan’s used car market, but then I stumbled upon the listing: a 2008 Honda City i-DSI Vario asking for a staggering PKR 2.85 million.
+Let that number sink in. This is a 17-year-old car, being sold for nearly three times its original value. The seller’s justification, proudly listed on the ad? “First Owner” and, the Holy Grail of Pakistani car sales, “Genuine Paint.”
+Intrigued, and slightly disturbed, I reached out. My offer was a generous PKR 2 million—still a high price for its age. The seller’s reaction wasn’t just a rejection; it was a digital sneer. He was genuinely offended, as if I had insulted his prized, appreciating asset. It was clear: the price was non-negotiable, fixed not by the car’s mechanical health, but by a superficial claim to its cosmetic history.
+That interaction was a breaking point. It forced me to ask: What bizarre, upside-down logic governs used car pricing in this country?
+
+The Bizarre Logic Behind Used Car Pricing (Where Up is Down)
+
+The problem, as I quickly realised, runs far deeper than a single over-priced Honda. It’s a systemic delusion that warps the entire transaction.
+
+1.	The Paint Job Doesn’t Make the Engine Go “Vroom”
+
+Let’s address the obsession. In Pakistan, the paint condition is disproportionately valued. A car with “genuine paint”—meaning it has never been repainted—commands an instant, significant premium.
+Why? Because any repaint is immediately flagged by buyers as evidence of a major accident, regardless of how minor the damage actually was. This creates a market where sellers prioritize the superficial over the mechanical. The car’s engine could be sputtering its last breath, the transmission could be slipping into oblivion, and the suspension could be shot—but if the original coat of factory paint is intact, the price is artificially inflated.
+We are, essentially, collectively misled. We pay a premium for a shiny veneer while ignoring the vital, expensive components that actually determine a car’s longevity and performance.
+
+2.	We Treat Cars as Assets, Not Liabilities
+
+This is the real kicker. In a functioning economy, a car is a depreciating asset—it loses value the second you drive it off the lot. In Pakistan, cars are often treated as a legitimate financial investment.
+This flawed mindset is driven by two things: a limited supply of new cars (thanks to high tariffs and low local production), and massive currency depreciation. People buy a car, believing it’s a safe place to park their money, expecting it to at least hold its value, if not appreciate.
+This self-fulfilling prophecy means sellers feel justified in setting absurd prices. If a 17-year-old car is being sold for nearly three times its original cost, it’s not because of inflation; it’s because the entire market is gripped by the delusion that a used car is a better investment than the bank.
+
+3.	The Dangerous Game of “Buyer Beware”
+
+The underlying tragedy is the sheer lack of transparency. When a car is sold, the buyer has almost nothing to rely on besides the seller’s assurance that the car is “fine.”
+There is no mandated, objective pre-sale inspection. A seller has zero incentive to disclose a costly problem like a failing head gasket or a shot gearbox. Why would they pay for a professional check that would only force them to lower their price? Buyers, lacking technical expertise, are forced to trust a seller looking to maximize profit, inevitably leading to people overpaying for cars that are far from “genuine” under the hood.
+
+The Fix: How to Bring Sanity Back to the Dealership
+
+After witnessing how completely broken the system is, the solution isn’t more negotiation; it’s systemic transparency and regulation. Here’s what needs to happen to level the playing field and stop the financial madness:
+
+1.	A Government-Authorized Vehicle Inspection: The Mandatory Check-Up
+
+The first, non-negotiable step is a standardized, government-mandated inspection for every used car listed for sale. This must go beyond basic registration renewal. The focus must be on mechanical health:
+
+ * Engine &amp; Drivetrain: Performance, leakage, and overall mechanical condition.
+
+ * Safety &amp; Structure: Suspension, brakes, tires, chassis integrity, and alignment.
+
+ * Electronics &amp; Interior: Functionality of all dashboard components, climate control, and safety features.
+
+ * Body Condition: Documenting dents, rust, and paintwork (but rating it realistically).
+
+These inspections must be conducted at official, independent government-run or accredited facilities to prevent bias and corruption.
+
+2.	A Standardized Vehicle Health Report and Rating System
+
+Once inspected, the vehicle must be assigned a clear, comprehensive, and publicly available report card. This report would grade key components like, grade and detailed against each parameter.
+Buyers could access this report instantly online via the car’s registration number. This single document would shift the power dynamic: the value would be based on facts, not seller anecdotes.
+
+3.	Fair Pricing Tied to Objective Condition
+
+With a standardized health report, an independent body (or the government itself) could establish a transparent price range for each car model based on its test results.
+This would fundamentally break the “Genuine Paint” market manipulation. A car with perfect paint but a failing engine would be priced lower than a car with a few repainted panels but an engine in ‘Excellent’ condition. It would force sellers to invest in maintenance, not just cosmetics, and reward buyers with fair pricing.
+
+4.	Cost Sharing for Transparency
+
+The fee for this vital inspection must be reasonable (PKR 3,000–5,000) and structured to promote participation. The seller could pay the fee upfront to demonstrate confidence in their car’s condition, or the cost could be split between the buyer and seller upon transaction. Either way, the small cost of the inspection would be negligible compared to the thousands wasted on an unknown, faulty vehicle.
+
+Conclusion: Time to Treat a Car Like a Car
+
+The current used car market in Pakistan is a financial mess—defined by inflated prices, systemic lack of transparency, and a deeply flawed belief that a 17-year-old sedan is a sound investment.
+By implementing a mandatory, standardized vehicle testing system and linking pricing to objective mechanical health, the government can finally introduce fairness and sanity. It’s time to stop paying fortunes for superficial bragging rights and start paying a fair price for a reliable vehicle. The market needs to change, and the key is simply making every sale transparent.
+
+
+",PakistanAutoHub,2025-09-30T16:44:02,Reddit
+Rust,"Rondo Ruut ST2 frameset – worth upgrading? Questions about weight, workmanship, and coating","Hi everyone,
+
+I’m looking at the **Rondo Ruut ST2**, which is currently on sale for around €1,100. My idea would be to buy it as a complete bike and then upgrade it (e.g. Rival 1x12, Zipp 303).
+
+Before I jump in, I’d like to ask specifically about the **frame itself**:
+
+* Do you think this frame is worth upgrading, or should I just go for a higher-end steel frameset from the start?
+* How does the **weight** of the Ruut ST2 frame + fork compare to other steel frames (e.g. Columbus, Dedacciai, etc.)?
+* What’s your impression of the **workmanship** (welds, finishing, alignment)?
+* Is the frame **ED coated** inside for rust protection, or is it just paint?
+
+Thanks a lot for any first-hand experiences or insights!
+
+— Soner",gravelcycling,2025-09-30T16:41:24,Reddit
+Rust,"Telelog, a native Rust diagnostic library that generates execution flowcharts and also has first-class Python bindings.","https://preview.redd.it/bxo51zjq9asf1.png?width=500&amp;format=png&amp;auto=webp&amp;s=2eaeb7b905c01d694f35f8d7cc16292b3eabda85
+
+Hey r/rust,
+
+I built **Telelog**, a high-performance instrumentation library written in pure Rust, to help developers visualize their code's execution flow.
+
+Instead of just reading text logs to understand program flow, Telelog generates **Mermaid.js diagrams** (like flowcharts and timelines) directly from your running code. It's designed for minimal overhead and provides an intuitive way to debug complex logic.
+
+The core Rust crate offers:
+
+* A simple API to **track components** and **profile code blocks**.
+* The ability to generate **visual execution graphs** automatically.
+* The performance and safety guarantees of Rust.
+
+To make it accessible to a wider audience, I also used PyO3 to create a seamless Python wrapper. Now, developers in both ecosystems can get the full benefit of a native Rust core.
+
+The project is fully open-source. I'd love to get your feedback, especially on the Rust API.
+
+* **GitHub:** [`https://github.com/vedant-asati03/telelog`](https://github.com/vedant-asati03/telelog)
+* **Crates.io:** [`https://crates.io/crates/telelog/0.1.0`](https://crates.io/crates/telelog/0.1.0)
+* **PyPI:** [`https://pypi.org/project/telelog-python`](https://pypi.org/project/telelog-python)",rust,2025-09-30T16:28:45,Reddit
+Rust,Is Rust the Beast for making mobile application that use 3D models and AI-Generation? (vs. C++),"Even though I've already seen a lot of hateful and unfavorable comments about Rust on YouTube, I still want to hear directly from the rust devs.  
+I want to create a mobile application that makes use of 3D models and AI generation. Essentially, imagine using Blender on your phones (but not to the same extent as Blender).  
+As you can see, I require quicker runtimes for machine learning models, effective 3D model generation, memory management, speed, backend, and security.  
+I therefore researched and discovered that C++ and Rust are the two winning languages.  
+Could someone please examine Rust's performance in the AI-ML and 3D model departments?  ",rust,2025-09-30T16:21:37,Reddit
+Rust,new here! just wanted to show some progress pics,"hey all! wanted to show some progress on my legion kit that my wife and I purchased years ago, but never got around to painting everything until recently. the ships and buildings (obviously) are all printed, but the AT-ST and bikes were purchased. all that's left to finish are 2 buildings (i know one of them is not accurate to the location) and the bomber, then just need to find a good gaming mat to fit everything. everything is mostly airbrushed for the primers/base colors, then hand paints, rust powders and washes. used a cheap amazon airbrush and they actually are pretty good workhorses. was especially happy how the rancor and dewback turned out for my first attempt.
+
+we have still yet to learn the gameplay, but I've watched several videos. there's a local brewery here that does paint and sips so we may try to finish the remainder at one of their events next week.",SWlegion,2025-09-30T16:15:29,Reddit
+Rust,Felt a need to click a photo before I rushed it back home.,Let the engine running for a while to avoid water accumulation and rusting.,indianbikes,2025-09-30T16:10:45,Reddit
+Rust,Grill BBQ recommendation,"I'm looking for a recommendation for a small gas grill...burgers and sausages kind of thing. Something that will last/not rust easily.
+
+I ordered the Weber Spirit II E-210 on offer yesterday on Amazon for £309.60 to secure the offer.
+
+Wondering if there is something better for &lt; £350 **because I can cancel the order/send it back**.
+
+Any recommendations?",UKBBQ,2025-09-30T16:08:11,Reddit
+Rust,Finished first mini / need advice for further painting,"A friend of mine bought me a warhammer krieg set, thinking it was already assembled and painted (was not). It was sitting on my desk for months and now i decided to finally engage it. I bought a starter set and painted the included test mini, it was more fun than i expected and it looks much better than expected (never painted/drawed before)
+
+[test mini](https://preview.redd.it/3ky5uwxr5asf1.png?width=1855&amp;format=png&amp;auto=webp&amp;s=9e27e13ca7783bdb52f7f59c4c801b5f758c72dc)
+
+  
+Now I want to paint the krieg set but I have some problems/questions:
+
+  
+1. I only have the colours included in [this set](https://thearmypainter.com/de-de/products/warpaints-fanatic-warpaints-fanatic-starter-set-wp8066p). I'm aiming for a style like this and want to mix the ultramarine blue  with the primer grey for the coat and the silver metal with black for armor. For the leaher i wanted to use the base leather colour and mix a bit of white for the gas mask/backpack. For the rust i wanted to water down my brown and use it like a wash: Is this possible or should I just buy the right colours directly?
+
+[colour set I'm aiming for](https://preview.redd.it/ze2nwpep3asf1.png?width=372&amp;format=png&amp;auto=webp&amp;s=526f2b018726d0bf495b9c26e1f3a1703889b775)
+
+2. Because I had so much fun and I will definitely continue painting after the set, I thought about buying more paint. I don't know whats next and if I want to stick with one setting/game/style so i thought about purchasing a set [like this](https://thearmypainter.com/de-de/products/warpaints-fanatic-warpaints-fanatic-most-wanted-set-combo-wp8071c?_pos=6&amp;_fid=14f9ad694&amp;_ss=c), but i also stumbled upon speedpaints. Would it be better to just take the speedpaints to get more for the money or I should i rather avoid it. (I watched some videos about it and it sounded really cool for beginners)
+
+  
+PS: I just included the webside links of the sets i bought, i don't want to entice people to buy these products/from these firms, its just to give some info.",minipainting,2025-09-30T16:08:00,Reddit
