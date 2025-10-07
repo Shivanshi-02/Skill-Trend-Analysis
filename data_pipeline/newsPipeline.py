@@ -193,8 +193,15 @@ def fetch_news_for_user_skill(user_skill):
     if reddit_token:
         tech_news = pd.concat([tech_news, fetch_reddit("technology", reddit_token)], ignore_index=True)
 
-    trending_skills = extract_trending_skills(tech_news, top_n=4)
-    final_topics = list(dict.fromkeys([user_skill] + trending_skills))  # user skill + top 4 trending
+    #trending_skills = extract_trending_skills(tech_news, top_n=4)
+    #final_topics = list(dict.fromkeys([user_skill] + trending_skills))  # user skill + top 4 trending (changes below)
+
+    # Step 1: Get top 4 trending skills (excluding user input)
+    trending_skills = extract_trending_skills(tech_news, top_n=6)  # get more just in case
+    trending_skills = [s for s in trending_skills if s.lower() != user_skill.lower()][:4]
+
+    # Step 2: Final topics = user skill + 4 trending
+    final_topics = [user_skill] + trending_skills
     print(f"📌 Final topics to fetch news for: {final_topics}")
 
     # Step 2: Fetch news for all 5 topics

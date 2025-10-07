@@ -1,186 +1,167 @@
-# run_forecasting.py
+# trend_forecasting/run_forecasting.py
 import os
 import json
-import glob
-import pandas as pd
-import numpy as np
 from pathlib import Path
-from datetime import datetime
-from dotenv import load_dotenv
+import pandas as pd
 import requests
-import matplotlib.pyplot as plt
-import matplotlib.dates as mdates
+from dotenv import load_dotenv
+from analysis.dashboard import StrategicDashboard
 
-try:
-    from analysis.sentimentPipeline import run_sentiment_pipeline
-except ImportError:
-    pass
+# Ensure environment loaded (useful when run under Streamlit)
+load_dotenv()
+
+# Config (can be overridden by environment variables)
+SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
+ALERT_THRESHOLD = float(os.getenv("ALERT_THRESHOLD", "0.003"))
+
+def _mask_webhook(url):
+    if not url:
+        return None
+    return url[:30] + "..." + url[-6:]
 
 # -----------------------------
-# Helper functions
+# Slack helper (top-level, importable)
 # -----------------------------
-def forecast_skill(daily_sentiment, skill, days_ahead=5):
-    from prophet import Prophet
-    df_skill = daily_sentiment[daily_sentiment['skill'] == skill].copy()
-    df_skill['date'] = pd.to_datetime(df_skill['date'])
-    
-    if df_skill.empty:
-        return None, None
-    
-    prophet_df = df_skill.rename(columns={'date': 'ds', 'sentiment_score': 'y'})
-    m = Prophet(daily_seasonality=True)
-    m.fit(prophet_df)
-    future = m.make_future_dataframe(periods=days_ahead)
-    forecast = m.predict(future)
-    forecast_df = forecast[['ds', 'yhat']].tail(days_ahead).rename(columns={'ds': 'date', 'yhat': 'forecast_score'})
-    return df_skill, forecast_df
-
-def detect_anomalies(df):
-    if df.empty:
-        return pd.DataFrame()
-    mean = df['sentiment_score'].mean()
-    std = df['sentiment_score'].std()
-    anomalies = df[abs(df['sentiment_score'] - mean) > 2 * std].copy()
-    return anomalies
-
-def send_slack_alert(webhook_url, message):
-    payload = {'text': message}
-    try:
-        response = requests.post(webhook_url, data=json.dumps(payload), headers={'Content-Type': 'application/json'})
-        response.raise_for_status()
-        print("✅ Slack alert sent successfully!")
-    except requests.exceptions.RequestException as e:
-        print(f"❌ Failed to send Slack alert: {e}")
-
-def check_and_alert_sentiment_change(daily_sentiment_all, skill_list, alert_threshold, webhook_url):
+def send_slack_alert(webhook_url, message, timeout=10):
+    """
+    Send a JSON message to Slack webhook.
+    Returns (True, response_text) on success, (False, error_str) on failure.
+    """
     if not webhook_url:
-        return
-    for skill in skill_list:
-        skill_history = daily_sentiment_all[daily_sentiment_all['skill'] == skill].sort_values('date').tail(2)
-        if len(skill_history) == 2:
-            change = skill_history['sentiment_score'].iloc[-1] - skill_history['sentiment_score'].iloc[0]
-            if abs(change) > alert_threshold:
-                message = f"📢 SENTIMENT ALERT: Change {change:+.3f} detected for **{skill}**."
-                send_slack_alert(webhook_url, message)
+        print("⚠️ send_slack_alert: webhook_url is None")
+        return False, "no-webhook"
+
+    payload = {"text": message}
+    try:
+        resp = requests.post(
+            webhook_url,
+            data=json.dumps(payload),
+            headers={"Content-Type": "application/json"},
+            timeout=timeout
+        )
+        status = resp.status_code
+        text = resp.text
+        if 200 <= status < 300:
+            print(f"✅ Slack POST OK ({status}) — resp: {text}")
+            return True, f"{status}:{text}"
+        else:
+            print(f"❌ Slack POST failed ({status}) — resp: {text}")
+            return False, f"{status}:{text}"
+    except Exception as e:
+        print(f"❌ Exception sending Slack alert: {e}")
+        return False, str(e)
 
 # -----------------------------
-# Plot functions
+# Alert checker: compare yesterday vs today per skill
 # -----------------------------
-def plot_comparison_bar(daily_sentiment, user_skill):
-    latest_date = daily_sentiment['date'].max()
-    latest_sentiment = daily_sentiment[daily_sentiment['date'] == latest_date].copy()
-    if latest_sentiment.empty:
-        return
-    sorted_skills = latest_sentiment.sort_values('sentiment_score', ascending=False)
-    user_row = sorted_skills[sorted_skills['skill'] == user_skill]
-    if user_row.empty:
-        return
-    top_4_others = sorted_skills[sorted_skills['skill'] != user_skill].head(4)
-    top5 = pd.concat([user_row, top_4_others]).drop_duplicates(subset=['skill'])
-    top5 = top5.sort_values('sentiment_score', ascending=False)
-    plt.figure(figsize=(8,6))
-    colors = ['#fb923c' if s==user_skill else '#3b82f6' for s in top5['skill']]
-    plt.bar(top5['skill'], top5['sentiment_score'], color=colors, edgecolor='black')
-    plt.title(f"Sentiment Comparison: '{user_skill}' vs Top 4", fontsize=14, fontweight='bold')
-    plt.xlabel("Skills", fontsize=12)
-    plt.ylabel("Sentiment Score", fontsize=12)
-    plt.ylim(0.0, 1.0)
-    plt.xticks(rotation=15)
-    plt.tight_layout()
-    plt.show()
+def check_and_alert_sentiment_change(daily_sentiment_all,
+                                     webhook_url=SLACK_WEBHOOK_URL,
+                                     alert_threshold=ALERT_THRESHOLD):
+    """
+    For each skill in daily_sentiment_all, compare the last two dates' sentiment_score.
+    Sends a Slack message when change >= alert_threshold (or always for first data point).
+    Returns a list of results dictionaries: {'skill','change','sent','detail'}.
+    """
+    results = []
 
-def plot_user_forecast(history_df, forecast_df, anomalies_df, user_skill):
-    plt.figure(figsize=(12,6))
-    history_df['date'] = pd.to_datetime(history_df['date'])
-    if forecast_df is not None:
-        forecast_df['date'] = pd.to_datetime(forecast_df['date'])
-    if anomalies_df is not None and not anomalies_df.empty:
-        anomalies_df['date'] = pd.to_datetime(anomalies_df['date'])
-    plt.plot(history_df['date'], history_df['sentiment_score'], marker='o', color='#3b82f6', linewidth=2, label='Actual (Daily Avg)', zorder=2)
-    if forecast_df is not None and not forecast_df.empty:
-        plt.plot(forecast_df['date'], forecast_df['forecast_score'], linestyle='--', marker='o', color='#fb923c', linewidth=2, label='5-Day Forecast', zorder=2)
-    if anomalies_df is not None and not anomalies_df.empty:
-        plt.scatter(anomalies_df['date'], anomalies_df['sentiment_score'], color='#ef4444', s=100, edgecolors='black', label=r"Anomalies (2$\sigma$)", zorder=5)
-    plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%Y-%m-%d'))
-    plt.ylim(0.0, 1.0)
-    plt.yticks(np.arange(0.0, 1.1, 0.1))
-    plt.title(f"Sentiment Trend & Forecast for '{user_skill}'", fontsize=16, fontweight='bold')
-    plt.xlabel("Timeline", fontsize=12)
-    plt.ylabel("Average Sentiment Score", fontsize=12)
-    plt.xticks(rotation=30)
-    plt.grid(True, linestyle='--', alpha=0.7)
-    plt.legend(frameon=True, shadow=True, fancybox=True)
-    plt.tight_layout()
-    plt.show()
+    if daily_sentiment_all is None or daily_sentiment_all.empty:
+        print("⚠️ check_and_alert_sentiment_change: no data -> nothing to do")
+        return results
+
+    required = {"date", "skill", "sentiment_score"}
+    if not required.issubset(set(daily_sentiment_all.columns)):
+        print(f"❌ check_and_alert_sentiment_change: missing columns. found: {daily_sentiment_all.columns.tolist()}")
+        return results
+
+    # Ensure date is datetime
+    daily = daily_sentiment_all.copy()
+    try:
+        daily['date'] = pd.to_datetime(daily['date'])
+    except Exception as e:
+        print("❌ Failed converting date:", e)
+
+    all_skills = daily['skill'].unique()
+    print(f"🔔 Running alerts for {len(all_skills)} skills. webhook={_mask_webhook(webhook_url)}, threshold={alert_threshold}")
+
+    for skill in all_skills:
+        skill_history = daily[daily['skill'] == skill].sort_values('date')
+        sent = False
+        detail = ""
+        change = None
+
+        if skill_history.empty:
+            detail = "no-data"
+        else:
+            if len(skill_history) >= 2:
+                change = float(skill_history['sentiment_score'].iloc[-1] - skill_history['sentiment_score'].iloc[-2])
+            else:
+                # only 1 day of data -> treat as first datapoint with change 0.0
+                change = 0.0
+
+            # Decide to send based on threshold or first datapoint
+            if abs(change) >= float(alert_threshold) or len(skill_history) == 1:
+                message = f":loudspeaker: SENTIMENT ALERT: Change {change:+.3f} detected for **{skill}**."
+                print(f"→ Attempting to send alert for {skill}: change={change:+.3f}")
+                ok, info = send_slack_alert(webhook_url, message)
+                sent = ok
+                detail = info
+            else:
+                detail = f"change_below_threshold:{change:+.3f}"
+
+        results.append({
+            "skill": skill,
+            "change": None if change is None else round(change, 6),
+          #  "sent": sent,
+        # "detail": detail
+        })
+
+    return results
 
 # -----------------------------
-# Main
+# Main runner (top-level, importable)
 # -----------------------------
-def main():
-    load_dotenv()
-    SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
-    ALERT_THRESHOLD = 0.003
+def run_forecasting_and_alerts():
+    """
+    Loads latest cleaned sentiment via StrategicDashboard,
+    triggers Slack alerts for each skill, prints forecasting/anomaly summaries,
+    and returns alert results list.
+    """
+    dashboard = StrategicDashboard()
+    if dashboard.daily_sentiment is None or dashboard.daily_sentiment.empty:
+        print("❌ No sentiment data found. Run sentiment pipeline first.")
+        return []
 
-    PROCESSED_DIR = Path(__file__).resolve().parent.parent / "data" / "processed"
-    list_of_files = glob.glob(str(PROCESSED_DIR / "cleaned_with_sentiment*.csv"))
-    if not list_of_files:
-        print(f"❌ No sentiment CSV files found. Run sentiment pipeline first.")
-        return
-    latest_file = max(list_of_files, key=os.path.getctime)
-    print(f"📂 Using sentiment CSV: {latest_file}")
-    raw_sentiment_data = pd.read_csv(latest_file)
+    # dashboard.daily_sentiment expected to be daily aggregated DataFrame with columns date, skill, sentiment_score
+    daily_df = dashboard.daily_sentiment.copy()
 
-    # -----------------------------
-    # Ensure date column exists
-    # -----------------------------
-    if 'date' not in raw_sentiment_data.columns:
-        print("❌ CSV must contain 'date' column.")
-        return
-    raw_sentiment_data['date'] = pd.to_datetime(raw_sentiment_data['date']).dt.date
+    # If daily_df doesn't have sentiment_score (edge cases), attempt to reconstruct from cleaned_with_sentiment file
+    if not set(['date', 'skill', 'sentiment_score']).issubset(set(daily_df.columns)):
+        try:
+            proc_dir = Path(__file__).resolve().parent.parent / "data" / "processed"
+            latest = max(list(proc_dir.glob("cleaned_with_sentiment_*.csv")), key=lambda f: f.stat().st_mtime)
+            raw = pd.read_csv(latest)
+            if 'publishedAt' in raw.columns:
+                raw.rename(columns={'publishedAt': 'date'}, inplace=True)
+            if 'skill_query' in raw.columns:
+                raw.rename(columns={'skill_query': 'skill'}, inplace=True)
+            raw['date'] = pd.to_datetime(raw['date'])
+            daily_df = raw.groupby(['date', 'skill'])['sentiment_score'].mean().reset_index()
+            print("ℹ️ Rebuilt daily_df from cleaned_with_sentiment file.")
+        except Exception as e:
+            print("❌ Could not rebuild daily_df:", e)
+            return []
 
-    # Daily aggregation
-    daily_sentiment_all = (
-        raw_sentiment_data.groupby(['date','skill'])['sentiment_score']
-        .mean()
-        .reset_index()
-    )
+    # 1️⃣ Slack alerts
+    results = check_and_alert_sentiment_change(daily_df, webhook_url=SLACK_WEBHOOK_URL, alert_threshold=ALERT_THRESHOLD)
 
-    # --- User skill input ---
-    USER_INPUT_SKILL_RAW = "Rust"  # replace with dynamic input
-    available_skills = daily_sentiment_all['skill'].unique()
-    user_skill_cased = next((s for s in available_skills if s.lower() == USER_INPUT_SKILL_RAW.lower()), None)
-    if user_skill_cased is None:
-        print(f"❌ Skill '{USER_INPUT_SKILL_RAW}' not found.")
-        return
-    user_skill = user_skill_cased
-    print(f"🎯 Analyzing for user skill: {user_skill}")
+    # 2️⃣ Forecast & anomalies (prints only)
+    print("📈 Running forecasting (prints) for skills:")
+    for skill in daily_df['skill'].unique():
+        history_df, forecast_df = dashboard.forecast_skill(skill)
+        anomalies = dashboard.detect_anomalies(history_df)
+        if not anomalies.empty:
+            print(f"⚠️ Anomalies detected for {skill} ({len(anomalies)} points)")
+        else:
+            print(f"✅ {skill}: No anomalies found.")
 
-    # --- Top-4 comparison skills
-    latest_date = daily_sentiment_all['date'].max()
-    latest_sentiment = daily_sentiment_all[daily_sentiment_all['date'] == latest_date].copy()
-    sorted_skills = latest_sentiment.sort_values('sentiment_score', ascending=False)
-    top_4_others = sorted_skills[sorted_skills['skill'] != user_skill].head(4)['skill'].tolist()
-    alert_skill_list = list(set([user_skill] + top_4_others))
-
-    check_and_alert_sentiment_change(daily_sentiment_all, alert_skill_list, ALERT_THRESHOLD, SLACK_WEBHOOK_URL)
-
-    # Forecast & anomalies
-    history_df_prophet, forecast_df = forecast_skill(daily_sentiment_all, user_skill)
-    anomalies_df = detect_anomalies(history_df_prophet)
-
-    # Plots
-    plot_comparison_bar(daily_sentiment_all, user_skill)
-    plot_user_forecast(history_df_prophet, forecast_df, anomalies_df, user_skill)
-
-    # Save forecast CSV
-    FORECAST_DIR = Path(__file__).resolve().parent.parent / "data" / "forecast"
-    FORECAST_DIR.mkdir(parents=True, exist_ok=True)
-    if forecast_df is not None:
-        forecast_file = FORECAST_DIR / f"{user_skill.replace(' ','_')}_forecast.csv"
-        forecast_df.to_csv(forecast_file, index=False)
-        print(f"💾 Forecast saved to: {forecast_file}")
-
-if __name__ == "__main__":
-    main()
-
-
+    return results 

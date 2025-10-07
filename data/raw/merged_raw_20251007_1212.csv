@@ -1,0 +1,2005 @@
+skill_query,title,description,source,publishedAt,platform
+Java,Going Native With Android’s Native Development Kit,"Originally Android apps were only developed in Java, targeting the Dalvik Java Virtual Machine (JVM) and its associated environment. Compared to platforms like iOS with Objective-C, which is just C …read more",Hackaday,2025-09-15T14:00:41+00:00,NewsAPI
+Java,Fernflower Java Decompiler,"Decompiler from Java bytecode to Java, used in IntelliJ IDEA. - JetBrains/fernflower",Github.com,2025-09-25T20:20:44+00:00,NewsAPI
+Java,Death toll from Indonesia school collapse rises to 54,The collapse of the Al Khoziny Islamic boarding school is the country's deadliest disaster this year.,BBC News,2025-10-06T06:26:51+00:00,NewsAPI
+Java,"Indonesia school collapse death toll rises to 36, search for bodies continues","JAKARTA (Reuters) -The number of students confirmed dead after the collapse of an Islamic boarding school building in Indonesia rose to 36, from 16 a day...",Yahoo Entertainment,2025-10-05T03:46:47+00:00,NewsAPI
+Java,Omittable – Solving the Ambiguity of Null,"Null values in Java are used to present both the absence of a value and the default value of a reference type variable. To design robust APIs, it is necessary to unpack this semantic ambiguity. Omittable is a library solution to this problem.",Committing-crimes.com,2025-09-21T04:51:16+00:00,NewsAPI
+Java,Indonesian rescuers search for missing students after school collapse kills 37,Indonesian rescuers are searching on Sunday for missing students after a prayer hall at an Islamic boarding school collapsed almost a week ago.  Using...,Yahoo Entertainment,2025-10-05T07:04:12+00:00,NewsAPI
+Java,What Walmart's EVP of Global Tech companies looks for when hiring engineers,"Walmart EVP of Global Tech platforms Sravana Karnati has over 25 years of leadership experience, and he looks for two things when he hires engineers.",Business Insider,2025-09-29T09:08:01+00:00,NewsAPI
+Java,"Three dead, dozens trapped after Indonesian school collapses on students",The rescue was temporarily halted on Tuesday as authorities say the building is at risk of further collapse.,BBC News,2025-09-30T09:22:04+00:00,NewsAPI
+Java,Survivors pulled from collapsed school in Indonesia,An Islamic school collapsed during prayers in Indonesia&#039;s East Java. At least six people have been killed.,Al Jazeera English,2025-10-02T08:55:19+00:00,NewsAPI
+Java,How 13-year-old Haikal survived Indonesia’s deadly boarding school collapse,Haikal survived for three days and two dark nights trapped beneath the rubble of his collapsed school in East Java.,Al Jazeera English,2025-10-03T09:10:25+00:00,NewsAPI
+Java,EU age verification app not planning desktop support,"Hi I found multiple usability issues with this solution. The focus is so strong on the app, that it assumes everyone owns a smartphone. The other day I saw a granny on the bus with a phone that was...",Github.com,2025-09-24T11:52:50+00:00,NewsAPI
+Java,"CodeSOD: Functionally, a Date","Dates are messy things, full of complicated edge cases and surprising ways for our assumptions to fail. They lack the pure mathematical beauty of other data types, like integers. But that absence doesn't mean we can't apply the beautiful, concise, and simple …",Thedailywtf.com,2025-09-15T06:30:00+00:00,NewsAPI
+Java,"Basic Dialects, IDEs, and Tutorials","A curated list of awesome BASIC dialects, IDEs, and tutorials - JohnBlood/awesome-basic",Github.com,2025-10-01T05:22:06+00:00,NewsAPI
+Java,Frantic rush to reach scores of students missing for days after boarding school collapse in Indonesia,Indonesian rescue teams are frantically searching for scores of young students buried for two days under concrete rubble after their Islamic boarding school ...,CNN,2025-10-01T05:15:28+00:00,NewsAPI
+Java,Google's senior director of product explains how software engineering jobs are changing in the AI era,"With AI shifting the role of software engineers, Google's senior director of product says more developers will be involved in deploying products.",Business Insider,2025-09-23T14:10:01+00:00,NewsAPI
+Java,The agentic internet is coming. AI companies are racing to build the digital rails first.,"Just as Google and Apple locked in developer ecosystems during the web and mobile eras, today's protocol pioneers may dominate the agentic future.",Business Insider,2025-09-26T16:48:00+00:00,NewsAPI
+Java,"As a Texas local, I skip the crowds in Austin and head west to a charming nearby city with incredible wineries","I live in Texas, and love the small city of Fredericksburg. There's a lot to do there, from visiting wineries to eating at great restaurants downtown.",Business Insider,2025-09-30T17:02:02+00:00,NewsAPI
+Java,OpenDataLoader-PDF: An open source tool for structured PDF parsing,"Safe, Open, High-Performance — PDF for AI. Contribute to opendataloader-project/opendataloader-pdf development by creating an account on GitHub.",Github.com,2025-09-23T13:58:48+00:00,NewsAPI
+Java,Java 25 released,"Java 25 has been released. JDK 25, the reference implementation of Java 25, is now Generally Available. We shipped build 36 as the second Release Candidate of JDK 25 on 15 August, and no P1 bugs have been reported since then. Build 36 is therefore now the GA …",Osnews.com,2025-09-17T10:15:48+00:00,NewsAPI
+Java,Daily Deal: The Ultimate Software Testing Bundle,Get the skills you need to become a software tester with the Ultimate Software Testing Bundle. Software testing is performed to identify differences between given input and expected output and to verify that software products function according to pre-defined…,Techdirt,2025-09-15T17:41:33+00:00,NewsAPI
+Java,Roasters and cafes grapple with rising coffee bean prices,Your daily cup of java is getting a little more expensive as roasters and cafes grapple with rising coffee bean prices.,ctvnews,2025-10-06T18:11:14,NewsData
+Java,Death toll from Indonesian school collapse rises to 65,Indonesian authorities say 65 people have died in the collapse of a school and that it remains unclear how many are still missing.,thewest,2025-10-06T18:11:10,NewsData
+Java,Death toll from Indonesian school collapse rises to 65,Indonesian authorities say 65 people have died in the collapse of a school and that it remains unclear how many are still missing.,perthnow,2025-10-06T18:11:08,NewsData
+Java,Death toll from Indonesian school collapse rises to 65,Indonesian authorities say 65 people have died in the collapse of a school and that it remains unclear how many are still missing.,blayneychronicle,2025-10-06T18:10:33,NewsData
+Java,Death toll from Indonesian school collapse rises to 65,Indonesian authorities say 65 people have died in the collapse of a school and that it remains unclear how many are still missing.,braidwoodtimes,2025-10-06T18:10:33,NewsData
+Java,Death toll from Indonesian school collapse rises to 65,Indonesian authorities say 65 people have died in the collapse of a school and that it remains unclear how many are still missing.,bluemountainsgazette,2025-10-06T18:10:33,NewsData
+Java,Death toll from Indonesian school collapse rises to 65,Indonesian authorities say 65 people have died in the collapse of a school and that it remains unclear how many are still missing.,bordermail,2025-10-06T18:10:33,NewsData
+Java,Death toll hits 63; 6 missing,"The death toll from an Indonesian school collapse rose to 63 yesterday, officials said, as workers pulled more remains from the rubble of the building that collapsed last week.",thedailystar,2025-10-06T18:00:00,NewsData
+Java,Roasters and cafes grapple with rising coffee bean prices,"Your daily cup of java is getting a little more expensive as roasters and cafes grapple with rising coffee bean prices. Michael von Massow, food economist at the University of Guelph, says climate change has been the biggest contributor to the ongoing surge in bean prices, as coffee crops are very sensitive to temperature changes. [...]",vancouver_citynews_ca,2025-10-06T17:40:17,NewsData
+Java,Roasters and cafés grapple with rising coffee bean prices,Your daily cup of java is getting a little more expensive as roasters and cafés grapple with rising coffee bean prices.,thestar,2025-10-06T17:40:17,NewsData
+Java,"Java News Roundup: JDK 26 Release Schedule, GlassFish, Spring AI, Helidon, Mandrel 25, Seed4j",,infoq.com,2025-10-07T12:12:22.671840,GoogleNews
+Java,"Three Decades Later, Developers Are Still Choosing Java",,Analytics India Magazine,2025-10-07T12:12:22.672366,GoogleNews
+Java,"C, C++, Java vie for second place in language popularity",,InfoWorld,2025-10-07T12:12:22.672764,GoogleNews
+Java,At least 63 killed in Indonesian school collapse with others still missing,,Australian Broadcasting Corporation,2025-10-07T12:12:22.673143,GoogleNews
+Java,Java Language Architect Brian Goetz on How Java Could Evolve,,The New Stack,2025-10-07T12:12:22.673539,GoogleNews
+Java,A step-by-step guide to modernizing Java projects with GitHub Copilot agent mode,,The GitHub Blog,2025-10-07T12:12:22.673848,GoogleNews
+Java,Oracle Releases Java 25,,Oracle,2025-10-07T12:12:22.674166,GoogleNews
+Java,ADK for Java opening up to third-party language models via LangChain4j integration,,Google for Developers Blog,2025-10-07T12:12:22.674482,GoogleNews
+Java,Minecraft Java Edition 1.21.9,,Minecraft,2025-10-07T12:12:22.674782,GoogleNews
+Java,Coffee chain grapples with tariffs as java prices boil over,,CBS News,2025-10-07T12:12:22.675098,GoogleNews
+Java,Why does the new furniture in Java Joe look like it’s on Ozempic?,,The Muhlenberg Weekly,2025-10-07T12:12:22.675413,GoogleNews
+Java,Experience Bali and Java’s Rich Heritage with a New Supermoon-Inspired Itinerary,,Travel And Tour World,2025-10-07T12:12:22.675708,GoogleNews
+Java,The Java Journey evolution: 7 years of caffeinated community connections,,LebTown,2025-10-07T12:12:22.676002,GoogleNews
+Java,GALLERY: J.C. Lewis Mazda hosts Java Joy event with ESP Savannah,,WSAV-TV,2025-10-07T12:12:22.676321,GoogleNews
+Java,Build for Off Road rolls through Kingman for Jeeps and Java event,,The Kingman Daily Miner,2025-10-07T12:12:22.676756,GoogleNews
+Java,J.C. Lewis Mazda Hosts Java Joy event with ESP Savannah,,www.savannahbusinessjournal.com,2025-10-07T12:12:22.677249,GoogleNews
+Java,Death toll in Indonesian school collapse rises to 61 as more bodies are recovered,,The Washington Post,2025-10-07T12:12:22.677616,GoogleNews
+Java,Death toll in Indonesian school collapse rises to at least 60,,Al Jazeera,2025-10-07T12:12:22.677899,GoogleNews
+Java,Where Are Blue Java Bananas Actually Grown?,,The Takeout,2025-10-07T12:12:22.678193,GoogleNews
+Java,Java man dies after Friday night crash in Pittsylvania County,,The Danville Register and Bee,2025-10-07T12:12:22.678471,GoogleNews
+Java,MD to HTML simple idea,"Like many of you, I live in Markdown for all my notes, documentation, and reports. It's fast and efficient for writing, but I always hated sharing the raw .md files with clients or non-technical stakeholders.  
+
+
+It just looks unprofessional. The code blocks are flat walls of text, and the whole document feels like a messy first draft, not a polished final report.
+
+So, I decided to build a simple tool to fix this for myself: a web-based converter that transforms plain Markdown into a clean, professional HTML page with proper syntax highlighting.
+
+
+
+You can try it out here: [https://boldtake.io/md-to-html](https://boldtake.io/md-to-html)
+
+
+
+What it does:  
+
+
+Instantly converts your Markdown to clean HTML.
+
+Adds VS Code-style syntax highlighting for 190+ languages.
+
+Has a live preview that updates as you type.
+
+Includes light/dark themes.
+
+Lets you copy or download the final HTML with one click.
+
+It's free, and no sign-up is needed.
+
+
+
+I built this to solve my own problem, but I'm sure others have similar frustrations. I'd love to get some feedback from this community.
+
+My main question for you all is: What else do you wish you could do with your Markdown files?
+
+Are there other formats you constantly need to convert to (like clean PDFs, Word docs)? Do you need pre-made templates for certain types of reports? Any other annoying little problems you face when sharing your work?
+
+I'm happy to build out more features based on what people actually need. Let me know what you think, or if there's anything else I can help with!
+
+Thanks for checking it out.",SideProject,2025-10-07T12:09:25,Reddit
+Java,sVanilla Survival [SMP] [Semi-Vanilla] {Crossplay Enabled} {No Crystal PvP},"sVanilla Survival: A Sword based PVP SMP for java &amp; bedrock geyser. 
+
+ IP: corn.gg
+
+ Region: USA East
+
+sVanilla Survival was founded in 2019 with the goal of providing a no cheating, pvp raiding experience that is centered around melee based pvp. We're dedicated to providing the old-school SMP experience, with a large map that never resets, no land claims, and most importantly - crystal free PvP.
+
+ So why choose sVanilla Survival?
+
+ -&gt; Fair-Play Raiding: On sVanilla we favor the ability of players to have freedom in how they play the game. While we do enforce rules to keep the experience fairplay; you can greif, pvp, team with or betray other players. Only the strong survive on sVanilla.
+
+ -&gt; Melee Based PVP: On sVanilla crystals and anchors are disabled to allow the older pvp style of sword to take its place. To add balance to the sword meta, We have patched breach swapping, have a combat tag system in place with pvp restrictions such as no elytra in combat &amp; an 8 second totem cooldown. 
+
+ -&gt; Quality of Life: While we love vanilla, we also understand the need for a few tweaks. We've implemented a few quality-of-life modifications to enhance gameplay without deviating from the authentic feel. Teleport, Ignore &amp; Sethome commands are provided for convenience.
+
+ -&gt; Bartering Economy: There are no economy plugins, the server economy is based on trading with other players.
+
+ -&gt; Large world: With a modest 300k overworld map &amp; 100k nether/end you are free to travel far out to build a base, or stay closer to spawn and experience the action.
+
+ -&gt; Permanent Legacy: Our map is permanent and will never reset, so the monuments you build today will stand as a testament to your creativity for years to come.
+
+ -&gt; TNT Duplication: Piston and slime based TNT dupers are enabled, which means you can build tree farms with ease or even create tnt machines of destruction.
+
+Join sVanilla Survival and be a part of a community that honors the older style of sword based survival multiplayer. Welcome to sVanilla &amp; enjoy your minecraft!
+",MinecraftServer,2025-10-07T12:06:34,Reddit
+Java,"""failed to read assets"" after I try to run 1.21.9. any fixes?","
+
+Minecraft folder is:
+
+C:/Users/user/AppData/Roaming/PollyMC/instances/1.21.9/.minecraft
+
+Java path is:
+
+C:/Program Files/Java/jdk-21/bin/javaw.exe
+
+Java is version 21.0.7, using 64 (amd64) architecture, from Oracle Corporation.
+
+  
+Instance update failed because: Failed to read the assets index!
+
+
+
+
+
+",PolyMCLauncher,2025-10-07T11:57:32,Reddit
+Java,What niche should i pursue after this.,"Where should i go from here please suggest me. I have 6 years of experience in total and i want to find a niche. Here are the options-
+
+Data engineer
+DevOps engineer
+Backend engineer
+AI engineer
+
+My long term plan is to get into a FAANG like company.
+
+Please advice",aiengineering,2025-10-07T11:57:32,Reddit
+Java,Prof. Java,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/hatchcats/comments/1o075c3),hatchcats,2025-10-07T11:53:32,Reddit
+Java,CPP in VSCode,"I cannot run my C++ files in my VSCode and I have not followed the correct procedure of downloading a C++ compiler or something like that.
+
+I previously can run Java but I cannot run C++. 
+
+I tried deleting it all to start again but it I don't think I have deleted all of it yet (idk how). It still doesn't run",cpp_questions,2025-10-07T11:45:54,Reddit
+Java,"looking for any australian smp servers, preferrably containing pvp but doesnt have to","i just wanna play in my own ping man its that simple, i dont mind if its modded, vanilla, however i do prefer java &lt;/3",MinecraftServer,2025-10-07T11:44:41,Reddit
+Java,What do you think ?,"I just finish my first tank and my babies seems to love it ! They are no longer shy !!! 
+
+Before they stay in one corner....then i add java mouss some lentilles at the surface and the big plant ! 
+
+It was instant and I'm so happy to see them move around ! ",shrimptank,2025-10-07T11:43:53,Reddit
+Java,"Senior Backend Software Engineer — Golang, Remote at Atlassian (paid)","Atlassian is looking for a Senior Backend Software Engineer for a remote role, with a focus on Golang and potentially Java.
+
+**What we're looking for:**
+- Drive large, complex projects autonomously from design to launch.
+- Tackle complex architecture challenges and apply architectural standards.
+- Lead code reviews and documentation, handle complex bug fixes.
+- Mentor more junior members of the team.
+
+**Requirements:**
+- Expert-level experience with one or more prominent languages (e.g., Java, Kotlin, Golang, Python, C#, C/C++, Ruby).
+- Highly-trusted knowledge in at least one domain and working knowledge in multiple tech domains.
+- Passion for collaborating with and mentoring junior team members.",DevJobLeadsOnReddit,2025-10-07T11:32:59,Reddit
+Java,Error: Cannot find symbol,"I am trying to make a mod but everytime I want to test it, there is the error `cannot find symbol`
+
+I tried clearing the cache and reloading the code, but it didn't worked.
+
+I even created a temporary workplace to see if the problem was just with the main workplace I'm working on, but the same thing happened:
+
+The name of the workplace is `example`, and the item is named `Testing_Item`
+
+`C:\Users\XXXXXX\MCreatorWorkspaces\example\src\main\java\net\mcreator\example\init\ExampleModItems.java:20: error: cannot find symbol TESTINGITEM = register(""testingitem"", new TestingitemItem());`  
+`^`  
+`symbol: class TestingitemItem`  
+`location: class ExampleModItems`
+
+The upper arrow was pointing at the T of `TestingitemItem()`
+
+I am using the plugin Another Fabric Generator \[1.20.1\] (300f20t edition), and the workplace is in Fabric for 1.20.1 - 0.90.7
+
+Idk a lot about Minecraft Coding, so if you can help me, that would be nice
+
+Thank you in advance",MCreator,2025-10-07T11:30:55,Reddit
+Java,Are Anyone Else's Spawn Chunks Broken?,"Ever since the Copper Age Update (Java 1.21.9) my spawn chunks haven't been loading properly and my Iron Golem farm has ceased functioning. I know this because I will leave the area for hours and then come back and see that leaves haven't despawned, iron hasn't been accumulating in the hoppers, and iron golems won't even spawn while I'm standing right nearby.
+
+I've already tried resetting the spawn point, expanding spawnRadius, and I've already looked for rogue golems that might have fallen into the ocean in Spectator mode-- NOTHING. Is anyone else having these issues? I've been looking online but haven't seen anyone posting about this.",Minecraft,2025-10-07T11:30:31,Reddit
+Java,Unsure which direction to go in: infrastructure/systems or back-end/full-stack,"For a quick background, I graduated in 2020 with a BS in CS + math minor. Shortly after, I did 11 weeks of App Academy’s full-stack bootcamp (JavaScript/HTML/CSS, Ruby on Rails). Then I worked at TCS for 2 months that was basically training in Java, SQL, and microservices.
+
+Then I got an offer from AWS and I worked there for about a year and 3 months on the EBS (Elastic Block Store, cloud storage for EC2 instances) encryption team. I did stuff like:
+
+* Worldwide deployments and monitoring of encryption software updates to 100+ availability zones, including government regions.
+* Worked on a Python CLI tool to speed up provisioning of encryption servers to reduce insufficient capacity problems.
+* Wrote periodic metric collection code for the encryption codebase rewrite in Rust
+* On-call shifts: root cause analysis, fixing errors, customer tickets, and maintaining encryption servers. So basically a mix of deployments, distributed systems code, tooling, and production maintenance.
+
+After that, I did 4 months at a company called Pride Automation where I worked on their checklist web app (PrideView). Mostly front-end bug fixes in JavaScript/HTML/CSS/Bootstrap, and fixed a backend endpoint. Overall, this is about 2 years of experience, most of it at AWS.
+
+I've been unemployed for nearly a year and a half at this point (largely due to uncomfortable hand symptoms, haven't sent out a large amount of applications). I’ve been doing online courses on Spring Boot, Java EE, Docker, React, TypeScript, HTML/CSS, SQL, building small full-stack projects, solving many LeetCode problems, and generally targeting full-stack or back-end roles.
+
+My main question:  
+After chatting with ChatGPT, it says my AWS experience aligns with mainly **infrastructure or systems software engineering**, and that my best chances are to get a job in that area, though my last day there was over 2.5 years ago. Is it correct and should I double down on this path, or should I keep aiming for back-end or full-stack? Both areas interest me, but I do want to have the best chance at landing a job.",cscareerquestions,2025-10-07T11:25:42,Reddit
+Java,Anyone seeing better SEO results with Next.js or React vs WordPress?,"I’ve seen a lot of people using different site architecture latetly. Lots use WordPress, but I've been seeing lots using React or Next.js, and I’m curious how much the choice matters for SEO.
+
+Are there real SEO advantages to using frameworks like Next.js over WordPress? Or is it mostly about performance and developer preference? I read before that Google has issues interpreting javascript sites but more and more I'm seeing sites with that tech at the top of Google. I always used to think that Wordpress was what Google preferred but I'm starting to think otherwise. 
+
+1. Does Google still have any issues with JavaScript-heavy sites?
+
+2. Is server-side rendering (SSR) or static generation (SSG) in Next.js noticeably better for SEO?
+
+3. Do WordPress sites still have an edge when it comes to built-in SEO tools and easy optimization?",OnlineMarketing,2025-10-07T11:22:44,Reddit
+Java,PSX emulator written in Java,"Yes I've written an psx emulator in java here's a video on Ridge Racer:
+
+https://reddit.com/link/1o06mcl/video/dosloqzxomtf1/player
+
+  
+I've written this emulator for fun not for running compatibility perfect games so feel free to ask anything basic or advanced on emudev discord still learning more about the PSX what it has
+
+
+
+[https://github.com/shadersrs3/JarPSX](https://github.com/shadersrs3/JarPSX)",EmuDev,2025-10-07T11:21:22,Reddit
+Java,Seeking Guidance: Roadmap &amp; Tech Stack to Get Placed at Zoho,"Hi everyone,
+I'm a Vajra  2rd year B.E  in CSE student, and my goal is to secure a software engineering position at Zoho. I really admire their work culture and product ecosystem.
+ I'm trying to create a focused learning plan and would love some guidance from the community.
+
+What I've Gathered So Far:
+From what I've read online (Glassdoor, Reddit threads, etc.), it seems Zoho's process is unique:
+Round 1: A written test heavily focused on C programming aptitude and problem-solving.
+Later Rounds: Multiple rounds of programming, often involving building a small, functional application (like a simple library management system, etc.).
+Core Languages: Java seems to be very prominent for their development roles.
+Fundamentals: A very strong emphasis on Data Structures, Algorithms, and core CS concepts.
+
+My Specific Questions:
+Language Priority: Given their process, should I make Java my primary language? How proficient should I be? Is mastering Golang or Python also a viable path for their interviews?
+
+DSA &amp; Problem Solving: How deep do I need to go with DSA? Is LeetCode-style grinding the best approach, or is it more about applying concepts to build something?
+
+Project Portfolio: What kind of projects would impress Zoho recruiters? Should I focus on full-stack web applications, backend services with robust APIs, or something else? Does using a specific framework (like Spring for Java) add significant value?
+
+Core CS Subjects: How much weightage is given to subjects like Operating Systems, DBMS (especially SQL), and Computer Networks in the interviews? Are theoretical questions common?
+
+Preparing for the ""Application Round"": This seems to be the most challenging part. What's the best way to practice for this? Are there any resources or specific types of mini-projects you'd recommend building under time constraints?
+
+Any advice, personal experiences (from current/former employees or interviewees), or useful resources would be incredibly helpful.
+
+Thanks in advance for your time!",Zoho,2025-10-07T11:19:29,Reddit
+Java,Dm for assistance.,"[FOR HIRE] 📊 Data Analysis | 🧠 Statistics | 🖥️ Coding | 📝 Essays | 💻 Online Classes | Affordable &amp; Reliable
+
+Hi all! I’m a skilled and experienced academic helper offering affordable, high-quality support in a wide range of subjects — from technical projects to writing assignments.
+
+
+---
+
+🔧 Services I Offer:
+
+📊 Data Analysis &amp; Visualization:
+
+R, Python, Weka, SPSS, STATA, Jamovi, SAS, Excel, Minitab, EViews
+
+Tableau, Power BI
+
+
+🧠 Statistics &amp; Math:
+
+All levels, including regression, time series, probability, etc.
+
+
+💻 Programming &amp; Software Development:
+
+Python, Java, C++, Django, React
+
+Full-stack engineering support
+
+
+🛠️ Data Engineering &amp; Big Data Tools:
+
+Hadoop, Hive, PySpark, Apache Airflow, Kafka, Docker, Snowflake, BigQuery, dbt
+
+
+🗄️ Databases &amp; Web:
+
+MySQL, PostgreSQL, Shopify, WordPress, Google Analytics
+
+
+📝 Essays &amp; Writing:
+
+Research papers, reports, and editing
+
+
+📚 Online Classes &amp; Exams:
+
+Long-term support with assignments, quizzes, and exams
+
+
+
+---
+
+✅ Why Choose Me?
+
+100% original work – no plagiarism
+
+On-time delivery, even with tight deadlines
+
+Student-friendly pricing
+
+Responsive &amp; easy to work with
+
+Confidential and secure
+
+
+
+---
+
+📩 Contact Me Anytime:
+
+Email: judynyancham97@gmail.com
+
+Discord: juddie0148_20367",QualityAssurance,2025-10-07T11:16:50,Reddit
+Java,Dm for assistance.,"[FOR HIRE] 📊 Data Analysis | 🧠 Statistics | 🖥️ Coding | 📝 Essays | 💻 Online Classes | Affordable &amp; Reliable
+
+Hi all! I’m a skilled and experienced academic helper offering affordable, high-quality support in a wide range of subjects — from technical projects to writing assignments.
+
+
+---
+
+🔧 Services I Offer:
+
+📊 Data Analysis &amp; Visualization:
+
+R, Python, Weka, SPSS, STATA, Jamovi, SAS, Excel, Minitab, EViews
+
+Tableau, Power BI
+
+
+🧠 Statistics &amp; Math:
+
+All levels, including regression, time series, probability, etc.
+
+
+💻 Programming &amp; Software Development:
+
+Python, Java, C++, Django, React
+
+Full-stack engineering support
+
+
+🛠️ Data Engineering &amp; Big Data Tools:
+
+Hadoop, Hive, PySpark, Apache Airflow, Kafka, Docker, Snowflake, BigQuery, dbt
+
+
+🗄️ Databases &amp; Web:
+
+MySQL, PostgreSQL, Shopify, WordPress, Google Analytics
+
+
+📝 Essays &amp; Writing:
+
+Research papers, reports, and editing
+
+
+📚 Online Classes &amp; Exams:
+
+Long-term support with assignments, quizzes, and exams
+
+
+
+---
+
+✅ Why Choose Me?
+
+100% original work – no plagiarism
+
+On-time delivery, even with tight deadlines
+
+Student-friendly pricing
+
+Responsive &amp; easy to work with
+
+Confidential and secure
+
+
+
+---
+
+📩 Contact Me Anytime:
+
+Email: judynyancham97@gmail.com
+
+Discord: juddie0148_20367",datascienceproject,2025-10-07T11:16:28,Reddit
+Java,Dm for assistance.,"[FOR HIRE] 📊 Data Analysis | 🧠 Statistics | 🖥️ Coding | 📝 Essays | 💻 Online Classes | Affordable &amp; Reliable
+
+Hi all! I’m a skilled and experienced academic helper offering affordable, high-quality support in a wide range of subjects — from technical projects to writing assignments.
+
+
+---
+
+🔧 Services I Offer:
+
+📊 Data Analysis &amp; Visualization:
+
+R, Python, Weka, SPSS, STATA, Jamovi, SAS, Excel, Minitab, EViews
+
+Tableau, Power BI
+
+
+🧠 Statistics &amp; Math:
+
+All levels, including regression, time series, probability, etc.
+
+
+💻 Programming &amp; Software Development:
+
+Python, Java, C++, Django, React
+
+Full-stack engineering support
+
+
+🛠️ Data Engineering &amp; Big Data Tools:
+
+Hadoop, Hive, PySpark, Apache Airflow, Kafka, Docker, Snowflake, BigQuery, dbt
+
+
+🗄️ Databases &amp; Web:
+
+MySQL, PostgreSQL, Shopify, WordPress, Google Analytics
+
+
+📝 Essays &amp; Writing:
+
+Research papers, reports, and editing
+
+
+📚 Online Classes &amp; Exams:
+
+Long-term support with assignments, quizzes, and exams
+
+
+
+---
+
+✅ Why Choose Me?
+
+100% original work – no plagiarism
+
+On-time delivery, even with tight deadlines
+
+Student-friendly pricing
+
+Responsive &amp; easy to work with
+
+Confidential and secure
+
+
+
+---
+
+📩 Contact Me Anytime:
+
+Email: judynyancham97@gmail.com
+
+Discord: juddie0148_20367",Will_Do_Your_Homework,2025-10-07T11:16:09,Reddit
+Java,Ultimate 7-Step Spring Boot Learning Roadmap to Effortlessly Build Scalable Java Apps,,CareerSwami,2025-10-07T11:15:07,Reddit
+Java,Sisig with java Rice,,FoodPH,2025-10-07T11:08:38,Reddit
+Go,YouTube wants you to go live,"YouTube is the most powerful platform in entertainment, and as such it has outsize influence on what kind of entertainment people make and watch. When YouTube adds a mid-video ad break, videos get longer to accommodate it. When YouTube tells podcasters to mak…",The Verge,2025-09-23T13:39:47+00:00,NewsAPI
+Go,YouTube makes it easier and more lucrative to go live,"YouTube is introducing some live streaming features that give content creators new ways to grow their audiences and interact with viewers. The updates were announced at the Made on YouTube event today, and include simultaneous horizontal and vertical streams,…",The Verge,2025-09-16T12:34:31+00:00,NewsAPI
+Go,Diminish Distractions by Setting Your iPhone to Gray Scale When You're Home,"Phones are useful on the go, but distracting when you're at home. Here's how to automatically make them less interesting.",Wired,2025-09-20T11:00:00+00:00,NewsAPI
+Go,The Ferrari Testarossa returns as a plug-in hyrbid with 1035hp,"If you need another sign that the go-go ‘80s are back, look no further than the return of the fabled Ferrari Testarossa nameplate, which the Italian automaker announced this week in Milan. But this is no retread: the new 849 Testarossa now sports a hybrid pow…",The Verge,2025-09-10T15:02:17+00:00,NewsAPI
+Go,Trump promised retribution - how far will he go?,"As the US president pushes a crackdown on left-wing groups and openly targets political foes, critics ask where he's taking America.",BBC News,2025-09-27T05:00:08+00:00,NewsAPI
+Go,"Insta360 Go Ultra Review: This Tiny Action Camera Got Swacked by a Sword, and Survived",The Insta360 Go Ultra manages to meet and even beat other cameras twice its size.,Gizmodo.com,2025-09-16T22:00:23+00:00,NewsAPI
+Go,‘Here We Go!’: Trump Weighs in After Russian Drones Shot Down Over Poland,Trump's tweet has the tone of a 1990s standup comedian.,Gizmodo.com,2025-09-10T18:40:24+00:00,NewsAPI
+Go,"Want to Watch ‘Demon Slayer: Infinity Castle’? Go to a Theater, Crunchyroll Says","Sorry, anime fans: a Crunchyroll exec says the big screen will be the only place to watch 'Infinity Castle' this year.",Gizmodo.com,2025-09-19T21:00:48+00:00,NewsAPI
+Go,Lego Game Boy Hands-On: Nintendo Didn’t Need to Go This Hard,This has to be the Lego set of the year.,Gizmodo.com,2025-09-19T20:40:48+00:00,NewsAPI
+Go,The End of Those Annoying Cookie Pop-Ups on Websites?,"Instead, users might be able to set cookie preferences on their browsers that can go for every website.",Gizmodo.com,2025-09-22T15:10:33+00:00,NewsAPI
+Go,The Return of the ‘Razor Crest’ in ‘The Mandalorian and Grogu’ Sucks,"Whether it's the actual ship or not, it's just one thing among many that 'The Mandalorian' is unwilling to let go.",Gizmodo.com,2025-09-26T21:30:23+00:00,NewsAPI
+Go,David Tennant and Billie Piper Have a ‘Doctor Who’ Pitch,"The return of 'Doctor Who' isn't certain, but two of its best-loved stars have a suggestion of where to go next.",Gizmodo.com,2025-10-02T19:20:22+00:00,NewsAPI
+Go,"Roamless eSIM Starts Cheap at $1.25/GB, and Our Exclusive 20% Off Code Pushes It Practically Free","A global pay-as-you-go eSIM app is the best travel invention since rolling luggage, and our special code will save you 20% sitewide.",Gizmodo.com,2025-10-05T12:33:43+00:00,NewsAPI
+Go,Ed Davey urges regulator to go after Musk over X 'crimes',The Lib Dem leader urges Ofcom to launch an investigation into the tech mogul and his social platform.,BBC News,2025-09-21T05:01:43+00:00,NewsAPI
+Go,The Whole 10 Yards,How far can the Steelers go with one of America's most talked about quarterbacks?,BBC News,2025-09-09T19:46:46+00:00,NewsAPI
+Go,"Flags, wars and fantasy kingdoms: Turner Prize artists show us their worlds",Work by the four artists nominated for this year's award will go on show in Bradford this weekend.,BBC News,2025-09-27T01:25:33+00:00,NewsAPI
+Go,8BitDo’s wireless N64-inspired controller is 30 percent off,"Look, delays happen. The Analogue 3D, a console made to display N64 games in 4K, has had its release window pushed multiple times. That frustrated me for a while because I wanted to get my hands on 8BitDo’s slick 64 Bluetooth controller that was made to go al…",The Verge,2025-09-17T15:09:25+00:00,NewsAPI
+Go,Costco is already selling piles of Lego Game Boys cheaper than the Lego company,"The Lego Game Boy isn’t supposed to go on sale until October 1st — but I already bought one and built it for you. How? Costco and Sam’s Club have pallets full of them at warehouses across the country, they’re already on sale at a discount, and I’ll tell you h…",The Verge,2025-09-26T19:00:44+00:00,NewsAPI
+Go,The strangest game of the year is a channel-surfing simulator,"It's not quite October yet, and there are still plenty of video games set to be released before the end of the year. Even still, I'm pretty convinced that Blippo Plus will go down as the strangest release of 2025. Calling it a game might be a bit of a misnome…",The Verge,2025-09-25T17:18:19+00:00,NewsAPI
+Go,Baby Steps hits on the hell and hilarity of hiking,"There are only two things that Nate really wants to do: use the toilet (one that, he emphasizes, comes with three walls and a door) and go home. He also walks with a strange gait, with one tiny foot raised awkwardly in front of the other, before landing with …",The Verge,2025-09-23T14:01:40+00:00,NewsAPI
+Go,Russell Brand’s Wife: Meet Laura Gallacher and Revisit His Marriage to Katy Perry,"After a whirlwind marriage to Katy Perry, Russell Brand tied the knot with Laura Gallacher. Find out more about her and their relationship, which hasn’t been without its bumps.",hollywoodlife,2025-10-06T18:40:00,NewsData
+Go,Tinubu Orders Reduction of 2026 Hajj Fare,".Shettima gives NAHCON two days to effect directive Deji Elumoye in Abuja Following the directive of President Bola Tinubu for an immediate review of the 2026 Hajj fares, Vice President",thisdaylive,2025-10-06T18:40:00,NewsData
+Go,"Daily Lotto and Daily Lotto Plus results: Monday, 6 October 2025",A total of R600 000 in jackpots is up for grabs tonight! Here are your winning Daily Lotto and Daily Lotto Plus results for 6 October 2025.,citizen,2025-10-06T18:40:00,NewsData
+Go,"Big Ten power rankings: Oregon on top, Washington climbs as Jedd Fisch (wisely) stays silent on travel impact","The Huskies played poorly in the first half at Maryland, but Jedd Fisch didn't use the schedule as an excuse, like other Big Ten coaches.",mercurynews,2025-10-06T18:39:50,NewsData
+Go,Aaron Glenn: Jets still ‘here to win now’ despite 0-5 start,"It's safe to say that Aaron Glenn's tenure as head coach of the New York Jets hasn't begun how he, or anyone in the building, hoped it would. With the Tennessee Titans and New Orleans Saints winning Sunday, the Jets (0-5) are left as the last winless NFL team this season.",yardbarker,2025-10-06T18:39:34,NewsData
+Go,SPORTS SHORTS | Kansei Matsuzawa Making His Mark as University of Hawaii Kicker,"Reporting on American college football standout Kansei Matsuzawa and his unique path to success from Japan, Marines manager Masato Yoshii's departure and more.The post SPORTS SHORTS | Kansei Matsuzawa Making His Mark as University of Hawaii Kicker first appeared on JAPAN Forward.",japanforward,2025-10-06T18:39:33,NewsData
+Go,Projecting Florida's final record in 2025: Will Gators keep up momentum under Billy Napier post-Texas win?,Sifting through the Gators' week-to-week remaining schedule for a final record prediction,cbssports,2025-10-06T18:39:23,NewsData
+Go,How Trump and Infantino's friendship is shaping the 2026 World Cup,"What to KnowThe government shutdown has entered its sixth day amid a standoff between Democratic and Republican leaders.Illinois filed a lawsuit against the Trump administration aiming to block the White House from sending Texas National Guard troops to Chicago. The suit came hours after a federal judge blocked deployments to Portland, Oregon.Israeli and Hamas officials are holding indirect talks in an Egyptian resort today in hopes of hammering out a potential ceasefire in Gaza on the eve of devastating war’s second anniversary.Follow along for live updates.",nbcnewyork,2025-10-06T18:39:21,NewsData
+Go,How Trump and Infantino's friendship is shaping the 2026 World Cup,"The plan started coming together inside a luxury box at MetLife Stadium.As the Premier League’s Chelsea was on its way to a shutout victory at the Club World Cup final in July, President Donald Trump and FIFA President Gianni Infantino were deep in discussion at the New Jersey sports complex outside New York City on another matter: where the draw for next year’s World Cup would be held.The high-drama spectacle decides which teams will face each other in the group stage of soccer’s most prestigious tournament, along with the schedule for competition. It was widely expected to unfold in Las Vegas, home to the 1994 draw when the U.S. last hosted the World Cup and a natural backdrop for glitz. But since at least March, officials had privately discussed bringing the draw to Washington, home to a showman president who regularly hugs the spotlight associated with sports. So during that July match in the stadium that will also host the final game of next year’s World Cup, Trump and Infantino agreed to get going on holding the draw in the U.S. capital — namely, the Kennedy Center, another institution that Trump reshaped to his liking.“During that Club World Cup final, there was a real seriousness to well, look, if we’re going to do this, we’ve got to do it now,” Andrew Giuliani, executive director of the White House FIFA task force, told The Associated Press. “That’s when talks heated up between the president and Mr. Infantino in terms of getting this done.”The collaboration over the draw, slated for Dec. 5, illustrates the bond that has formed between Trump and Infantino, described by the U.S. president as “probably the most respected man in sports.” The relationship will come into even sharper focus as the World Cup approaches, jointly hosted by the U.S., Mexico and Canada. Tickets are now open to fans as major questions hang over the tournament, including how welcome visitors from some countries will be in the U.S. amid its immigration crackdown. Even as the White House pledges openness, Trump has added another uncertainty by suggesting he could move games from cities he thinks are unsafe. Trump and Infantino develop a deep alliance Despite his affinity for sports, Trump is known more for his ties to golf and football than soccer. But his awareness of the sport was spurred in part by his youngest son, Barron, who is such a soccer fan that he had a net in the first lady’s garden during Trump’s first term.Trump’s interest only grew when the U.S. won World Cup hosting rights in 2018. Nothing excites Trump like hosting a major event, and Giuliani recalled that, at the time, the president and his aides were almost wistful that he wouldn’t be in the White House when the tournament arrived, assuming he would be well into a post-presidency following an immediate second term.Shortly after the U.S. was awarded the tournament, Trump hosted Infantino at the White House. Infantino, who was also serving his first term as FIFA president, made an impression by handing Trump red and yellow penalty cards, joking they could be used on the press. The relationship flourished in 2020 as both men plotted their futures. During a dinner that January at the global economic summit in Davos, near FIFA’s home in Zurich, Infantino called the U.S. president “my great friend.” Trump, always appreciative of a compliment, responded by inviting Infantino to a White House signing event for the Abraham Accords, which sought to normalize diplomatic relations between Israel and several Arab countries. The ceremony happened as Infantino was aligning FIFA’s sporting and commercial ties with Saudi Arabia and its Crown Prince Mohammed bin Salman. It followed a pattern of Infantino, much like Trump, cozying up to autocratic leaders.Infantino appeared to relish public meetings with Russian President Vladimir Putin before, during and after that country hosted the 2018 World Cup. Visiting Putin at the Kremlin with a group of soccer greats during the tournament, Infantino said he felt “like a child in a toy shop” in Russia. He collected the Russian Order of Friendship from Putin the following year.Infantino would later relocate to Doha ahead of the 2022 World Cup in Qatar, emerging as a strong defender of the tiny Gulf state that was fiercely criticized for its treatment of the hundreds of thousands of migrant workers needed to build essential stadiums, transport projects and hotels.Infantino’s connections to Biden were far more limitedAs the connection between Trump and Infantino deepened, Joe Biden dashed Trump’s hopes of staying in the White House. For the next four years, Infantino’s ties to Washington were far more limited. The two leaders had a brief meeting on the sidelines of the Group of 20 summit in Bali, Indonesia, in November 2022, a fleeting moment FIFA captured with one photo on its website.Second gentleman Douglas Emhoff also met with Infantino when he traveled for the Women’s World Cup in July 2023.Preparations for the World Cup under Biden were under the radar by design, according to one senior official for that administration who requested anonymity to discuss internal deliberations. Even though the administration had its own World Cup 2026 task force, Biden aides were aware of sensitivities surrounding large gatherings so soon after the COVID-19 pandemic.MORE WORLD CUP COVERAGE2026 World CupOct 1FIFA VP pushes back on Trump comments about moving World Cup games out of citiesWorld CupSep 26Trump suggests moving 2026 World Cup games out of U.S. cities he deems unsafeWorld CupSep 10Zohran Mamdani has new goal as he runs for NYC mayor: cheaper World Cup ticketsThe Biden White House was also careful not to overtly promote a relationship with FIFA, which had sidelined the U.S. Soccer Federation in its traditional role in coordinating a home World Cup. Instead, it negotiates individually with each of the 11 U.S. host cities on security, ticketing and other matters. Infantino visited the White House while Biden was president at least once, meeting for about an hour in 2024 with then-national security adviser Jake Sullivan, an avid soccer fan. Biden officials emphasized to Infantino that they wanted to ensure the host cities ultimately benefited from holding World Cup matches and that the U.S.’s human rights values would be respected.Trump’s return sets stage for a ‘MAGA’ World Cup Trump’s disappointment about missing out on the World Cup would prove to be unfounded after he was elected to a second, nonconsecutive term last year.Since that victory, Infantino’s embrace of Trump has been gushing. He promptly congratulated him the day after Election Day, was at Mar-a-Lago, Trump’s South Florida club, during the presidential transition and had a prime seat at his January inauguration. Trump called Infantino a “winner” in a video played at the Miami draw for the Club World Cup in December, which was attended by daughter Ivanka and son-in-law Jared Kushner.Meanwhile, FIFA has set up shop at Trump Tower in Manhattan, where Infantino worked last month as world leaders gathered nearby for the annual United Nations General Assembly. Infantino and Trump met again last week in New York, along with first lady Melania Trump, according to the FIFA president’s Instagram account. Infantino has teased the idea of Trump doing the draw himself, which Giuliani called the “MAGA-FIFA World Cup draw.” “Just like a great opera, there will be high drama,” Giuliani said. Infantino has had more public appearances with Trump than with any soccer officials from the sport’s heartlands of Europe and South America, according to the FIFA leader’s schedule and social media posts. He was late for his own FIFA Congress in Paraguay in May because he was with Trump and the Saudi crown prince in the Middle East, a move seen as disrespectful of his own voters and criticized by Europe’s soccer federations.During Infantino’s most recent appearance at Trump’s side in the Oval Office on Aug. 22, he took even some fellow soccer officials by surprise when he gifted a gold replica World Cup trophy to the U.S. president, saying it was “for winners only.” That handover was unexpected, according to one senior soccer official who requested anonymity to discuss sensitive dynamics. Even though it was a replica, the moment was still seen as a snub of World Cup tradition because Trump has held onto a trophy that is supposed to belong to the sport as a whole, not an individual person.A White House official said the trophy remains in the White House’s possession. No such offer was publicly extended by FIFA to Mexico’s President Claudia Scheinbaum or Canada’s Prime Minister Mark Carney. Infantino has not met with Carney this year and met Sheinbaum for the first time on Aug. 29.The episode is a reminder of how Infantino can shift with the moment. The man who remarked in Qatar on the eve of the World Cup in November 2022 that “today, I feel (like) a migrant worker” — comments interpreted as solidarity with migrants — was laughing along with Trump and Homeland Security Secretary Kristi Noem earlier this year as they bantered about migrants being unable to scale the repainted wall on the U.S. southern border.Infantino has framed his close relationship with Trump as “crucial” to the success of the World Cup, a massive operation that relies on expansive cooperation with federal, state and local governments. Trump’s suggestion that he could move the host cities was a reminder that Infantino is working with a famously impulsive president whose whims could expose FIFA to logistical havoc and legal jeopardy if he followed through. Even without those threats, those involved with World Cup planning said the tournament’s stakes are high because it’s the first in a series of global sporting events hosted by the U.S., including the 2028 Olympics in Los Angeles.“This needs to go well in order to show the world that if you want to have the best sports and entertainment events, you want to have them in the United States,” said Alex Lasry, CEO of the New York/New Jersey host committee. “I don’t think it’s unusual for a White House to be coordinating and be involved, and I don’t think it’s unusual for the heads of state and for the president to be excited and to be talking about a mega event coming here.”Dunbar reported from Geneva.",nbcphiladelphia,2025-10-06T18:39:21,NewsData
+Go,Stanford WBB Releases Full Schedule For 2025-26 Campaign,Which games do you have circled on the calendar?,si,2025-10-06T18:39:18,NewsData
+Go,"MLB playoffs 2025: Boos rain down on the Phillies as Dodgers go up 2-0 in NLDS, with the end of an era looming",,Yahoo Sports,2025-10-07T12:12:29.389260,GoogleNews
+Go,Happy haunts arrive for GO Pass: Halloween 2025!,,Pokemon Go,2025-10-07T12:12:29.389796,GoogleNews
+Go,Trump calls cartels terrorists. Is that enough to go to war?,,NPR,2025-10-07T12:12:29.390204,GoogleNews
+Go,How Far Does Trump’s Immunity Go?,,The Atlantic,2025-10-07T12:12:29.390580,GoogleNews
+Go,Phillies superstars go missing again. 'Writing's on the wall' in MLB playoffs?,,USA Today,2025-10-07T12:12:29.390923,GoogleNews
+Go,"Cerebras CEO explains IPO withdrawal, says AI chipmaker still intends to go public",,CNBC,2025-10-07T12:12:29.391242,GoogleNews
+Go,The case that made federalism go up in smoke,,SCOTUSblog,2025-10-07T12:12:29.391569,GoogleNews
+Go,Opinion | This Is No Time to Go Wobbly on ObamaCare,,The Wall Street Journal,2025-10-07T12:12:29.391882,GoogleNews
+Go,Government shutdown: Which DC tourist sites are closed – and where to go instead,,NBC4 Washington,2025-10-07T12:12:29.392214,GoogleNews
+Go,Opinion | G.O.P. to Gen Z: Pay Double for Health Insurance or Go Without,,The New York Times,2025-10-07T12:12:29.392586,GoogleNews
+Go,Phillies' top three bats go cold in rare postseason funk,,MLB.com,2025-10-07T12:12:29.392943,GoogleNews
+Go,Children’s Home Society of West Virginia gets go-ahead to apply for grant,,News and Sentinel,2025-10-07T12:12:29.393261,GoogleNews
+Go,When will mortgage rates go down? Predictions after rates increase for the second straight week.,,Yahoo Finance,2025-10-07T12:12:29.393607,GoogleNews
+Go,‘Critical’ GO bond election highlights OKC housing needs,,NonDoc,2025-10-07T12:12:29.393923,GoogleNews
+Go,Seahawks Drive Of The Game: Sam Darnold & The Offense Go 99 Yards For A Tory Horton TD,,Seattle Seahawks,2025-10-07T12:12:29.394245,GoogleNews
+Go,International Intrigue: WBK Roster Goes Global,,Florida Gators,2025-10-07T12:12:29.394562,GoogleNews
+Go,Instructor dies in Nashville skydiving incident; 2nd skydiver rescued from tree,,NBC News,2025-10-07T12:12:29.394865,GoogleNews
+Go,Casey’s Acquires Kum & Go Locations in Multiple States,,NACS,2025-10-07T12:12:29.395166,GoogleNews
+Go,Brazos County 4-H goes green for National 4-H Week,,KBTX News 3,2025-10-07T12:12:29.395521,GoogleNews
+Go,"Have a haunted Halloween tea party with Poltchageist, Sinistcha, and more in Pokémon GO!",,Pokemon Go,2025-10-07T12:12:29.395827,GoogleNews
+Go,"tldr: trump, cannabis, re-schedule","Hello all,
+
+can someone tldr me all that is going with trump and the rumors regarding cannabis.
+
+1. will it affect only cbd and mostly hemp growers?
+
+2. what affect will it have on medical and recreationally cannabis/companies?
+
+3. will it help Canadian companies on the stock market? will it allow to list american companies to the stock market?
+
+4. any time line for all of this? 
+
+  
+thank you and sorry for being lazy",weedstocks,2025-10-07T12:09:58,Reddit
+Go,Just me and raider during Augur. Raider politely shot arrows and was on standby to revive.,"Just beat Augur in depth 2. I was a recluse and ended up with just a Raider. We had an ironeye but he quit right before going on to the boss. It wasn’t the cleanest run, but we did fine. 
+
+I had a less likely to be targeted and some decent long range spells. So I floated around shooting dark moons and sometimes crystal barrage while my Raider just shot arrows politely and took aggro. He kept dropping warming stones to recharge. I had given him my welding grace just in case because he’d probably be better at reviving me. 
+
+It took a long time, but it was funny. He hung out like he would be ready to revive me when needed. Luckily I never needed a revive and we won. 
+
+Kind of great to be honest. ",Nightreign,2025-10-07T12:09:54,Reddit
+Go,Sony cybershot dsc w30 or dsc w70?,"hi, I’m looking to get my first digital camera and I’d really like some help. I’ve been searching on eBay and narrowed down these 2 options, can someone tell me which camera would be better? 
+
+The w30 is 6MP and the w70 is 7.2MP.
+
+I don’t really understand the descriptions all that well lol but if it helps I can show u the 2 listings so u can go through the details of each camera! Thanks!",digicam,2025-10-07T12:09:53,Reddit
+Go,Concerns about actions of executor,"My siblings and I are named in my grandfather’s will along with 2 aunts and my mother. The estate is supposed to be split between us. One of my aunts is the executor. 
+
+My brother had organised to collect some furniture and belongings but the day before he had organised to be there she text him that she’d thrown it all out on the street. My brother ended up going through boxes of my grandfather’s belongings in the street in the rain but the furniture was gone, it was really upsetting. My understanding is the executor is supposed to create an inventory and isn’t allowed to just dispose of assets, is that right?
+
+When my grandmother died, she left half of their property to my aunts, mother and and an uncle who died and left his portion to my cousin. They’ve owned 1/8 each of the property for about a decade but my grandfather lived there and paid all the strata fees, rates etc. My aunt is using the cash from my grandfather’s estate to renovate the property. They are contributing nothing but will benefit from the renovations doubly as they’re also inheriting my grandmother’s portion.
+
+None of this seems right. What do I do, if anything?",AusLegal,2025-10-07T12:09:47,Reddit
+Go,Candidate not engaging,"Before I go into detail I should mention we have a vacancy for a HR Admin in our team and are incredibly short staffed so there’s an urgent need to get someone in post asap. 
+
+We made an offer for a HR Admin last week, I called the candidate to make a verbal offer, she sounded a little odd over the phone but she had mentioned she was on her way out, so I told her I would follow up with an email. 
+
+An email was sent to the candidate shortly after the call reiterating that we wanted to offer her the HR Admin role and of course wanted to hear from her if she was happy to accept the offer or not. She confirmed her acceptance during the night, and the offer letter and details of pre-employment checks were sent to her quite early the next day. 
+
+And then it was radio silence from the candidate, there was no acknowledgment of receipt of the offer letter or anything about the pre-employment checks. We sent a follow up and gave a deadline for response, she responded within that timeframe confirming she had read the offer letter and was happy to accept the offer on the terms outlined, and provided information to complete two of the pre employment checks (DBS and RTW) which were processed digitally. 
+
+Days have gone by and we still haven’t heard from the candidate regarding her references. I’m not sure how to navigate this situation, I’ve processed hundreds of offers and pre-employment checks, and this is the first time I’m experiencing something like this",HumanResourcesUK,2025-10-07T12:09:46,Reddit
+Go,Guy I did it🙏🙏 I'm going on a date with the guy I like,I'm so so so happy oml. We sorta confessed to eachother yesterday and we had a hang out planned for today and we made it a date!!! I'm so excited and I know he's excited too. I'm so glad he likes me because he knows me. He knows the weird me from when we were just friends and he still likes me🤗 I kinda want to make it official and be like okay we boyfriend girlfriend now? Because we know we like each other and all that soon yeah I'm just soon happy!!!,teenagers,2025-10-07T12:09:44,Reddit
+Go,Good luck to everyone else and their runs 🙏🏼,"Let’s go!!!
+",MonsterHunterWilds,2025-10-07T12:09:43,Reddit
+Go,Is drinking while BF such an issue?,"I engaged with a twitter post about a mom celebrating end of her breastfeeding journey and 3 years of not drinking (2 years + 9 months pregnancy) by having a drink saying ""who is going to tell her she could've had that drink while breastfeeding? ""And received a HUGE backlash which got me really upset. Its mostly unmarried man commenting which is so annoying. 
+
+I thought everyone had an occasional drink while breastfeeding? 
+
+I pump enough milk to keep baby full for 3-4 hours, nurse, then have a glass of something, I count three hours after my last sip of drink before nursing the baby and check with frida sticks first. 
+
+Baby is 4 months and i did this a couple of times on special occasions such as my birthday, cousins wedding, date night with my husband... you get the idea. 
+
+Is this wrong? 
+",breastfeeding,2025-10-07T12:09:41,Reddit
+Go,Oddly specific request: can you help me find European Zyn?,"I’m visiting your beautiful city for a few weeks and am on an odd, specific quest in search of European Zyn.
+  
+Specifically Citrus Euro Zyn Slim pouches.
+  
+Euro Zyn are different than American Zyn ( slim, smaller pouches, different flavors and strengths). Often they’re sold at vape shops. Can anyone point me in the right direction, or know of any shops that may sell them? I have no personal transportation while in town, so my ability to just go out and visit a ton of shops until I find some is limited.",askportland,2025-10-07T12:09:39,Reddit
+Go,"Positron - think Tron meets snake, meets puzzle running on the PC on ear...","💥 What if Tron, Snake, and a puzzle game had a digital baby... and then cranked it full of speed, neon lights, and rage-quitting difficulty? That’s Positron-a fast-paced, brain-flexing indie gem now available in early access on PC.  
+  
+🚨 You’ll dash, crash, and probably shout some words your keyboard didn’t deserve to hear, but you’ll keep going because Positron is addictive, stylish, and brutally fun.  
+  
+✨ With razor-sharp visuals that scream retro-future and gameplay that rewards quick thinking (or punish you for lacking it), Positron is what happens when you take Snake, give it a glow-up, and force it through a Tron-inspired rave puzzle party.  
+  
+💾 It's slick, it's tough, and it’s PC-exclusive (for now). If you're into indie games, retro aesthetics, and games that make you go “just one more run” at 2AM, this is your next obsession.  
+  
+➡️ Watch the full video for gameplay, impressions, and probably a few ""oops I died again"" moments.  
+  
+Available from [https://store.steampowered.com/app/374780/Positron/](https://www.blogger.com/u/1/#).  
+ ",IndieGaming,2025-10-07T12:09:37,Reddit
+Go,I don't know how to run,"I just DNF-ed my marathon yesterday. Up until the 20th km, I was trying my best to hold on to my pace, but I could no longer go any further and I was starting to feel so dizzy and my legs were giving up on me. I was fighting with myself to not give up and to just suck it up and continue the run, not giving a damn about timing or pace. But my body wasn't cooperating with me.
+
+The marathon flag off was at 3:30am and the weather was hot and humid, it honestly felt very very hot for me, and 10km in, i was already sweating so much (I don't sweat as much on my usual runs), and my heart rate was unusually high for that pace. I knew in my heart something wasn't right, but I didnt care, I just kept going, trying to hold on for as long as I could. In the end I finally made the decision to stop because it was getting so bad, that I nearly passed out... my body just couldn't go any more. 
+
+I'm glad I listened to my body and stopped, but the disappointment after was so bad, I couldn't even believe that after all the training block, all the long runs, and all the early mornings led up to this trash of a run. I kept wondering what went wrong, what's wrong with me?? I really don't know how..... and I don't even know how to attempt to run another marathon again... ",runninglifestyle,2025-10-07T12:09:33,Reddit
+Go,"Expecting this to see pick 12 and Starcevich end up at the Eagles as well as picks 33 and 52, pick 16 go to the Lions and the Dockers then slide back from 12 to one of the Eagles' early 20s picks plus more",,AFL,2025-10-07T12:09:27,Reddit
+Go,Negative Lyme Test but Severe Herxing,"I got what everyone believes to be a tick bite (I never actually saw a tick though) on September 30th. A large rash on my leg with some intense itching appeared about a week later. I went to urgent care and they put me on Doxy 100mg twice a day for 14 days. 
+
+Doxy has felt fine until day 6. Then all of a sudden I felt intense aching in the leg with the bite. The following day, that aching spread pretty much everywhere. My neck, back, and legs have ALL been extremely achy, but I got a negative Lyme test and everything so I’m just surprised that I’m reacting this way. My rash though is basically healed which is great. 
+
+I probably should be retested tbh, but I’m posting on this sub because yall are veterans and I could use advice about what to do going forward/what kind of doctor I should consult with. 
+
+",Lyme,2025-10-07T12:09:27,Reddit
+Go,why tf is fukuros music like disappearing,a lot of their songs aren’t available on instagram anymore and if you go to listen to them on Spotify or youtube they simply just don’t exist. are they having like a licensing issue or something?,visualkei,2025-10-07T12:09:24,Reddit
+Go,"Spirituality means balance, first of all.","These are my conclusions based on the feedback I've received throughout my life, while walking a spiritual path.
+
+I often lived at the extremes with my thoughts, emotions, and actions. It was always harmful. Balance is something I chased for years. It didn’t begin by sheer will, but through healing myself over time and with patience. Now, it feels like a stable energy, subtle and refined.
+
+How it changed me:
+
+1. It stopped my need to compare myself to others.  
+I realized that what I have, however small it may seem, is the result of my own work and I take pride in that. And I leave it at that, always.
+
+2. It brought silence to my mind.  
+Thoughts like “I’m stupid,” “I’m ugly,” “I didn’t study enough,” “I don’t earn enough for my age and knowledge,” or “I should avoid asking silly questions” became quieter and quieter.
+
+3. I stopped caring about meaningless things.  
+Brands, the desire to be rich, celebrities, watching TV, none of it matters to me anymore.
+
+4. I started listening more.  
+People express their pain in many ways, through all kinds of words and gestures. This helped me see the value in how people communicate.
+
+5. I began speaking more clearly.  
+To truly understand and connect with others, simple speech, pauses between ideas, and an appropriate tone are key. Using lofty words that sound like philosophical quotes or obscure labels from spiritual texts used to make people go quiet. Now, they come closer and ask questions. This shift played a big role in my transition from being closed-off to being open and relaxed.
+
+6. I learned to filter what people say and “hear” the hidden issues.  
+Sometimes people talk for 20 minutes with no real substance, just a need to be heard. Instead of responding to the surface level talk, I ask, “Okay, but may I ask what’s really bothering you?” That simple shift completely changed how people perceive me.
+
+7. I became more sensitive to my surroundings.  
+I started to sense what’s good or bad around me and learned to protect myself better, avoiding places with negative energy. Suddenly, after coming home from a pub or someone’s house, I wasn’t tired anymore.
+
+8. This might sound funny, but my body language changed too.  
+My shoulders are relaxed, my back is straight, I “stand tall,” as the saying goes. My gestures while speaking are calm and purposeful.  
+Oh, and I’m not clumsy anymore. I haven’t spilled or dropped anything in a long time.
+
+9. I defend myself, my ideas, and my beliefs in public.  
+I’m no longer ashamed or afraid of being judged. I speak my mind without trying to convince anyone. I also easily avoid arguments.
+
+10. Time feels different.  
+My awareness has increased and continues to grow. I often play with time by setting an intention and choosing to “go slower.” The result? I get more done, faster, without feeling rushed. I’m still studying this phenomenon, it’s hard to explain, so I treat it like homework.
+
+There’s more, but the essence remains: I am and feel more balanced in everything.  
+This doesn’t mean I’m perfect or closer to being “enlightened.” I’m still me… just a different me. A better me.
+
+By the way, how’s your balance these days?",spirituality,2025-10-07T12:09:21,Reddit
+Go,Today is 7th october,"In august I set a date, but before I do it, I have to be sure that I really run out of all options. I'm going to try a few lasts things and if it doesn't work I'll do it. I don't want to die, but I don't want to live like this. 
+",SuicideWatch,2025-10-07T12:09:21,Reddit
+Go,"Positron - think Tron meets snake, meets puzzle running on the PC on ear...","💥 What if Tron, Snake, and a puzzle game had a digital baby... and then cranked it full of speed, neon lights, and rage-quitting difficulty? That’s Positron-a fast-paced, brain-flexing indie gem now available in early access on PC.  
+  
+🚨 You’ll dash, crash, and probably shout some words your keyboard didn’t deserve to hear, but you’ll keep going because Positron is addictive, stylish, and brutally fun.  
+  
+✨ With razor-sharp visuals that scream retro-future and gameplay that rewards quick thinking (or punish you for lacking it), Positron is what happens when you take Snake, give it a glow-up, and force it through a Tron-inspired rave puzzle party.  
+  
+💾 It's slick, it's tough, and it’s PC-exclusive (for now). If you're into indie games, retro aesthetics, and games that make you go “just one more run” at 2AM, this is your next obsession.  
+  
+➡️ Watch the full video for gameplay, impressions, and probably a few ""oops I died again"" moments.  
+  
+Available from [https://store.steampowered.com/app/374780/Positron/](https://www.blogger.com/u/1/#).  
+ ",GentlemensPixelClub,2025-10-07T12:09:19,Reddit
+Go,rate my miku obsession ^_^,going to China and finding more miku merch there made me scream lol,hatsune,2025-10-07T12:09:17,Reddit
+Go,Need help identifying a shirt,"About 5 or 6 years ago I was in a thrift store in California &amp; found this shirt, it was a bit big for me but I bought it cause it was comfy and had these nice side pockets on it to store stuff. Now it's falling apart in the pits and the pockets are breaking. It has no tags or identifiable information on it. Everywhere else I go to has no information on this type of shirt so I decided I'll ask the internet. If you have any info that might help me figure out what it is and how I can find a new one, it'd be greatly appreciated.
+
+https://preview.redd.it/v4j8xgcoxmtf1.png?width=2136&amp;format=png&amp;auto=webp&amp;s=0c54f8c905793d6e60189584401ff34410f73d30
+
+",findfashion,2025-10-07T12:09:12,Reddit
+Go,Imminence/Tivoli 10/10/25,"Hi All, 30 year old male looking for concert goers who are going alone or if I could tag along with your group that would be sweet as too",BrisbaneSocial,2025-10-07T12:09:10,Reddit
+Linux,Android Needs to Remember Its Roots Before It Can Become a PC,"Google and Qualcomm seem to be mixing it up for an option beyond Mac, Windows, and Linux.",Gizmodo.com,2025-09-24T21:48:06+00:00,NewsAPI
+Linux,Amazon accidentally confirms Vega TV OS launch for 2025,"This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Amazon is moving ahead with plans to replace Android with its custom-built Vega operating syst…",The Verge,2025-09-25T12:02:11+00:00,NewsAPI
+Linux,Fedora Linux 43 Beta Released,"BrianFagioli shares a report from NERDS.xyz: The Fedora Project has announced Fedora Linux 43 Beta, giving users and developers the opportunity to test the distribution ahead of its final release. This beta introduces improvements across installation, system …",Slashdot.org,2025-09-16T22:40:00+00:00,NewsAPI
+Linux,The Android Linux Commander,"Last time, I described how to write a simple Android app and get it talking to your code on Linux. So, of course, we need an example. Since I’ve been on something of a macropad kick lately, I…",Hackaday,2025-09-09T17:00:11+00:00,NewsAPI
+Linux,Jenny’s Daily Drivers: KDE Linux,"Over this series test-driving operating systems, we’ve tried to bring you the unusual, the esoteric, or the less mainstream among the world of the desktop OS. It would become very boring very…",Hackaday,2025-09-22T17:00:48+00:00,NewsAPI
+Linux,Consumer Reports Asks Microsoft To Keep Supporting Windows 10,"Consumer Reports has urged Microsoft to keep supporting Windows 10 beyond its October 2025 cutoff, saying the move will ""strand millions of consumers"" who have machines incompatible with Windows 11. The Verge reports: As noted by Consumer Reports, data sugges…",Slashdot.org,2025-09-16T21:20:00+00:00,NewsAPI
+Linux,FLOSS Weekly Episode 846: Mastering Embedded Linux Programming,"This week Jonathan and Dan chat with Frank Vasquez and Chris Simmonds about Embedded Linux, and the 4th edition of the Mastering Embedded Linux Programming book. How has this space changed in the l…",Hackaday,2025-09-10T18:30:49+00:00,NewsAPI
+Linux,BCacheFS is now a DKMS Module After Exile from the Linux Kernel,"It’s been a tense few months for users of the BCacheFS filesystem, as amidst the occasional terse arguments and flowery self-praise on the Linux Kernel mailing list the future of this filesys…",Hackaday,2025-09-20T02:00:03+00:00,NewsAPI
+Linux,"PIRG, Other Groups Criticize Microsoft's Plan to Discontinue Support for Windows 10","The consumer advocacy nonprofit PIRG (Public Interest Research Group) is now petitioning Microsoft to reconsider pulling support for Windows 10 in 2025, since ""as many as 400 million perfectly good computers that can't upgrade to Windows 11 will be thrown out…",Slashdot.org,2025-09-21T03:44:00+00:00,NewsAPI
+Linux,Who Wants a Rusty Old Smartphone?,"If we’re talking about oxidized iron… probably nobody. If we’re talking about Rust the programming language, well, that might be a different story. Google agrees, and is working on bringing …read more",Hackaday,2025-09-24T11:00:10+00:00,NewsAPI
+Linux,Microsoft is Bringing Video Wallpapers To Windows 11,"Microsoft is working on bringing support for setting a video as your desktop wallpaper on Windows 11. From a report: Hidden in the latest Windows 11 preview builds, the feature lets you set an MP4, MOV, AVI, WMV, M4V, or MKV file as your wallpaper, which will…",Slashdot.org,2025-09-22T17:26:00+00:00,NewsAPI
+Linux,Diagnosing a Linux Performance Regression,"From time to time, our systems engineers write up a case study detailing a notable moment on the infrastructure front lines. This month’s comes from Ale Crismani and Joshua Coughlan, systems w…",Automattic.com,2025-09-29T18:46:15+00:00,NewsAPI
+Linux,Knowing That It Is Possible,"We like to think that we can do almost anything. Give me a broken piece of consumer electronics, and I’ll open it up and kick the capacitors. Give me an embedded Linux machine, and I’ll poke around…",Hackaday,2025-09-06T14:00:23+00:00,NewsAPI
+Linux,Mini Laptop Needs Custom Kernel,"These days, you rarely have to build your own Linux kernel. You just take what your distribution ships, and it usually works just fine. However, [Andrei] became enamored with a friend’s cyber…",Hackaday,2025-09-29T11:00:31+00:00,NewsAPI
+Linux,"Secure Software Supply Chains, Urges Former Go Lead Russ Cox","Writing in Communications of the ACM, former Go tech lead Russ Cox warns we need to keep improving defenses of software supply chains, highlighting ""promising approaches that should be more widely used"" and ""areas where more work is needed.""
+There are importa…",Slashdot.org,2025-09-21T15:34:00+00:00,NewsAPI
+Linux,"Yes, Gemini, A Wii Server Is Possible","When [Reit Tech] needed something to do with an old Nintendo Wii, he turned to Google. When the AI overview told him it could not be used as a server, he had his mission: prove that clanker wrong. …",Hackaday,2025-10-03T05:00:19+00:00,NewsAPI
+Linux,FLOSS Weekly Episode 847: This is Networking,"This week Jonathan and Rob chat with Tom Herbert about XDP2! It’s the brand new framework for making networking really fast, making parsers really simple, and making hardware network acceleration …read more",Hackaday,2025-09-17T18:30:57+00:00,NewsAPI
+Linux,Differences between stal/IX and regular Linux,landing page,Github.io,2025-09-12T03:08:50+00:00,NewsAPI
+Linux,Classic GTK1 GUI Library,"Classic GTK1 GUI Library for Windows, Linux and MacOS.",Gitlab.com,2025-09-08T12:55:59+00:00,NewsAPI
+Linux,Amazon is about to drop Vega OS on Fire TV sooner than expected,Amazon is quietly getting ready to rewrite Fire TV’s DNA.,Android Central,2025-09-26T19:12:00+00:00,NewsAPI
+Linux,LibreWolf 143.0.4-1,"LibreWolf 143.0.4-1 by Razvan Serea LibreWolf is an independent “fork” of Firefox, with the primary goals of privacy security and user freedom. It is the community run successor to LibreFox. LibreWolf is designed to increase protection against tracking and fingerprinting techniques, while also including a few security improvements. This is achieved through our privacy and security oriented settings and patches. LibreWolf also aims to remove all the telemetry, data collection and annoyances, as well as disabling anti-freedom features like DRM. LibreWolf features: Latest Firefox — LibreWolf is compiled directly from the latest build of Firefox Stable. You will have the the latest features, and security updates.Independent Build — LibreWolf uses a build independent of Firefox and has its own settings, profile folder and installation path. As a result, it can be installed alongside Firefox or any other browser.No phoning home — Embedded server links and other calling home functions are removed. In other words, minimal background connections by default.User settings updatesExtensions firewall: limit internet access for extensions.Multi-platform (Windows/Linux/Mac/and soon Android)Community-DrivenDark theme (classic and advanced)LibreWolf privacy features: Delete cookies and website data on close.Include only privacy respecting search engines like DuckDuckGo and Searx.Include uBlockOrigin with custom default filter lists, and Tracking Protection in strict mode, to block trackers and ads.Strip tracking elements from URLs, both natively and through uBO.Enable dFPI, also known as Total Cookie Protection.Enable RFP which is part of the Tor Uplift project. RFP is considered the best in class anti-fingerprinting solution, and its goal is to make users look the same and cover as many metrics as possible, in an effort to block fingerprinting techniques.Always display user language as en-US to websites, in order to protect the language used in the browser and in the OS.Disable WebGL, as it is a strong fingerprinting vector.Prevent access to the location services of the OS, and use Mozilla's location API instead of Google's API.Limit ICE candidates generation to a single interface when sharing video or audio during a videoconference.Force DNS and WebRTC inside the proxy, when one is being used.Trim cross-origin referrers, so that they don't include the full URI.Disable link prefetching and speculative connections.Disable disk cache and clear temporary files on close.Disable form autofill.Disable search and form history...and more.Notes: To receive automatic updates, you may refer to the unofficial LibreWolf-WinUpdater that employs a scheduled task to accomplish the same. Download: LibreWolf 64-bit | Portable 64-bit |~100.0 MB (Open Source) Download: LibreWolf 32-bit | Portable 32-bit | Other Operating Systems Links: LibreWolf Home Page | Addons | Screenshot | Reddit Get alerted to all of our Software updates on Twitter at @NeowinSoftware",neowin,2025-10-06T18:00:01,NewsData
+Linux,Unity just patched a serious security flaw - update your games and apps now,Unity creators should update their games and apps with this security patch.,tomsguide,2025-10-06T17:09:08,NewsData
+Linux,Why We Must Break Big Tech's Stranglehold on Machine Intelligence,"Centralized corporate control over the physical and intellectual infrastructure of AI calls for decentralized alternatives to prevent ""digital feudalism.""",entrepreneurmx,2025-10-06T17:00:00,NewsData
+Linux,I've tested the best Linux office suites and these are my top 5 - most are free,"If productivity is your jam, you'll be glad to know that Linux has several outstanding office suites ready to use.",zdnet,2025-10-06T16:25:29,NewsData
+Linux,Intel Wildcat Lake: 16-Core CPU with 180 AI TOPS Eyes 2026 Launch,"Intel's Wildcat Lake processor targets entry-level mobile and embedded devices as a successor to Alder Lake-N, featuring up to 16 CPU cores and 180 AI TOPS for efficiency-focused computing. Leaks indicate an early 2026 launch with advanced Linux support and Xe3 graphics. This positions Intel competitively in budget segments against rivals like AMD.",webpronews,2025-10-06T16:19:22,NewsData
+Linux,Redox OS Roadmap: Rust-Driven Speed Boosts to Challenge Linux,"Redox OS, built in Rust for enhanced safety and concurrency, is advancing multi-threaded features like faster file I/O (up to 700%) and async drivers. Its 2025-2026 roadmap includes server variants, ARM/RISC-V support, and optimizations to challenge Linux in performance and reliability. This positions it as a promising, secure OS alternative.",webpronews,2025-10-06T16:18:13,NewsData
+Linux,This new Linux desktop environment gives us what Microsoft never did with Windows,"Linux has a new desktop environment in the works, and COSMIC is already looking very promising in its first beta stage.",xda_developers,2025-10-06T16:00:21,NewsData
+Linux,Switching from Windows to Chromebook: What South African Users Need to Know,SME Tech Guru Series: Platform Shifts Made Simple – Part 1,smetechguru,2025-10-06T15:56:32,NewsData
+Linux,FastBuilder.AI Launches Next-Generation Computer User Agents for Business and Personal Automation,"Image: https://www.globalnewslines.com/uploads/2025/10/1759329289.jpgColumbus, Ohio - October 6, 2025 - FastBuilder.AI today announced the official launch of its Computer User Agent, an intelligent automation platform designed to transform how businesses and individuals manage daily tasks across Windows, Mac, and Linux systems.Image: https://www.globalnewslines.com/uploads/2025/10/618235de7a96976365665505503ab2d5.jpgThe",openpr,2025-10-06T15:54:03,NewsData
+Linux,"FSF Celebrates 40 Years: Ian Kelling Named President, Launches LibrePhone","The Free Software Foundation celebrates its 40th anniversary by appointing longtime staffer Ian Kelling as president and launching the LibrePhone campaign for a privacy-focused, fully free software mobile ecosystem. Founded by Richard Stallman in 1985, the FSF continues championing user rights amid challenges like AI and proprietary tech.",webpronews,2025-10-06T15:41:54,NewsData
+Linux,Many Networking Performance Improvements & New Hardware In Linux 6.18,,Phoronix,2025-10-07T12:12:38.081980,GoogleNews
+Linux,News about Linux,,,2025-10-07T12:12:38.082005,GoogleNews
+Linux,Gemini CLI to Your Kali Linux Terminal To Automate Penetration Testing Tasks,,Cyber Security News,2025-10-07T12:12:38.082478,GoogleNews
+Linux,AMD confirms new Radeon PRO W7900D SKU through latest Linux driver,,VideoCardz.com,2025-10-07T12:12:38.082849,GoogleNews
+Linux,Arch Linux's AUR Wasted My Time Until I Did This,,How-To Geek,2025-10-07T12:12:38.083226,GoogleNews
+Linux,"9to5Linux Weekly Roundup: October 5th, 2025",,9to5Linux,2025-10-07T12:12:38.083556,GoogleNews
+Linux,"'Enjoy Cronos on Steam, wherever you are!': Bloober Team announces native Linux build for Cronos: The New Dawn",,PC Gamer,2025-10-07T12:12:38.083862,GoogleNews
+Linux,Haptic Touchpad Support Makes It Into Linux 6.18,,Phoronix,2025-10-07T12:12:38.084201,GoogleNews
+Linux,Linux Preps IAA Accelerator Support For Intel's Wildcat Lake,,Phoronix,2025-10-07T12:12:38.084541,GoogleNews
+Linux,Linux 6.18 Works Around An Intel Xeon 6 PCIe Performance Issue,,Phoronix,2025-10-07T12:12:38.084840,GoogleNews
+Linux,Gaming on Linux still isn’t perfect - here’s why I switched off of it,,XDA,2025-10-07T12:12:38.085163,GoogleNews
+Linux,The 5 fastest Linux distros I've tried - and they're all free,,ZDNET,2025-10-07T12:12:38.085501,GoogleNews
+Linux,KarmaViz: music visualization software for Linux PCs #Python,,Adafruit,2025-10-07T12:12:38.085802,GoogleNews
+Linux,Linux 6.18 Enhances HID with Haptic Touchpad and DualSense Support,,WebProNews,2025-10-07T12:12:38.086120,GoogleNews
+Linux,Gemini CLI on Kali Linux – A Guide to Automated Pentest Tasks,,Cyber Press,2025-10-07T12:12:38.087242,GoogleNews
+Linux,I borrowed these habits from Linux and my Windows setup is better for it,,MakeUseOf,2025-10-07T12:12:38.088133,GoogleNews
+Linux,"I replaced WSL with a full Linux VM, and here’s why it's actually better",,XDA,2025-10-07T12:12:38.088755,GoogleNews
+Linux,8 free Linux apps that are surprisingly useful - no command line required,,ZDNET,2025-10-07T12:12:38.089318,GoogleNews
+Linux,Linux 6.18 FUSE Enhancements: 64-Bit Support and VirtIO-FS Optimizations,,WebProNews,2025-10-07T12:12:38.089985,GoogleNews
+Linux,Windows 11 25H2 reminds me why swapping to Linux was the best idea I've had this year,,XDA,2025-10-07T12:12:38.090755,GoogleNews
+Linux,Can't boot fydeos from usb,"Hi guys, 
+
+I spent hours trying to boot fydeos from a USB to no avail while all other Linux distributions work well. 
+
+Here's what I've tried so far
+Balena Etcher
+YUMI
+Ventoy
+Rufus
+
+On Mac, PC, Linux
+
+Using the .bin.zip uncompressed 
+Using the .bin
+Renaming the .bin to .img
+
+All methods seem to fail and it just loops back and restarts into windows. 
+
+I'm using a USB/microsd card Reader via USBC
+
+Any thoughts on what's happening and how to fix? 
+
+Thank you so much ",FydeOS,2025-10-07T12:06:40,Reddit
+Linux,Memetic takeover by UNIX:  Entropy Attractor Intelligence Paradigm narrative about UNIX success,"***“…UNIX evolves not as a “true” OS but as an admissible morphism stack sustaining syntax-semantics mappings under entropy budgets.”***
+
+I am the executive doing all the systems thinking and strategic thinking. Using my 35-year experience at the University of the Philippines, I am also the creator/developer — with help from company colleagues — of the model involved, Bridge360 Metatheory Model. LLM1, LLM2, LLM3, LLM4, and LLM5 are the rank and file clerks serving as interlocutors showing me information I have little or no time to access. \[ChatGPT (LLM1), Gemini (LLM2), Perplexity (LLM3), Claude (LLM4), Grok (LLM5)\]
+
+
+
+https://preview.redd.it/o4g9d473xmtf1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=f1ebf9ae99d85c3462ba31b39de6306e47836121
+
+My prompt issued to LLM1 as I upload two documents elaborating Bridge360 Metatheory Model:
+
+Map predictions beginning (with) work of Ken Thomson and Dennis Ritchie at Bell Labs in 1969 to the present tracking the development of UNIX and how it has become memetic over all ICT spaces now using Bridge360 Metatheory Model and see if the actual historical events fit the predictions in some retrodictive validation form.
+
+LLM1 response:
+
+Here’s a compact “Bridge360 retrodictive audit” of UNIX from Thompson–Ritchie (1969) to today. Each row states what Bridge360 would have **predicted** ex-ante (given its ε-band, fragility cap, and braid-and-bus norms), then checks the **historical fit**.
+
+&gt;
+
+# UNIX through the Bridge360 lens — predicted vs. observed
+
+https://preview.redd.it/c13xmvxqvmtf1.png?width=930&amp;format=png&amp;auto=webp&amp;s=30e1dff6e3a3f62c82167bf693fee85c258e5e76
+
+# Why this is a memetic takeover (in Bridge360 terms)
+
+* **Consensus spine:** C/POSIX/Unix shell formed the thin, low-rank bus that everyone could target (compile once, script everywhere). That’s exactly the “braid-then-bus” admissibility pattern.
+* **ε-band discipline:** The text-first, tool-chain approach sits in the **mid-entropy** corridor—expressive enough (not too brittle), simple enough (not chaotic).
+* **Tripwire avoidance:** When centralization risked chokepoints (single vendor UNIX), the ecosystem morphed via open standards and licensing (POSIX, BSD/GNU/Linux)—a textbook repair path to keep F ≤ 0.40.
+* **Event-triggered fusion:** Cloud/container orchestration (Kubernetes) braided many local spines (apps, services, clusters) into a controlled bus only where shared structure existed, keeping slack local.
+
+# Retrodictive validation scorecard
+
+* **1969–1983 (Birth → BSD/TCP/IP):** Strong fit. Pipes + C + sockets show the **same** entropy-bounded design choices B360 would recommend. ([Wikipedia](https://en.wikipedia.org/wiki/C_%28programming_language%29?utm_source=chatgpt.com))
+* **1984–1995 (Standards &amp; governance realignment):** Strong fit. POSIX and the BSD unencumbering reduce coordination entropy; Linux completes the free UNIX stack. ([Wikipedia](https://en.wikipedia.org/wiki/POSIX?utm_source=chatgpt.com)) ([Fossbytes](https://fossbytes.com/linus-torvaldss-famous-email-first-linux-announcement/?utm_source=chatgpt.com))
+* **1996–2010 (Consumer &amp; web expansion):** Strong fit. Apache-era web + Apple’s Darwin (BSD/Mach) propagate the meme into browsers and desktops. ([WIRED](https://www.wired.com/1999/05/apache-3?utm_source=chatgpt.com))
+* **2011–today (Cloud/HPC/mobile ubiquity):** Very strong fit. Android’s Linux kernel, Kubernetes, and Linux-everywhere in HPC reflect a stable, low-fragility consensus spine. ([Android Open Source Project](https://source.android.com/docs/core/architecture/kernel?utm_source=chatgpt.com))
+
+# Bottom line (Bridge360 verdict)
+
+UNIX’s history **fits** Bridge360’s predictions with high fidelity: a thin, portable **consensus spine** (C/POSIX/shell) operating in the ε-band with fragility capped—then **braided** upward (Internet, cloud, mobile) only where the shared structure lowered net entropy. That’s classic **entropy-bounded mapping** rather than “truth” claims, and it explains the meme’s extraordinary reach across ICT.
+
+…
+
+My prompt issued to LLM5 as I upload two documents elaborating Bridge360 Metatheory Model:
+
+Map predictions using Bridge360 Metatheory Model beginning with work (of) Ken Thomson and Dennis Ritchie at Bell Labs in 1969 to the present tracking the development of UNIX and how it has become memetic over all ICT spaces now and see if the actual historical events fit the predictions in some retrodictive validation form.
+
+LLM5 response:
+
+Historical Timeline of UNIX Development and Memetic Spread
+
+To retrodictively validate the Bridge360 Metatheory Model against the evolution of UNIX, we first construct a compressed timeline as a “local spine” summary (per H.4.x Consensus-Spine Admissibility). This fuses key events into a thin meta-spine (S\*), capturing consensus modes: modular design, portability, and philosophical propagation (”do one thing well,” text as universal interface). The timeline tracks from inception (1969) to the present (October 2025), emphasizing entropy-stabilizing morphisms (e.g., rewrites, forks) and memetic braiding across ICT domains (servers, embedded systems, AI tooling).
+
+https://preview.redd.it/oyytm9hhwmtf1.jpg?width=873&amp;format=pjpg&amp;auto=webp&amp;s=419e457f886ee7b61b23a392e2b8128c2b35c0c5
+
+https://preview.redd.it/b6nzn23jwmtf1.png?width=891&amp;format=png&amp;auto=webp&amp;s=17d3b24ba758dcb3bc98bc828565e170b4f215c9
+
+https://preview.redd.it/jigonuzlwmtf1.png?width=905&amp;format=png&amp;auto=webp&amp;s=6f8ceb027e62130cf873f7a9c78c8976f7c1e584
+
+Notes on Proxies: ε-hat retrodictively estimated as H(π\_T)/log|S| where π\_T is induced distribution over system states (e.g., version forks), S as relevant configs (tools/interfaces). F as fragility proxy (e.g., litigation density or outage rates). All stay within gates: ε ∈ \[0.45, 0.65\], F ≤ 0.40, per Axiom E. Distortion D(full || T) ≤ B via budgeted idealizations (e.g., text interfaces defer GUI complexity).
+
+Bridge360 Mapping: UNIX as Entropy-Bounded Navigability Scaffold
+
+Under Bridge360 (v16.3 Light-Spine Integration), UNIX evolves not as a “true” OS but as an admissible morphism stack sustaining syntax-semantics mappings under entropy budgets. The core “light-spine” (Axiom L) is the null-like causal order of its philosophy: modular, text-pipelined flows (pipes as null generators k\^a, preserving order without bloating h). Development and memetic spread operationalize the Braid-then-Bus Pattern (H.4.x), fusing local spines (e.g., Thompson’s assembler tools) into a thin meta-spine S (kernel + shell ecosystem) via event-triggered sync (e.g., USENIX conferences, mailing lists).
+
+Key Morphisms as Entropic Handoffs (EMS, Section 4)
+
+https://preview.redd.it/qbqm3p7twmtf1.png?width=813&amp;format=png&amp;auto=webp&amp;s=77264e7c83b049840411bc6fb45700453d0abc80
+
+Memetic Propagation as Low-Entropy Heuristic (H.4 Theoretical Physics as Budgeting)
+
+https://preview.redd.it/dy4u3ug1vmtf1.png?width=808&amp;format=png&amp;auto=webp&amp;s=75aec9a25dd7f4a49049592b52a937e17a6dddf7
+
+Tripwires fired sparingly (e.g., Y2K as h ↑ test, resolved by patches; 2024–2025 quantum threats audited via post-quantum libs in FreeBSD/Linux). Repair paths: Always escalate minimally (e.g., add damping via standards), retest gates.
+
+Retrodictive Validation: Historical Fit to Bridge360 Gates
+
+https://preview.redd.it/0updub4yumtf1.png?width=804&amp;format=png&amp;auto=webp&amp;s=61df5469a5c13384895c814b94f613236c35037f
+
+",u_propjerry,2025-10-07T12:05:21,Reddit
+Linux,Kernel version downgraded when switching to unstable,"Hi all, I recently switched channels from  25.05 to unstable and the kernel version I am running was downgraded from 6.17.0 to 6.16.9. I've tried for a couple days to figure out why/how to get 6.17 on unstable but can't figure it out. I have 'boot.kernelPackages = pkgs.linuxPackages_latest;' in my config. Any ideas? thx",NixOS,2025-10-07T12:04:37,Reddit
+Linux,Thinpad X13 Gen 4 Bios passoword,"Hey guys I bought a thinkpad x13 with a 13th gsn I7 and seller says he bought it with the password and is getting it from the guy he bought it from. Is there a way to just remove the BIOS supervisor password? I need to install linux, Thank you ",thinkpad,2025-10-07T12:04:03,Reddit
+Linux,They think it's worth it,"My situation is this on a sales page I found an acer 514 chromebook with i5 1135g7 and the bottom line I would like to know if it is worth making the modification I want to remove the chrome os so I can install a Linux distro with a special focus on debian 13 trixie I know that with that processor I can run any desktop even putting LMED 6 or 7 on it
+The exclusive use would be office automation practically studying My degree that does not focus at all on technology, the truth is that it is very worth it in my opinion because it is at a free price of $3000 Mexican pesos and converting it to Linux I have already done it with other chromebooks is a while of executing commands and removing blockages here the important question is what would be the option that you would take?",debian,2025-10-07T12:02:08,Reddit
+Linux,Old Ubuntu software on New Ubuntu,I have a Old Server I set up with Linux mint which runs off Ubuntu but the software I am using is Ubuntu 10.04 Software and they don’t supply the software for any newer versions is there anyway I could get that working,Ubuntu,2025-10-07T12:00:34,Reddit
+Linux,TLS handshake failure in Linphone,"in my Linux machine(x86) i prepared a setup of asterisk(22) and add two users
+ ; TLS Transport 
+[transport-tls] 
+type=transport 
+protocol=tls bind=0.0.0.0:5061 
+cert_file=/etc/asterisk/keys/asterisk.crt priv_key_file=/etc/asterisk/keys/asterisk.key method=tlsv1_2
+ verify_client=no 
+verify_server=no 
+allow_reload=yes
+ ; ---------- Endpoint for Alice ---------- 
+[alice] 
+type=endpoint 
+context=internal 
+disallow=all 
+allow=ulaw 
+auth=alice_auth 
+aors=alice 
+transport=transport-tls 
+media_encryption=sdes 
+
+[alice_auth] 
+type=auth 
+auth_type=userpass 
+username=alice 
+password=alice123 
+
+[alice] 
+type=aor max_contacts=1
+
+ ; ---------- Endpoint for Bob ---------- 
+
+[bob] 
+type=endpoint 
+context=internal 
+disallow=all 
+allow=ulaw 
+auth=bob_auth 
+aors=bob 
+transport=transport-tls
+ media_encryption=sdes
+
+ [bob_auth] 
+type=auth 
+auth_type=userpass 
+username=bob 
+password=bob123 
+
+[bob] 
+type=aor 
+max_contacts=1 
+
+i used self signed certificate using following command 
+sudo openssl genrsa -out asterisk.key 2048 
+sudo openssl req -new -x509 -key asterisk.key -out asterisk.crt -days 3650 -subj ""/C=ABC/L=DEF/O=MyPBX/CN=GHIJ""
+
+ im using two linphone mobile application for p2p communication, when i tried to register from my mobile app i got below error in the asterisk log
+
+ ERROR[178008]: pjproject: &lt;?&gt;: ssl0x74b7680070d0 Error reading CA certificates from buffer 
+
+
+WARNING[178008]: pjproject: &lt;?&gt;: SSL SSL_ERROR_SSL (Handshake): Level: 0 err: &lt;167773202&gt; &lt;error:0A000412:SSL routines::sslv3 alert bad certificate&gt; len: 0 
+
+To add this self signed certificate to my mobile app i dont see any option in the app to mention the certificate, help me guys to fix this",VOIP,2025-10-07T12:00:30,Reddit
+Linux,TLS handshake failure in Linphone,"in my Linux machine(x86) i prepared a setup of asterisk(22) and add two users
+ ; TLS Transport 
+[transport-tls] 
+type=transport 
+protocol=tls bind=0.0.0.0:5061 
+cert_file=/etc/asterisk/keys/asterisk.crt priv_key_file=/etc/asterisk/keys/asterisk.key method=tlsv1_2
+ verify_client=no 
+verify_server=no 
+allow_reload=yes
+ ; ---------- Endpoint for Alice ---------- 
+[alice] 
+type=endpoint 
+context=internal 
+disallow=all 
+allow=ulaw 
+auth=alice_auth 
+aors=alice 
+transport=transport-tls 
+media_encryption=sdes 
+
+[alice_auth] 
+type=auth 
+auth_type=userpass 
+username=alice 
+password=alice123 
+
+[alice] 
+type=aor max_contacts=1
+
+ ; ---------- Endpoint for Bob ---------- 
+
+[bob] 
+type=endpoint 
+context=internal 
+disallow=all 
+allow=ulaw 
+auth=bob_auth 
+aors=bob 
+transport=transport-tls
+ media_encryption=sdes
+
+ [bob_auth] 
+type=auth 
+auth_type=userpass 
+username=bob 
+password=bob123 
+
+[bob] 
+type=aor 
+max_contacts=1 
+
+i used self signed certificate using following command 
+sudo openssl genrsa -out asterisk.key 2048 
+sudo openssl req -new -x509 -key asterisk.key -out asterisk.crt -days 3650 -subj ""/C=ABC/L=DEF/O=MyPBX/CN=GHIJ""
+
+ im using two linphone mobile application for p2p communication, when i tried to register from my mobile app i got below error in the asterisk log
+
+ ERROR[178008]: pjproject: &lt;?&gt;: ssl0x74b7680070d0 Error reading CA certificates from buffer 
+
+
+WARNING[178008]: pjproject: &lt;?&gt;: SSL SSL_ERROR_SSL (Handshake): Level: 0 err: &lt;167773202&gt; &lt;error:0A000412:SSL routines::sslv3 alert bad certificate&gt; len: 0 
+
+To add this self signed certificate to my mobile app i dont see any option in the app to mention the certificate, help me guys to fix this",Asterisk,2025-10-07T11:57:47,Reddit
+Linux,[DWM] Into the void,"My DWM build: https://github.com/Bl1ndBeholder/DWM
+My dotfiles: https://github.com/Bl1ndBeholder/dotfiles
+My wallpapers: https://github.com/Bl1ndBeholder/wallpapers
+
+OS: Void Linux
+
+",UsabilityPorn,2025-10-07T11:56:19,Reddit
+Linux,Windows vs Linux,ليه احنا خايفين ننزل Linux رغم اننا بنعني كل يوم مع windows ؟؟  ,GymEgypt,2025-10-07T11:53:06,Reddit
+Linux,Full Stack Developer Looking for Job Opportunities,"
+
+Hi everyone,
+
+I’m a Full Stack Software Engineer with 6+ years of experience in Laravel, React, Vue, Next.js, REST APIs, and Linux servers. I’ve worked on high-traffic projects in media, eCommerce, SaaS, and government sectors.
+
+I’m currently looking for new job opportunities and would appreciate any leads, advice, or referrals.
+
+Thanks!",QatarCareers,2025-10-07T11:52:57,Reddit
+Linux,"How is 8bitdo ultimate 2 for steamdeck, do I need windows to set it up ?","I was checking for controller and saw this recommended. I was hoping for more colors like some pastel (like in 2c) but oh well my need for back buttons won.
+
+I was wondering if I need windows to set it up in SD? I have ditch my windows for like months now and only have access to linux pc (fedora). 
+
+How was your experience with it? I just want to know things to remember before splurging. 
+
+I play rpgs, 2.5d rpgs. Monster hunter, hades, stray, skyrim, etc.
+
+Thank you.
+",SteamDeck,2025-10-07T11:50:17,Reddit
+Linux,ClassicLooks Theme,"ClassicLooks Theme Consistent looks on the Linux desktop
+
+[http://www.itgroup.ro/WSX/browser.htm?.landingpage=wsx\_content/en/linux/classiclooks.html#scroll-page](http://www.itgroup.ro/WSX/browser.htm?.landingpage=wsx_content/en/linux/classiclooks.html#scroll-page)
+
+[https://sourceforge.net/projects/classiclooks/](https://sourceforge.net/projects/classiclooks/)
+
+[https://sourceforge.net/projects/xfce-evolution/](https://sourceforge.net/projects/xfce-evolution/)
+
+[https://github.com/JSkier21/xfce-classiclooks?tab=readme-ov-file](https://github.com/JSkier21/xfce-classiclooks?tab=readme-ov-file)",kde,2025-10-07T11:48:48,Reddit
+Linux,Logitech mx master 3s - can't save customizations - disappointed,"I got mx master 3s on discount last Sunday, it's on clearing because mx master 4 is coming. This is my first experience with a productivity focused mouse, I have to say it feels great though, like far better than the corporate issued one. 
+
+what I can't accept is that it doesn't have memory, all customized settings are saved in an app called options+, you uninstall it all settings revert to default. So pretty much it means I just bought a productivity mouse that I can't even use properly on my corporate laptop or my own PC (which runs linux), so far it only works out my Mac which I don't even use for work.
+
+I never thought this is an issue, since I also have a Logitech g502, a gaming mouse, I customize the keys and uninstall the app, all settings are kept as is. Now I wanna know why does Logitech think it's OK not to persist settings for their productivity mouse, given they definitely can do it.
+
+Also the app is quite annoying, you have to keep it running in the background and it requires a range of permissions like spying on hardware interfaces on activities in other apps. Does mx master 4 have onboard memory? if so I probably consider an exchange.",logitech,2025-10-07T11:46:00,Reddit
+Linux,dell premium 14 touchpad isn't working with Linux,"    Hello,
+    The touchpad isn't working on my Dell Premium 14 running Linux. Is there a solution?",Dell,2025-10-07T11:41:28,Reddit
+Linux,UTM(w/ JIT) on iPadOS 26,"Hello.  I’m posting here to see if anyone has had any luck with UTM virtual machines on iPadOS 26.  I finally dove into sideloading, getting altstore set up to install UTM and getting Stikdebug from the app store to enable JIT.  I’m able to launch UTM through Stikdebug.  I’ve tried both modern Linux(Fedora &amp; Silverblue) as well as old Windows(98SE) VMs.  The only results I’ve gotten so far are the app crashing when I try to launch a VM, or a black screen saying “display mode is not active”.
+
+My device is an 11” m4 iPad Pro.  Is there anyone who has had success and what settings they used for the VM?  And is there a way to stop the crashing?  Thanks!",sideloaded,2025-10-07T11:40:55,Reddit
+Linux,Honesty is the best policy!,"https://preview.redd.it/gnddny3rsmtf1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=6e42ff43d9d59ddf8a4a0dab2a0bb74e592896cf
+
+",SumatraPDF,2025-10-07T11:40:39,Reddit
+Linux,Linux hardware survey,"https://preview.redd.it/c6ghj5surmtf1.png?width=580&amp;format=png&amp;auto=webp&amp;s=520166ec965484e0cb133e329b375418450db29d
+
+I just did the hardware survey on Steam. This is the current operating system figures.",linux_gaming,2025-10-07T11:40:36,Reddit
+Linux,"[Calgary, AB] [H] Cash, PayPal [W] 10GbE sfp+ nic/DAC cables","Looking for a 10GbE SFP+ PCI-e card. Preferably dual ports, with full height bracket. Must be compatible with Linux/Proxmox.
+
+Also looking for multiple 10G SFP+ DAC cables, any length &gt;= 1M.
+
+Budget range of $20 - $45 local/shipped.
+
+Feel free to send me offers.",CanadianHardwareSwap,2025-10-07T11:36:45,Reddit
+Linux,"[SwayFX] first rice, ~2 months since i migrated from windows",,unixsoftcore,2025-10-07T11:36:36,Reddit
+Rust,Who Wants a Rusty Old Smartphone?,"If we’re talking about oxidized iron… probably nobody. If we’re talking about Rust the programming language, well, that might be a different story. Google agrees, and is working on bringing …read more",Hackaday,2025-09-24T11:00:10+00:00,NewsAPI
+Rust,The rules behing Rust functions,"Demystifying fn, Fn, FnMut, and FnOnce from everyday usage to compiler magic under the hood",Cuongle.dev,2025-09-10T20:58:34+00:00,NewsAPI
+Rust,Rust tool for generating random fractals,A Rust implementation of the 'Chaos Game' algorithm for generating fractal images from randomness. - benjaminrall/chaos-game,Github.com,2025-09-06T21:56:05+00:00,NewsAPI
+Rust,Why Zig Feels More Practical Than Rust,A deep dive into the practical advantages of Zig over Rust for building command-line interfaces.,Dayvster.com,2025-09-23T12:56:00+00:00,NewsAPI
+Rust,Level Up your Rust pattern matching,Advanced pattern matching techniques and best practices in 10 minutes,Cuongle.dev,2025-09-29T16:25:27+00:00,NewsAPI
+Rust,A Dumb Introduction to z3 using Rust,Exploring the world of constraint solvers with very simple examples.,Github.io,2025-09-15T11:46:45+00:00,NewsAPI
+Rust,Hyperion: Minecraft game engine for custom events,The most advanced Minecraft game engine built in Rust,Hyperion.rs,2025-09-17T02:23:10+00:00,NewsAPI
+Rust,The 9 Best Grills of 2025,"We grilled, smoked, seared, cleaned, and repeated to find the best. Our top-pick Weber is a tried and true classic.",Wired,2025-09-19T15:33:00+00:00,NewsAPI
+Rust,RustGPT: A pure-Rust transformer LLM built from scratch,An transformer based LLM. Written completely in Rust - tekaratzas/RustGPT,Github.com,2025-09-15T09:47:18+00:00,NewsAPI
+Rust,I built Foyer: a Rust hybrid cache that slashes S3 latency,"How RisingWave built Foyer, a hybrid caching library in Rust to beat S3 latency",Dataengineerthings.org,2025-09-23T16:25:13+00:00,NewsAPI
+Rust,"Beyond OpenMP in C++ and Rust: Taskflow, Rayon, Fork Union",TL;DR: Most C++ and Rust thread-pool libraries leave significant performance on the table - often running 10× slower than OpenMP on classic fork-join workloads and micro-benchmarks. So I’ve drafted a minimal ~300-line library called Fork Union that lands with…,Ashvardanian.com,2025-09-28T08:53:36+00:00,NewsAPI
+Rust,"Resizing images in Rust, now with EXIF orientation support","A new version of Rust's image crate has support for EXIF orientation, which allows me to resize images without mangling their rotation.",Alexwlchan.net,2025-09-09T10:31:22+00:00,NewsAPI
+Rust,From Rust to Reality: The Hidden Journey of Fetch_max,A compiler deep-dive tracing Rust’s AtomicU64::fetch_max from macro expansion and rustc intrinsics through LLVM’s atomicrmw umax and AtomicExpandPass to the final x86-64 CAS loop,Questdb.com,2025-09-23T21:24:45+00:00,NewsAPI
+Rust,Engineering a fixed-width bit-packed integer vector in Rust,"Design and implementation of a memory-efficient, fixed-width bit-packed integer vector in Rust, with extremely fast random access.",Lukefleed.xyz,2025-09-24T15:17:08+00:00,NewsAPI
+Rust,"Should I choose Ada, SPARK, or Rust over C/C++?","by Quentin Ochem – Oct 07, 2024. At AdaCore, we’re in the business of supporting people who develop high-integrity software, in particular for embedded systems. In terms of programming languages, this means supporting the most commonly found candidates, which…",Adacore.com,2025-10-06T01:35:03+00:00,NewsAPI
+Rust,We still chose C++ (instead of Rust) for new database development,"Discover why we chose C++ for EloqKV, focusing on its scalability, efficiency, and durability over languages like Rust and Go.",Eloqdata.com,2025-09-26T18:46:50+00:00,NewsAPI
+Rust,The Moon is Rusting - Thanks To 'Wind' Blown All the Way From Earth,"The Moon is rusting -- and it's Earth's fault. Nature: Scientists have found that oxygen particles blown from Earth to the Moon can turn lunar minerals into hematite, also known as rust. The discovery adds to researchers' growing understanding of the deep int…",Slashdot.org,2025-09-22T23:50:00+00:00,NewsAPI
+Rust,2025 Hackaday Superconference: Announcing our Workshops and Tickets,"Can you feel the nip of fall in the air? That can only mean one thing: Supercon is just around the corner. The next few weeks are going to bring a blitz of Supercon-related reveals, and we’re…",Hackaday,2025-09-23T17:00:20+00:00,NewsAPI
+Rust,"Asciinema CLI 3.0 rewritten in Rust, adds live streaming, upgrades file format",News about asciinema development and new releases,Asciinema.org,2025-09-15T16:06:30+00:00,NewsAPI
+Rust,Safe C++ proposal is not being continued,"One year ago, the Safe C++ proposal was made. The goal was to add a safe subset/context into C++ that would give strong guarantees (memory safety, type safety, …",Sibellavia.lol,2025-09-13T19:00:29+00:00,NewsAPI
+Rust,Packers' Christian Watson doesn't hold back with fiery comments right after reaching key checkpoint in his recovery from knee injury,"Christian Watson is almost there. Nine months after his knee injury back in January, the fourth-year wide receiver returned to practice on Monday as the Green Bay Packers opened up his 21-day practice window returning from the physically unable to perform list.",yardbarker,2025-10-06T18:27:27,NewsData
+Rust,"Christian Watson ""felt great"" in return to practice on Monday",Packers receiver Christian Watson got back on the field for practice on Monday after tearing his ACL late in the 2024 season.,profootballtalk,2025-10-06T18:08:48,NewsData
+Rust,"Easton Cowan, James Reimer out as Maple Leafs submit final roster","Rookie was in good shape to start, but Laughton's injury, strong camp from Robertson leaves Cowan without role",yahoo,2025-10-06T18:02:37,NewsData
+Rust,"Get real, the good old days weren't that good",Be on your guard when pollies pluck your nostalgia strings.,braidwoodtimes,2025-10-06T18:00:00,NewsData
+Rust,"Get real, the good old days weren't that good",Be on your guard when pollies pluck your nostalgia strings.,bordermail,2025-10-06T18:00:00,NewsData
+Rust,"Get real, the good old days weren't that good",Be on your guard when pollies pluck your nostalgia strings.,blayneychronicle,2025-10-06T18:00:00,NewsData
+Rust,"Get real, the good old days weren't that good",Be on your guard when pollies pluck your nostalgia strings.,bluemountainsgazette,2025-10-06T18:00:00,NewsData
+Rust,Week 5 Snap Count Analysis: Bucs At Seahawks,"Each week following every Bucs game, Pewter Report will take a close look at the snap count distribution for Tampa Bay on offense and defense. We’ll assess what we can learn from who played the most and least in the game.",yardbarker,2025-10-06T17:49:28,NewsData
+Rust,How The Color Of Your Diesel Engine Can Help Tell You Who Made It,"Some diesel engines are painted in very specific colors. There are multiple reasons for that, but the color can also tell you who made the engine.",slashgear,2025-10-06T17:15:00,NewsData
+Rust,Autumn 2025 Style Guide: Top Three Fashion Picks for Men and Women,"From sculptural outerwear to earthy tones and sleek tailoring, autumn 2025 brings a perfect mix of comfort and confidence for both men and women.Sculptural Outerwear Takes the LeadThis autumn, outerwear becomes more than a necessity — it’s a statement piece. Both men’s and women’s collections highlight bold silhouettes: oversized coats, padded shoulders, and exaggerated collars. Designers are leaning toward structural fabrics like wool blends and recycled synthetics that hold shape while offering warmth. For men, military-inspired trench coats return in deep olive and graphite hues. For women, belted coats with architectural lapels create a confident, modern profile.Earth Tones and Natural TexturesThe color palette of autumn 2025 is rooted in nature. Shades of terracotta, sand, moss, and amber dominate, reflecting a global move toward calm and sustainability. Corduroy, suede, and knits make a strong comeback, combining texture and tactility. Men can layer a caramel-toned sweater beneath a dark brown jacket, while women embrace monochromatic beige or rust ensembles for a soft yet sophisticated look. Accessories in raw leather or woven fibers complete the earth-inspired mood.",pravda_ru,2025-10-06T17:12:00,NewsData
+Rust,No. 11/10 North Dakota shakes off rust with 7-0 exhibition win over Manitoba - University of North Dakota Athletics,,University of North Dakota Athletics,2025-10-07T12:12:47.769517,GoogleNews
+Rust,"Why We Created Turso, a Rust-Based Rewrite of SQLite",,The New Stack,2025-10-07T12:12:47.770024,GoogleNews
+Rust,Rust-Written Redox OS Enables Multi-Threading By Default,,Phoronix,2025-10-07T12:12:47.770535,GoogleNews
+Rust,Report: Economic Populism Has Broad Appeal in the Rust Belt,,Jacobin,2025-10-07T12:12:47.770939,GoogleNews
+Rust,Rust Belt Insurgents Will Determine the Midterms,,The Liberal Patriot,2025-10-07T12:12:47.771342,GoogleNews
+Rust,Linus Torvalds Criticizes Rust Format Checking and Pull Request Formatting in DRM Merge,,It's FOSS News,2025-10-07T12:12:47.771701,GoogleNews
+Rust,"Rust developer is fed up with survivors cowering in their homes, so it's reworking progression to 'get players back out of their bases'",,PC Gamer,2025-10-07T12:12:47.772026,GoogleNews
+Rust,"The Moon Is Rusting, And It's All Earth's Fault",,ScienceAlert,2025-10-07T12:12:47.772347,GoogleNews
+Rust,"Cloudflare just got faster and more secure, powered by Rust",,The Cloudflare Blog,2025-10-07T12:12:47.772664,GoogleNews
+Rust,Orange Crabs in the Machine: How Rust is rewriting the rules of modern software,,GeekWire,2025-10-07T12:12:47.772975,GoogleNews
+Rust,Joseph Rust Obituary 2025,,ARN Funeral & Cremation Services,2025-10-07T12:12:47.773335,GoogleNews
+Rust,Rust Printed Wrap Over skater dress,,The San Joaquin Valley Sun,2025-10-07T12:12:47.773659,GoogleNews
+Rust,Rust is the color I keep reaching for in interiors – here’s why it always works,,Homes and Gardens,2025-10-07T12:12:47.773986,GoogleNews
+Rust,"(UPDATED) Penguins Injuries: Rust Out Weeks, St. Ivany More Significant",,Pittsburgh Hockey Now,2025-10-07T12:12:47.774315,GoogleNews
+Rust,Blue Jackets Could Target Penguins' Bryan Rust In Potential Trade,,The Hockey News,2025-10-07T12:12:47.774629,GoogleNews
+Rust,Moten named Rust College assistant Athletic Director of Compliance,,DeSoto County News,2025-10-07T12:12:47.775010,GoogleNews
+Rust,Myth Busters: is Rust a Slam Dunk?,,infoq.com,2025-10-07T12:12:47.775399,GoogleNews
+Rust,"Survival favorite Rust shakes up the meta with dramatic new patch to fix ""stale"" progression and ""awful"" loot",,PCGamesN,2025-10-07T12:12:47.775724,GoogleNews
+Rust,"Rust October 2025 Update Introduces Blueprint Fragments, Balance Tweaks, and Major Performance Fixes",,Twisted Voxel,2025-10-07T12:12:47.776023,GoogleNews
+Rust,Rust And Cream Smudge Print Halterneck Straw Belt Tiered Midi Dress,,The San Joaquin Valley Sun,2025-10-07T12:12:47.776323,GoogleNews
+Rust,Looking for a teammate/clan,"Hey there, 21f looking for a chill teammate or clan to play rust with. EU/cc servers. foreign student that bought a pc a bit ago. steam account is new so itll show 0 hours on rust but ive been playing rust on and off for years now. Decent at pvp/farming, ass at building etc. Dm or reply :)) (no weirdospls)",playrustlfg,2025-10-07T12:03:07,Reddit
+Rust,Can I use this as a temporary lube for the chain?,,RedditPHCyclingClub,2025-10-07T12:02:56,Reddit
+Rust,Non-'static arguments in async peripheral drivers?,"This is my first time implementing a driver in Rust and I'm pretty new to async so please excuse any misunderstandings! Concretely, I'm implementing a driver that'll feed data into a peripheral's ring buffer with an ISR. So far I've implemented something like this:
+
+```
+async fn transmit(
+    self: &amp;mut EnsureExclusivePeripheralAccess,
+    data: impl Iterator + Send
+) {
+    statically_store_ref_dyn_iterator_for_isr_to_use(unsafe{transmute(&amp;data)});
+    initiate_transmit();
+    wait_for_isr().await
+}
+```
+
+
+However, it occurs to me that my future may be _dropped_ (even though it can't be _moved_ since it must be `Pin`ed to be run) before the ISR is done, invalidating the iterator that the ISR is still using. Am I correct that that's possible? If so, I think you'd need some way to statically store the iterator itself and, moreover, a `'static` bound on the iterator (`data: Iterator + Send + 'static`) to make this API safe?
+
+Would you have any suggestions for an API that is safe but doesn't require the iterator to be 'static? I imagine you could, somehow, for example, heap allocate the iterator and its backing data, and use runtime checking to ensure that the ISR is complete before releasing it back to the caller...
+
+Thanks!",rust,2025-10-07T12:02:15,Reddit
+Rust,Lanai Cleaning Flagler Beach: Restore &amp; Protect Your Outdoor Space,"***Discover expert Lanai Cleaning in Flagler Beach with AJM Softwash Plus LLC. Our eco-friendly and affordable soft washing methods remove dirt, algae, and stains, restoring your lanai’s natural beauty. Choose our trusted team for safe, long-lasting results and enjoy a spotless, protected lanai all year.***
+
+https://preview.redd.it/f2ba11ocwmtf1.jpg?width=668&amp;format=pjpg&amp;auto=webp&amp;s=77cacbf7b482b364e0da0c68dbfd1a8654f5b90c
+
+**Expert Lanai Cleaning in Flagler Beach by AJM Softwash Plus LLC**
+
+Your lanai is more than a patio—it’s your outdoor retreat. Over time, harsh coastal weather, humidity, and salty air in Flagler Beach can leave your lanai covered with mold, mildew, and grime. AJM Softwash Plus LLC offers **Lanai Cleaning in Flagler Beach** that restores and protects your space using eco-friendly solutions and soft washing technology designed for long-lasting beauty.
+
+**Why Lanai Cleaning Matters**
+
+Regular [***Lanai Cleaning in Flagler Beach***](https://ajmsoftwash.com/lanai-cleaning/) prevents permanent damage to surfaces and keeps your home looking fresh. Mold and algae thrive in Florida’s humid environment, creating slippery, unsightly surfaces that are unsafe for your family and guests. A professional cleaning not only enhances appearance but also preserves your property’s value and extends your outdoor surfaces’ lifespan.
+
+**The AJM Softwash Plus Difference**
+
+At AJM Softwash Plus LLC, we go beyond traditional pressure washing. Our ***Professional Lanai Washing in Flagler Beach*** uses a low-pressure soft wash system that removes contaminants safely without damaging pool screens, pavers, or paint. Every cleaning service is customized, ensuring every lanai is treated with the care it deserves.
+
+Our technicians use environmentally safe detergents that lift stubborn organic growth while protecting plants and pets. Whether your lanai needs a seasonal refresh or an annual deep wash, our detailed process guarantees stunning results every time.
+
+**Benefits of Choosing Our Lanai Cleaning Services**
+
+* **Preserve Surface Integrity:** No harsh pressure—just gentle cleaning that maintains your lanai’s finish.
+* **Long-Lasting Protection:** Our soft wash system inhibits future algae and mildew buildup.
+* **Eco-Friendly Approach:** Biodegradable cleaners make your clean-up environmentally responsible.
+* **Enhanced Curb Appeal:** A spotless lanai enhances your home’s overall beauty and value.
+* **Expert Local Team:** We understand Flagler Beach’s unique coastal environment and tailor our methods for the best outcomes.
+
+**The Cleaning Process**
+
+Our lanai cleaning process begins with a full inspection to identify problem areas such as algae, mildew, or rust stains. We then apply specialized soft wash solutions that break down buildup at a molecular level. After treatment, a gentle rinse reveals a cleaner, brighter lanai—safe, slip-resistant, and ready to enjoy.
+
+**Trust Flagler Beach’s Cleaning Experts**
+
+Homeowners throughout the area rely on AJM Softwash Plus LLC for ***Lanai Cleaning in Flagler Beach*** that’s both safe and effective. From condo lanais to large outdoor living areas, our professional equipment and expert care ensure your space always looks its best.
+
+Elevate your outdoor experience with [***Professional Lanai Washing in Flagler Beach***](https://ajmsoftwash.com/) from AJM Softwash Plus LLC. Contact us today to schedule your soft wash service and bring back the shine and tranquility of your coastal lanai.",u_ajmsoftwashplusllc,2025-10-07T12:01:04,Reddit
+Rust,"10 Best Outdoor Pizza Ovens That Deliver Crispy, Restaurant-Quality Pizzas","# The Anatomy of the Perfect Pizza: What Makes Outdoor Ovens Stand Out
+
+When talking about pizza, especially the kind that elevates outdoor gatherings, the oven you choose plays a critical role in the final outcome. Outdoor pizza ovens have gained popularity for good reason—their unique designs and features result in crispy, delicious pizzas that rival any restaurant. Understanding what makes these ovens stand out can help you select the best one for your needs, making your backyard pizzas truly unforgettable.
+
+At the heart of any great outdoor pizza oven is its ability to reach and maintain high temperatures. Traditional home ovens typically reach only around 500°F, while top-quality outdoor ovens can soar to about 900°F. This high heat is essential for the perfect crust. It allows the dough to cook quickly and become beautifully charred on the outside while remaining soft and chewy on the inside.
+
+Another factor that differentiates outdoor pizza ovens is their cooking surface. Most of these ovens come equipped with a stone or ceramic baking surface, which absorbs heat exceptionally well. This feature helps to create a crispier crust by drawing out moisture from the dough. Here are a few materials commonly used:
+
+* **Firebrick:** Excellent heat retention and durability.
+* **Cast Iron:** Provides a diverse range of cooking styles and is extremely durable.
+* **Cordierite Stone:** Known for its thermal stability and ability to produce excellent crusts.
+
+Portability is another standout feature of many outdoor pizza ovens. Depending on their design, some ovens are lightweight and easy to move, making it convenient for spontaneous gatherings or parties. If you’re someone who likes to cook outdoors in different locations, investing in a portable model can be a game-changer.
+
+Fuel types are also a critical element when considering which outdoor pizza oven to purchase. The most common fuel sources include wood, charcoal, gas, and electricity. Each type offers distinct flavors and functionalities:
+
+* **Wood-fired:** Infuses a smoky flavor into the pizza and reaches high temperatures quickly.
+* **Charcoal:** Provides a more traditional BBQ flavor and offers intense heat.
+* **Gas:** Easy to control temperatures, making it user-friendly and consistent.
+* **Electric:** Convenient for those who prefer less mess; however, they often don't reach the same high temperatures as wood or gas ovens.
+
+The shape and design of the oven can significantly impact heat distribution and cooking times. Domed ovens, for instance, circulate heat evenly, which is why they are favored by many pizza enthusiasts. The design encourages a consistent cooking environment, ensuring that your pizza cooks evenly without any hot spots.
+
+Another key feature to consider is the cooking method. Outdoor ovens often allow for multiple cooking techniques, including roasting and baking. This versatility means you can not only make pizzas but also enjoy delicious roasted vegetables and meats, adding added value to your investment.
+
+For those who enjoy customizing flavors, outdoor ovens often have the capability for adjusting air flow and heat intensity. Being able to control these elements allows you to experiment with different styles of pizza, ensuring that your culinary creativity through the outdoor oven knows no bounds.
+
+Ease of use and maintenance plays a vital role in the overall experience of using an outdoor pizza oven. Many models provide straightforward setups and require minimal cleaning, which means you have more time to enjoy your food and company rather than dealing with complicated equipment. Features like removable ash trays, durable surfaces, and accessible propane tanks can streamline your cooking experience.
+
+Learn more about the [**Best Pizza Oven**](https://easy5ingredientmeals.com/12-best-pizza-ovens-for-every-budget-affordable-mid-range-pro-picks/)
+
+  
+
+
+Choosing the right outdoor pizza oven is a matter of understanding your specific needs and preferences. With the myriad of options available, each feature contributes to creating that perfect pizza. Remember—the journey to a crispy, restaurant-quality pizza starts with the right equipment, and an outdoor pizza oven can be your ticket to achieving culinary success right in your backyard.
+
+# Essential Features to Look for in Outdoor Pizza Ovens
+
+When selecting the perfect outdoor pizza oven, it's important to know what features to look for to ensure you're making a wise investment. The right oven can deliver crispy, restaurant-quality pizzas, transforming your backyard into a gourmet dining experience. Below are essential features to consider when shopping for an outdoor pizza oven.
+
+# Heat Source
+
+Outdoor pizza ovens generally operate on three types of heat sources: wood, gas, and electricity. Each has its advantages:
+
+* **Wood-Fired:** Offers a traditional flavor and excellent heat retention, making it ideal for achieving crispy crusts.
+* **Gas:** Provides quick heating, great temperature control, and ease of use, perfect for those who want convenience.
+* **Electric:** Usually best for smaller spaces and offers consistent heating, but may not reach the high temperatures needed for gourmet pizzas.
+
+# Temperature Range
+
+The temperature is crucial for making authentic pizzas. Look for an oven that can reach at least 700°F to 900°F. This high temperature allows for a quick cooking time of about 60 to 90 seconds, giving you that perfectly blistered crust.
+
+# Size and Capacity
+
+Before purchasing, consider how many pizzas you want to make at once. Some ovens have a capacity for one pizza at a time, while others can handle two or more. If you're hosting larger gatherings, choose an oven with a bigger cooking surface. Additionally, ensure it fits your outdoor space comfortably.
+
+# Portability
+
+If you plan to move your oven around your yard or take it on camping trips, portability is key. Look for an oven that is lightweight and comes with wheels or handles for easy transport. Some outdoor pizza ovens are even compact enough to be easily stored away when not in use.
+
+# Material and Build Quality
+
+The materials used in the construction of your pizza oven will greatly affect its durability and heat retention. Stainless steel ovens often resist rust and corrosion, while brick or stone ovens can provide excellent insulation. Regardless of material, ensure the build quality feels sturdy and reliable.
+
+# Insulation
+
+Good insulation is crucial for retaining heat and achieving optimal cooking results. Double-walled construction or ceramic insulation can significantly improve heat retention, allowing for consistent cooking temperatures even when the oven opens and closes.
+
+# Ease of Cleaning
+
+Cooking pizza can get messy, so consider how easy the oven is to clean. Features like removable ash trays or accessible oven interiors can make maintenance a breeze. Opt for models with surfaces that can be easily wiped down and materials that resist staining.
+
+Learn more about the [**Best Pizza Oven**](https://easy5ingredientmeals.com/12-best-pizza-ovens-for-every-budget-affordable-mid-range-pro-picks/)
+
+  
+
+
+# Temperature Control
+
+Having accurate temperature control can help you manage the cooking process better. Look for models with built-in thermometers or adjustable vents, allowing you to fine-tune the heat based on the type of pizza you are making.
+
+# Accessories
+
+A good outdoor pizza oven often comes with various accessories that can enhance your cooking experience. Here are some useful add-ons:
+
+* **Pizza Stone:** This helps in maintaining heat and creating that desired crispy crust.
+* **Pizza Peel:** A flat paddle that helps you place and remove pizzas safely.
+* **Cover:** A protective cover can prolong the life of your oven by shielding it from the elements when not in use.
+
+# Price
+
+Outdoor pizza ovens come in a wide price range. Affordable options may lack some features, but they can still deliver good cooking results. Be sure to balance your budget with the features that matter most to you. Investing a bit more on a high-quality oven can enhance your outdoor cooking experience.
+
+By considering these essential features, you can make an informed decision when choosing the best outdoor pizza oven for your needs. Whether you're a casual pizza lover or a budding chef, this investment will surely elevate your outdoor culinary adventures, making it easy to enjoy crispy, restaurant-quality pizzas right at home.
+
+# Top 10 Outdoor Pizza Ovens That Achieve Crispy, Restaurant-Quality Results
+
+If you're a pizza lover, you know that the secret to achieving crispy, restaurant-quality pizzas lies in the oven. Outdoor pizza ovens are gaining popularity, offering an authentic cooking experience along with amazing results. Below are ten of the best outdoor pizza ovens that can help you create delicious pizzas right in your backyard.
+
+# 1. Ooni Koda 16
+
+The Ooni Koda 16 is a favorite among pizza enthusiasts. This gas-powered oven heats up to an impressive 932°F (500°C) in just 20 minutes. Its large cooking surface allows you to bake pizzas up to 16 inches, making it perfect for family gatherings. What’s better? The stone baking board creates that crispy crust everyone loves.
+
+# 2. Roccbox by Gozney
+
+The Roccbox is another top contender in outdoor pizza ovens. Known for its portability, this oven comes with both wood and gas options. It reaches temperatures of 932°F within 30 minutes. The patented safety features keep it cool to the touch on the outside, ensuring a safe cooking experience for all.
+
+# 3. Camp Chef Artisan Pizza Oven 16
+
+With the Camp Chef Artisan Pizza Oven, you can enjoy restaurant-quality pizzas at home without the hefty price tag. This oven uses propane and can reach 700°F in just 15 minutes. Its versatile design means it can be used for baking other items, too, making it a great addition to your outdoor kitchen.
+
+# 4. Bertello Outdoor Pizza Oven
+
+The Bertello Outdoor Pizza Oven is perfect for those who want flexibility. You can use wood, charcoal, or gas as fuel. This versatile oven can reach high temperatures T quickly, allowing you to cook 12-inch pizzas in just 60 seconds. The compact design makes it easy to transport and store.
+
+Learn more about the [**Best Pizza Oven**](https://easy5ingredientmeals.com/12-best-pizza-ovens-for-every-budget-affordable-mid-range-pro-picks/)
+
+  
+
+
+# 5. Alfa Convotherm Oven
+
+For a more robust option, the Alfa Convotherm Oven brings professional-quality pizza to your backyard. This wood-fired oven reaches up to 1000°F, ensuring crispy pizzas in record time. Its outstanding thermal efficiency means you’ll save on fuel while achieving delicious results every time.
+
+# 6. Pizzacraft Pizzeria Pronto
+
+The Pizzacraft Pizzeria Pronto is great for quick setup and ease of use. This propane-powered oven can cook pizzas in about 5 minutes and reaches temperatures of 700°F. Its portable design makes it a favorite for tailgating or camping trips.
+
+# 7. Napoli Wood Fired Pizza Oven
+
+If you want an authentic wood-fired pizza experience, the Napoli Wood Fired Pizza Oven is the way to go. It heats up to an outstanding 950°F and cooks pizzas in just 60 seconds. The combination of a ceramic baking stone and wood fire provides an unbeatable crust that will impress your guests.
+
+# 8. Little Griddle Griddle Q
+
+The Little Griddle Griddle Q might not be a traditional pizza oven, but it deserves a mention for its versatility. You can sear, fry, and even bake pizzas on its griddle surface. This portable option allows you to create various meals, not just pizza, making it ideal for outdoor gatherings.
+
+# 9. KettlePizza Deluxe Kit
+
+Transform your regular kettle grill into a pizza oven with the KettlePizza Deluxe Kit. It comes with a stone, steel, and wood handle, allowing you to achieve amazing results using your existing grill. Homemade pizzas will never be the same once you start using this handy kit.
+
+# 10. Mulino Wood Fired Oven
+
+The Mulino Wood Fired Oven is popular for its solid construction and excellent heat retention. It reaches up to 1,000°F, allowing for fast cooking times. Perfect for those who appreciate the taste of traditional wood-fired pizzas, this oven promises an authentic flavor that transports you straight to Italy.
+
+Choosing an outdoor pizza oven is an investment in delicious meals and fun memories. With these ten options, you can enjoy crispy, restaurant-quality pizzas right in your backyard. Whether you prefer gas, wood, or charcoal, there’s an oven on this list that will meet your needs and elevate your outdoor cooking experience.
+
+Start experimenting with different toppings and savor the joy of homemade pizza, all while enjoying the great outdoors!
+
+# Comparing Fuel Types: Wood, Gas, and Electric Outdoor Pizza Ovens
+
+When it comes to outdoor pizza ovens, one of the first decisions you'll face is the type of fuel to use. Each fuel type – wood, gas, and electric – has its own unique traits that can significantly affect your pizza-making experience. Your choice will not only influence the flavor and texture of your pizza but also how easy the oven is to use and maintain. Here's a closer look at these fuel types to help you make the best decision for your outdoor cooking style.
+
+Learn more about the [**Best Pizza Oven**](https://easy5ingredientmeals.com/12-best-pizza-ovens-for-every-budget-affordable-mid-range-pro-picks/)
+
+  
+
+
+# Wood-Fired Pizza Ovens
+
+Wood-fired pizza ovens are often regarded as the gold standard for homemade pizzas. They deliver that crispy, smoky flavor that many pizza enthusiasts love. The main characteristics of wood-fired ovens include:
+
+* **Flavor:** Cooking with wood infuses a rich, smoky taste that gas and electric options can't replicate. The wood type (like oak, hickory, or cherry) can further enhance the flavor profile.
+* **High Heat:** These ovens can reach temperatures of up to 900°F, making them perfect for quickly baking pizzas in a matter of minutes.
+* **Cooking Technique:** Users must master the art of controlling the fire, which can take some practice. This hands-on experience can be charming for those who love the traditional method.
+* **Maintenance:** Cleaning ash and maintaining the fire might be more labor-intensive compared to other options.
+
+A wood-fired pizza oven offers a delightful experience, especially if you’re inclined towards traditional methods. If you enjoy the interactive process of cooking and the smokey flavor it provides, this may be the ideal choice for you.
+
+# Gas Pizza Ovens
+
+Gas pizza ovens have gained popularity for their convenience and efficiency. They provide a reliable heat source and are generally easier to operate than wood-fired ovens. Here are some key aspects to consider:
+
+* **Convenience:** Just turn on the gas, and your oven is ready to cook in minutes. This is great for those who want to enjoy pizza without the hassle of managing a wood fire.
+* **Temperature Control:** Gas ovens allow for precise temperature settings, making it easier to achieve consistent results.
+* **Clean-Up:** With no ash or embers to deal with, cleaning up after cooking is straightforward.
+* **Versatility:** Many gas ovens can also be used for grilling and baking other dishes, providing more value.
+
+If you’re looking for a straightforward and efficient way to make delicious pizzas with minimal fuss, a gas pizza oven is an excellent choice. It combines the ability to reach high temperatures with ease of use.
+
+# Electric Pizza Ovens
+
+Electric pizza ovens offer an alternative for those who may not have the outdoor space or inclination to deal with wood or gas. Here’s what you need to know:
+
+* **Ease of Use:** Simply plug it in, set the temperature, and wait for it to preheat. This is ideal for beginners or those with limited outdoor cooking experience.
+* **Safety:** Electric ovens don’t produce an open flame, making them a safe option for families with kids.
+* **Portability:** Many electric models are lightweight and portable, allowing you to move them around your garden or even take them on camping trips.
+* **Cooking Time:** Although they don’t reach as high temperatures as wood-fired ovens, many electric models can still deliver great results, especially for thin-crust pizzas.
+
+Electric pizza ovens are perfect for cooks who prioritize convenience and safety over the intense flavors generated by wood-fired ovens. If you're short on space or want a hassle-free option, this may be the way to go.
+
+Choosing the right fuel type for your outdoor pizza oven really boils down to your cooking style and preferences. Whether you lean towards the classic flavors of wood, the convenience of gas, or the accessibility of electric, each option has unique benefits that can enhance your pizza-making experience. Understanding these differences will assist you in selecting an oven that not only meets your culinary needs but also aligns with your lifestyle. With the right outdoor pizza oven, you’ll be on your way to making crispy, restaurant-quality pizzas right in your own backyard.
+
+# Maintenance Tips for Extending the Life of Your Outdoor Pizza Oven
+
+Maintaining your outdoor pizza oven is crucial for ensuring it lasts for years while delivering amazing, crispy pizzas every time. With just a little effort, you can keep your oven in top shape and ready for your next pizza night. Here are some handy tips to help you extend the life of your outdoor pizza oven.
+
+# Regular Cleaning
+
+To prevent buildup of grease and food particles, always clean your outdoor pizza oven after each use. Here is a simple cleaning routine:
+
+* Wait for the oven to cool down.
+* Use a soft brush or cloth to remove ashes and debris from the cooking surface.
+* For stubborn spots, use a mixture of water and mild soap, then wipe with a damp cloth.
+* Don’t forget to clean the exterior to keep your oven looking great!
+
+# Check for Damage
+
+Regularly inspecting your pizza oven can help you catch any potential problems before they worsen. Look out for:
+
+* Crumbling bricks or damaged stone surfaces.
+* Cuts or tears in the insulation material.
+* Signs of rust on metal components.
+
+If you notice any damage, it's best to address it promptly to avoid bigger issues later on.
+
+# Maintain Adequate Ventilation
+
+Proper airflow is crucial for achieving the right cooking temperature. Ensure that vents are not blocked and are functioning correctly. You can enhance ventilation by:
+
+* Clearing any buildup around the vent areas.
+* Making sure the chimney is unobstructed for smoke to escape effectively.
+
+Good ventilation not only improves cooking efficiency but also reduces excess heat on the oven’s structure.
+
+# Use the Right Fuel
+
+Using quality fuel is key to prolonging the lifespan of your pizza oven. Depending on your oven type, consider:
+
+* For wood-fired ovens, choose well-seasoned hardwood for a cleaner burn.
+* For gas ovens, ensure your propane tank is in good condition and that connections are tight to prevent leaks.
+
+Quality fuel can help reduce soot buildup and unwanted wear on your oven's components.
+
+# Protect from the Elements
+
+Your outdoor pizza oven is exposed to various weather conditions, which can wear it down over time. To protect it, you should:
+
+* Invest in a durable, weather-resistant cover to shield the oven when not in use.
+* Locate your pizza oven in a sheltered area, away from direct rain or extreme wind.
+
+A little extra protection can go a long way in extending the life of your oven.
+
+# Season Your Oven
+
+Just like cast iron pans, pizza ovens can benefit from seasoning. Seasoning helps to create a non-stick layer on the cooking surface and prevents rust. Regularly ""season"" your oven by:
+
+* Running your oven at a high temperature with some oil spread over the cooking surface.
+* Letting it cool down, repeating this process every few uses.
+
+This simple addition to your maintenance routine enhances your oven's cooking performance while also adding longevity.
+
+# Store Properly During Off-Seasons
+
+When not in use, especially during winter months, proper storage is essential. Here are some steps to consider:
+
+* Cover with a breathable material to prevent moisture buildup.
+* Ensure all components, such as the chimney, are securely fastened or removed.
+
+Proper off-season storage helps prevent damage from extreme temperatures or moisture.
+
+# Follow the Manufacturer’s Guidelines
+
+Always refer to the owner’s manual for your specific pizza oven model. Each oven may have unique features or maintenance recommendations that should be followed closely. Pay attention to:
+
+* Specific cleaning techniques recommended for your oven’s materials.
+* Instructions for replacing parts that may wear out over time.
+
+By adhering to these guidelines, you can ensure your oven remains in good shape, delivering delicious meals for years to come. Maintaining your outdoor pizza oven may seem daunting at times, but with these tips, you can make it a simple, regular part of your routine. By keeping your oven clean, protected, and well-cared-for, you’ll be set for countless evenings filled with perfectly baked pizzas.
+
+# Conclusion
+
+When it comes to creating the perfect pizza experience right in your backyard, understanding the unique features of outdoor pizza ovens is vital. Each oven has its own anatomy, designed to deliver that crispy, restaurant-quality crust that we all crave. Whether you’re drawn to the traditional appeal of wood-fired ovens, the convenience of gas, or the ease of electric models, knowing the essential features to look for can make all the difference in your cooking experience.
+
+Our exploration of the top 10 outdoor pizza ovens highlighted several options that excel in delivering exquisite pizzas. Each model was carefully chosen based on performance, design, and user friendliness, ensuring you can find the perfect fit for your culinary needs.
+
+Learn more about the [**Best Pizza Oven**](https://easy5ingredientmeals.com/12-best-pizza-ovens-for-every-budget-affordable-mid-range-pro-picks/)
+
+  
+
+
+Fuel types play a crucial role as well. Understanding the differences between wood, gas, and electric ovens empowers you to choose based on your preferences for flavor, ease of use, and maintenance. Each type of fuel offers distinct advantages, shaping the way your pizza is cooked and tasted.
+
+Speaking of maintenance, keeping your outdoor oven in top shape ensures it serves you delicious pizzas for years to come. Simple cleaning routines and proper storage recommendations can extend its life significantly, allowing you to create memorable meals with family and friends.
+
+With these insights, you're well-equipped to embark on your pizza-making journey. Choose your oven wisely, enjoy the process, and revel in the delightful flavors of home-cooked pizzas that rival your favorite pizzeria. Happy cooking!",BestPizzaOven,2025-10-07T11:52:41,Reddit
+Rust,Why isn't the pin on my adjustable dumbbells working?,"Hey fitness friends! I've been dealing with a super frustrating issue with my adjustable dumbbells lately, and I figured I'd share my experience and solutions since I know many of you probably face the same problem.
+
+So here's the deal - I recently got these amazing adjustable dumbbells from https://athometouch.com/adjustable-dumbbells and while they're generally fantastic, I started having issues with the pin mechanism. You know that annoying moment when you try to adjust the weight, but the selector pin just won't budge? Yeah, that.
+
+After some research and trial-and-error, I discovered several reasons why this happens:
+
+1. Dirt and Debris
+The most common culprit is actually dust and small particles getting stuck in the mechanism. I found that regular cleaning with a slightly damp cloth and keeping them off the floor makes a huge difference.
+
+2. Misalignment
+Sometimes the plates aren't sitting perfectly flush. When this happens, I've learned to slightly wiggle the dumbbell while it's on the base, making sure everything lines up properly before trying to move the pin.
+
+3. Storage Issues
+Keeping them in humid areas can cause rust, which affects the pin mechanism. I moved mine away from my basement workout area to a dryer spot, and it helped tremendously.
+
+Here's what worked for me to fix these issues:
+
+- Regular maintenance (weekly quick wipe-down)
+- Using a tiny bit of WD-40 (but be super careful not to overdo it)
+- Always returning weights to the base gently
+- Double-checking alignment before attempting to change weights
+
+If you're in the market for new adjustable dumbbells or considering an upgrade, I highly recommend checking out these ones: https://athometouch.com/adjustable-dumbbells. They're really well-made and come with great customer support if you do run into any issues.
+
+Quick maintenance tip: After each workout, I spend about 30 seconds just making sure the mechanism is clean and moving smoothly. This small habit has prevented most problems from occurring in the first place.
+
+Remember, these are precision tools, even though they're built tough. Treating them with a bit of care goes a long way in preventing pin issues and extending their life.
+
+Let me know if you've tried any of these solutions or if you have other tips to share. I'm always looking to learn more about maintaining my home gym equipment!",AtHomeEssentials,2025-10-07T11:48:33,Reddit
+Rust,self written macros for rust,"This is my second Rust launcher with macros. I'm sharing it with you to gather your opinions.  
+Works only in windowed mode 1920:1080  
+The security status is questionable. I've been using this version for about a week, and everything works perfectly. The previous version with the same type of protection also didn't result in a ban from EAC. All my friends I gave it to had the same experience.  
+No viruses and any shit. password - 2025  
+[https://drive.google.com/file/d/1aQ1ojkySTlgf3l8c8yjIG85fhIfcicQ4/view?usp=sharing](https://drive.google.com/file/d/1aQ1ojkySTlgf3l8c8yjIG85fhIfcicQ4/view?usp=sharing)",RustPc,2025-10-07T11:48:02,Reddit
+Rust,"Largest Free Quant Job Board: 3,500+ Live Roles at 65+ Firms (Oct 2025)","I built (what looks to be) the largest free quant job aggregator right now: 3,500+ active roles across 65+ hedge funds &amp; prop shops (Millennium, Citadel, Two Sigma, D.E. Shaw, Optiver, IMC, DRW, etc.).
+
+Features:
+
+Fast filters: company, partial location (“Bangal” → Bangalore), tech tags (C++ / Python / Rust / ML)
+
+Saved searches &amp; email alerts
+
+De‑duplicated postings (canonical IDs, merged variants)
+
+Partial + tag search that actually works together
+
+I’d love feedback or feature requests (what’s the next filter you want?).
+
+Link: https://quantbase.fyi",quantindia,2025-10-07T11:47:08,Reddit
+Rust,pc for playing rust,"hi everyone
+i have trouble for playing rust with my actual setup
+MSI ARMOR RX 580 8gb ddr5
+Ryzen 5 5500 
+16 gb Ram 2166hz (one is 3600 but i have another one that is 2666)
+b550 m gigabyte
+i need some advice for the hardware that i need to upgrade pls (sorry for my english it’s very bad)",playrust,2025-10-07T11:43:51,Reddit
+Rust,NOLL: Raid Stories fic: A Hunter From New England Wild,"MEMORY TRANSCRIPTION SUBJECT: Ebenezer Linus Van Parrish, eccentric member of the idle rich and retired bounty hunter
+
+It had been an auspicious day for the lizards to raid Wilks Valley, or indeed to walk the streets of Brantford, New Hampshire, nestled within like the crown jewels of the Queen.
+
+It was the 31^(st) anniversary of...of the accident.
+
+My brother Samuel and I had been drinking, and we had decided to try and recapture our youths by going out for a joyride in his Maserati Ghibli.
+
+My memories are fragmented: getting behind the wheel. Gesticulating while talking with Samuel.
+
+Then a bright light and an earth-shattering noise.
+
+Nothing as...*unusual* as abduction of course...we had been struck side-on by an 18-wheeler.
+
+He…
+
+He didn't make it.
+
+I'd never had the head for business, so I left the running of Van Parrish Industries to his mother Carol Pelt nee Van Parrish, my sister in law. She'd always had the head for numbers that I lacked, and she had run the company well, but…
+
+She died.
+
+Lung cancer.
+
+Her tobacco habit and overworking, trying to be both mother and manager...it killed her.
+
+My nephew Alan blamed me for the accident that left his mother a single mother, and for ruining the family's fortune.
+
+Sometimes, after a few glasses of gin, the walls I have built convincing myself it's *not all my fault* crumble like the walls of Rome under the assault of the savage Visigoths.
+
+And I *weep*.
+
+I couldn't...I *can't* stand to lose what remains of my family, even if Alan (rightly) blamed me for it all...
+
+It may sound odd, but we found reconciliation on that battlefield.
+
+MEMORY TRANSCRIPTION SUBJECT: Alan Van Parrish
+
+I had been...talking with Uncle Eb. He'd just sort of...shown up.
+
+I'm honestly ashamed to admit it...but I'd been about to start yelling when-
+
+**CRASH!**
+
+An Arxur smashed through the downstairs bay window.
+
+I didn't know it was an Arxur, I thought it was just some meth head, so I decided to go and try and settle things peacefully.
+
+Uncle Eb immediately went for the gun safe and grabbed my great-grandfather's custom elephant gun, an old Winchester 1901 with a rifled barrel, rechambered in...I think it was black powder 12 bore elephant gun cartridges.
+
+I ran downstairs to try and tell the guy to leave before my *crazy uncle* blew his head off.
+
+I rounded the corner of the downstairs entryway into the living room, and stopped dead. Saying I was *incredibly* confused at what I saw is drastically understating it (Bear in mind, I'd never seen an Arxur before, so I'd wondered, briefly, if someone had slipped LSD into my morning coffee.)
+
+""Ah, fresh meat!""
+
+It spread its claws.
+
+*Whuh huh?*
+
+In that moment of confusion, the Arxur leapt on me, biting into my arm.
+
+*It fucking hurt!*
+
+The scaly bastard knocked me into a shelf, sending antique tchotchkes and books and Great-Great-Grandfather Angus Van Parrish's cavalry saber falling to the ground as I slid down the side, trying to grab on to something, *anything*, to break my fall.
+
+**KSHHH!**
+
+The glass display case shattered on the floor, and I seized the chance.
+
+I stabbed the lizard in the mouth with a piece of glass, then grabbed the saber and hit the Arxur on the head with it.
+
+I should...probably have removed the sheath first.
+
+Thankfully, the one-two combo gave me the space I needed to crawl away, before-
+
+**BOOM!**
+
+**Thud!**
+
+The Arxur's head disintegrated into a red mist and a rain of bone splinters, many of which embedded themselves in the Colonial paneling. The parquet floor. The ceiling.
+
+*Oh God...*
+
+I looked behind me to see Uncle Eb on the downstairs landing, lowering a smoking gun.
+
+""Are you alright?...Dear God, you're *bleeding*, boy! Where do you keep the first-aid?""
+
+*Guess Uncle Eb does care…*
+
+""...Above the fridge.""
+
+\[TRANSCRIPTION NOTICE: TIME SKIP OF 2 HOURS\]
+
+MEMORY TRANSCRIPTION SUBJECT: Ebenezer Linus Van Parrish (Highly accomplished oldster who's about to add ""alien hunter"" to his resume)
+
+*Well, I think this reunion went swimmingly.*
+
+**Ch-Chak!**
+
+**BOOM!**
+
+**Ch-Chak!**
+
+**BOOM!**
+
+After that reptilian ruffian's cohorts had showed their besnouted faces, I had shot a further two as they entered the house through various unorthodox means, urged my nephew to grab a gun from the safe, and then stepped outside.
+
+I found three more standing over the corpse of a postal worker, *eating* the corpse.
+
+**Ch-Chak!**
+
+**BOOM!**
+
+**Ch-Chak!**
+
+**BOOM!**
+
+**Ch-Chak!**
+
+My face wrinkling in disgust, I fired twice more, demolishing two of the bounders before the third threw some form of blade at me. It smashed the window of the rental Mercedes I had arrived in instead.
+
+**KRSH!**
+
+**BOOM!**
+
+**HONK! HONK! HONK! HONK!**
+
+Dodging quickly to the side as I had threw off my aim somewhat, and it *just* missed the larcenous lizard's ""gentleman area"" by a whisker.
+
+The lizard broke and ran then.
+
+**CLICK!**
+
+*Blast, out of ammunition.*
+
+""YOU MISERABLE COWARD! COME BACK AND FACE ME LIKE A MAN!""
+
+I know not if the lizard heard me, the car alarm was rather deafening.
+
+Alan joined me on my excursion. He had tied an improvised sling from scraps of the bay window curtains, to hold the saber in its sheath close to his body.
+
+*Excellent.* ~~Perhaps through death I can find redemption~~
+
+Near the graveyard on Adams Street, we encountered a crashed vehicle (an old Subaru Brat) with the driver and all passengers dead. It would appear that the vehicle rolled over and crushed everyone inside.
+
+~~Their bodies were twisted and bloody like Sam's was, their splintered bones jutting from their flesh~~
+
+I interrupted my spiral with a quick swig from my hip flask, and set to.
+
+We made our way to a nearby gun store on 12^(th) and Leavitt, where I discovered they apparently didn't *sell* the necessary ammunition for the elephant gun, which was long out of production.
+
+To be perfectly honest...fair enough. It's a custom rifle in an obscure antique caliber that was long obsolete even when grandfather Ulysses commissioned the piece. So I purchased a replacement weapon, a modified surplus M14 EBR marksman rifle with an integral suppressor and night-vision scope, and Alan purchased an…
+
+*Oh.*
+
+At first I thought that he'd wasted his money on a common M8 flare gun of all things, a surplus of the war against the Nazis, but *then* I observed its...*unorthodox* modifications.
+
+I was...hesitant to ask where the manic-eyed young man in the gun store got it, or why it had been modified with a new custom barrel to accept *40mm grenades*...or why he asked to be paid in gold (a condition which I gladly acquiesced to under the understanding that Alan would pay me back in bills), but...I had to admit it would be quite useful.
+
+Alan and I left the store.
+
+""I didn't know you cared…""
+
+*Oh Alan…*
+
+I took a deep, fortifying breath.
+
+""I...I suppose I owe you an apology for my distance throughout the years.""
+
+Alan looked intrigued.
+
+*I...I really am a bastard...*
+
+""I…I suppose, deep down, I am but a miserable *coward*. I bury myself in roleplay of an era long past, I take up a *bounty hunting job* like some common scoundrel to roleplay as a hunter of men, I even *restructure my speech patterns* around 19^(th) century norms...but I…""
+
+*Come on Ebenezer, keep your chin up. Come on, keep your chin up. Crying never helped anybody do anything, okay? You have a problem, you face it like a man...*
+
+""Uncle Eb?""
+
+*Alan is still concerned for me, even after all I have caused...*
+
+""I...I…""
+
+After an uncomfortable silence, I confessed.
+
+""It's all my fault…I'm the reason Samue-...*Sam* is dead…""
+
+**CRASH!**
+
+My emotional spiral was interrupted by the sound of a 20-year-old Toyota Corolla roaring past us two, traveling at upwards of 90 miles per hour.
+
+**Szr-r-r-r-r-rt!**
+
+An old Honda N600 stalled on the other side of the street, and the owner got out and *bolted.*
+
+At the end of the street, I saw lizards in some kind of...what was it called...*dune buggy* round the corner, before a 1974 Mercury Cougar with sizable rust spots struck it side on ~~like the 18 wheeler~~…
+
+**Clang!**
+
+...And the subframe fell out from the bottom of the car, taking the engine with it.
+
+Some lizards swarmed the driver, others saw *us* and called reinforcements.
+
+*Many* others showed their fanged snouts and ran for us.
+
+""They're coming, Alan. Get ready.""
+
+I raised my rifle.
+
+Alan raised the ancestral saber in one hand and his new grenade pistol in the other.
+
+""Harvest time,"" Alan said.
+
+I'm not quite certain what he was referencing.
+
+**Ch-chak!**",NatureofPredators,2025-10-07T11:40:13,Reddit
+Rust,Why Roof Ventilation Matters for Metal Roofs,"Proper [roof ventilation](https://statewideroofingspecialist.com/blog/the-ultimate-guide-to-metal-roof-ventilation/) is crucial for the performance of metal roofs. Without it, moisture can accumulate in the attic, leading to mold growth, rust, and reduced insulation efficiency. There are two main types of roof ventilation: passive and active. Passive ventilation allows hot air to escape through vents placed on the roof, while active ventilation uses fans to increase airflow. Ensuring that your metal roof has adequate ventilation can prevent issues like ice dams, condensation, and excessive heat buildup, ultimately extending the life of your roof and improving energy efficiency.",ValuableSharing,2025-10-07T11:33:37,Reddit
+Rust,"If rust coating looks like this, does that mean it’s woolwax (the good stuff)?","Picking up a car from someone who also owns a rustproof company along with a dealership, and showed me some of his cars that have it applied already, it’s a black coating that looks just like when I google woolwax stuff. So is this the good stuff? If it looks like that I’m set it’s coming with what I need? 
+
+He seems to have some bad reviews so I’ve become skeptical, I’ve also only ever had basic messy drip oil sprays done, this looks very different, I’m just finding out about this apparently it’s much better?",AskMechanics,2025-10-07T11:33:22,Reddit
+Rust,Hummer H2 Camper trailer.,"Dropped the floor pan. Lot of rust. Still cleaning some stuff up. Gonna rip the inner rockers out. Put in some 2x4"" angle iron in it's place. Weld to the outer rocker and the to the top cap of the rocker. Then I'll have a nice base to put all my horizontal 1.5 tubing in for cross support and body mounting. ",overlanding,2025-10-07T11:33:12,Reddit
+Rust,What is the name of this part.,"Was swapping the battery for a 2010 Chrysler Town &amp; Country and the nut on the negative terminal was stuck/rusted on so tight that after fighting with it for a day and trying various things to get it off, I ended up tearing the metal in half on accident.  (where the screw hole is in the picture of the positive one ).  So now I need to replace the entire piece at the end of the cable going to the battery.  
+
+I can not for the life of me find a match for this piece though.  The closest I can find are cable lugs but none of them really match what's in the picture.  I was just wondering if anyone could help stear me in the right direction.  Or does it even matter and using one of those lugs would be fine.  ",AskAMechanic,2025-10-07T11:30:59,Reddit
+Rust,Unsure which direction to go in: infrastructure/systems or back-end/full-stack,"For a quick background, I graduated in 2020 with a BS in CS + math minor. Shortly after, I did 11 weeks of App Academy’s full-stack bootcamp (JavaScript/HTML/CSS, Ruby on Rails). Then I worked at TCS for 2 months that was basically training in Java, SQL, and microservices.
+
+Then I got an offer from AWS and I worked there for about a year and 3 months on the EBS (Elastic Block Store, cloud storage for EC2 instances) encryption team. I did stuff like:
+
+* Worldwide deployments and monitoring of encryption software updates to 100+ availability zones, including government regions.
+* Worked on a Python CLI tool to speed up provisioning of encryption servers to reduce insufficient capacity problems.
+* Wrote periodic metric collection code for the encryption codebase rewrite in Rust
+* On-call shifts: root cause analysis, fixing errors, customer tickets, and maintaining encryption servers. So basically a mix of deployments, distributed systems code, tooling, and production maintenance.
+
+After that, I did 4 months at a company called Pride Automation where I worked on their checklist web app (PrideView). Mostly front-end bug fixes in JavaScript/HTML/CSS/Bootstrap, and fixed a backend endpoint. Overall, this is about 2 years of experience, most of it at AWS.
+
+I've been unemployed for nearly a year and a half at this point (largely due to uncomfortable hand symptoms, haven't sent out a large amount of applications). I’ve been doing online courses on Spring Boot, Java EE, Docker, React, TypeScript, HTML/CSS, SQL, building small full-stack projects, solving many LeetCode problems, and generally targeting full-stack or back-end roles.
+
+My main question:  
+After chatting with ChatGPT, it says my AWS experience aligns with mainly **infrastructure or systems software engineering**, and that my best chances are to get a job in that area, though my last day there was over 2.5 years ago. Is it correct and should I double down on this path, or should I keep aiming for back-end or full-stack? Both areas interest me, but I do want to have the best chance at landing a job.",cscareerquestions,2025-10-07T11:25:42,Reddit
+Rust,"Report: Economic Populism Has Broad Appeal in the Rust Belt | An exhaustive new survey finds that strong economic populism resonates across OH, MI, WI, and PA — and that independent candidates outperform Democrats delivering the same message.",,Uniteagainsttheright,2025-10-07T11:24:48,Reddit
+Rust,"Report: Economic Populism Has Broad Appeal in the Rust Belt | An exhaustive new survey finds that strong economic populism resonates across OH, MI, WI, and PA — and that independent candidates outperform Democrats delivering the same message.",,antitrump,2025-10-07T11:24:22,Reddit
+Rust,"Report: Economic Populism Has Broad Appeal in the Rust Belt | An exhaustive new survey finds that strong economic populism resonates across OH, MI, WI, and PA — and that independent candidates outperform Democrats delivering the same message.",,politics2,2025-10-07T11:24:11,Reddit
+Rust,"Report: Economic Populism Has Broad Appeal in the Rust Belt | An exhaustive new survey finds that strong economic populism resonates across OH, MI, WI, and PA — and that independent candidates outperform Democrats delivering the same message.",,news2,2025-10-07T11:24:02,Reddit
+Rust,This clip made a gorilla like rust after leaving it on the bathroom counter for a few days,,mildlyinteresting,2025-10-07T11:22:47,Reddit
+Python,Creating Python GUIs with GIMP,"GUI design can be a tedious job, requiring the use of specialist design tools and finding a suitable library that fits your use case. If you’re looking for a lightweight solution, though, you…",Hackaday,2025-09-30T02:00:42+00:00,NewsAPI
+Python,Massive monster: See the longest snake caught in the 2025 Florida Python Challenge,Longest python caught in the 2025 Florida Python Challenge was recorded in the Novice category. Plus a look at some of the biggest snakes ever caught.,Palm Beach Post,2025-09-22T14:55:09+00:00,NewsAPI
+Python,Nvmath-Python: Nvidia Math Libraries for the Python Ecosystem,NVIDIA Math Libraries for the Python Ecosystem. Contribute to NVIDIA/nvmath-python development by creating an account on GitHub.,Github.com,2025-09-18T22:37:44+00:00,NewsAPI
+Python,Python found at In-N-Out Burger in Southern California,,Yahoo Entertainment,2025-10-01T19:38:13+00:00,NewsAPI
+Python,Python-Style Kwargs in TypeScript,"A pain-free way to write expressive, readable typed option bags in TypeScript.",Xavd.id,2025-09-22T08:25:53+00:00,NewsAPI
+Python,Florida pythons are being spotted more often near neighborhoods. Is suburbia their next conquest?,"It was about 2 in the morning when Claudilio Cruz, a member of a road crew spreading asphalt on U.S. 1 in the affluent Miami suburb of Pinecrest, heard...",Miami Herald,2025-10-05T20:03:28+00:00,NewsAPI
+Python,"Python on the Edge: Fast, sandboxed, and powered by WebAssembly","With AI workloads on the rise, the demand for Python support on WebAssembly on the Edge has grown rapidly.
+
+However, bringing Python to WebAssembly is...",Wasmer.io,2025-09-24T15:48:36+00:00,NewsAPI
+Python,How to Use Passkeys With Google Password Manager (2025),"Google can create and manage passkeys from your browser, but the process is more involved than it suggests.",Wired,2025-09-30T11:30:00+00:00,NewsAPI
+Python,Why Today's Python Developers Are Embracing Type Hints,What is Typed Python? Why is it important for Python developers today? How to can you get started?,Pyrefly.org,2025-09-24T11:23:54+00:00,NewsAPI
+Python,Further Adventures in Colorimeter Hacking,"One of the great things about sharing hacks is that sometimes one person’s work inspires someone else to take it even further. A case in point is [Ivor]’s colorimeter hacking (parts two and three),…",Hackaday,2025-09-09T11:00:08+00:00,NewsAPI
+Python,Building An Open Source Point of Sale System,"[Mukesh Sankhla] has been tinkering in the world of Point of Sale systems of late. His latest creation is a simple, straightforward kiosk system, and he’s open sourced the design. The Latte P…",Hackaday,2025-10-01T15:30:50+00:00,NewsAPI
+Python,Debugging vs Printing,"We’ll admit it. We have access to great debugging tools and, yes, sometimes they are invaluable. But most of the time, we’ll just throw a few print statements in whatever program we&#82…",Hackaday,2025-09-11T08:00:46+00:00,NewsAPI
+Python,TekaSketch: Where Etch A Sketch Meets Graph Theory,"The Etch A Sketch was never supposed to meet a Raspberry Pi, a camera, or a mathematical algorithm, but here we are. [Tekavou]’s Teka-Cam and TekaSketch are a two-part hack that transforms re…",Hackaday,2025-09-29T23:00:01+00:00,NewsAPI
+Python,Reverse Engineering a (Toy) Fire Engine,Your kid has a toy remote control fire truck. You have an RTL SDR. See where this is going? [Jacob] couldn’t resist tearing into the why and how of the truck’s remote control protocol. …,Hackaday,2025-09-07T02:00:00+00:00,NewsAPI
+Python,I got the highest score on ARC-AGI again swapping Python for English,Using Multi-Agent Collaboration with Evolutionary Test-Time Compute,Substack.com,2025-09-17T01:53:47+00:00,NewsAPI
+Python,Show HN: Nallely – A Python signals/MIDI processing system inspired by Smalltalk,"Nallely is an experimental organic system for advanced MIDI patching, live coding, generative music, and multimodal art, built for hacker/musicians, developed in Python, inspired by Smalltalk and Systems as Living Things",Github.io,2025-09-19T00:09:27+00:00,NewsAPI
+Python,PyOCI – Publish and install private Python packages using OCI/Docker registries,Publish and install private python packages using OCI/docker registries. - AllexVeldman/pyoci,Github.com,2025-09-29T11:37:52+00:00,NewsAPI
+Python,"Wind and Solar Will Power Datacenters More Cheaply Than Nuclear, Study Finds","An anonymous reader quotes a report from The Register: Renewable energy sources could power datacenters at a lower cost than relying on nuclear generation from small modular reactors (SMRs), claims a recently revealed study. ... [A]nalysis from the Centre for…",Slashdot.org,2025-09-27T03:30:00+00:00,NewsAPI
+Python,"As a local, I've visited many of Scotland's castles. There's one tourists can probably skip — and 4 they shouldn't miss.","I've visited over a dozen of Scotland's most popular castles. I'd go back to Stirling and Doune, but Edinburgh Castle didn't feel worth the hype.",Business Insider,2025-09-20T13:42:01+00:00,NewsAPI
+Python,First Transistor Computer Reborn,"Ok, we’ll admit it. If you asked us what the first transistorized computer was, we would have guessed it was the TC from the University of Manchester. After all, Dr. Wilkes and company were a…",Hackaday,2025-09-22T02:00:01+00:00,NewsAPI
+Python,How to Use Chat GPT-4 Online Free: A Complete Guide for 2025,Trying out chat gpt-4 online free in 2025 is easier than you might think. If you’ve ever used...The post How to Use Chat GPT-4 Online Free: A Complete Guide for 2025 appeared first on TechAnnouncer.,techannouncer,2025-10-06T18:04:05,NewsData
+Python,Girls Code Savannah offering free coding classes,"These sessions will teach girls about coding, technology and the use of artificial intelligence.",wsav,2025-10-06T17:58:48,NewsData
+Python,Groups sue EPA over canceled $7 billion solar program intended to help poorer Americans,The program was affiliated with another $20 billion in green funding also terminated under Trump.,orlandosentinel,2025-10-06T17:44:26,NewsData
+Python,Groups sue EPA over canceled $7 billion solar program intended to help poorer Americans,The program was affiliated with another $20 billion in green funding also terminated under Trump.,sun_sentinel,2025-10-06T17:44:26,NewsData
+Python,Emerging SaaS Startup Companies to Watch in 2025: Innovation and Growth Trends,"It feels like every year, there’s a new wave of SaaS startup companies doing things that seemed impossible...The post Emerging SaaS Startup Companies to Watch in 2025: Innovation and Growth Trends appeared first on TechAnnouncer.",techannouncer,2025-10-06T17:44:06,NewsData
+Python,Meta Llama: Everything you need to know about the open generative AI model,"Here's everything you need to know about Meta’s Llama, from its capabilities and editions to where you can use it. We'll keep this post updated as Meta releases upgrades and introduces new dev tools to support the model's use.",techcrunch,2025-10-06T17:11:50,NewsData
+Python,"2025 Supply Chain Attacks Surge on NPM, PyPI, Docker Hub","In 2025, supply chain attacks surged against NPM, PyPI, and Docker Hub, with hackers phishing maintainers to inject malware into packages, enabling data theft and self-propagating worms like Shai-Hulud. Responses include enhanced authentication, audits, and CISA alerts. Building resilient ecosystems demands ongoing vigilance and collaborative defenses.",webpronews,2025-10-06T17:00:00,NewsData
+Python,4 powerful n8n automations I can’t live without anymore,"Discover how n8n, a no-code automation platform, can revolutionize your productivity with 4 powerful automations for expense tracking, email management, personal assistance, and YouTube video summarization.",xda_developers,2025-10-06T16:30:21,NewsData
+Python,Innovative Custom Web Application Development Company Delivers Scalable Digital Solutions for Modern Businesses,"In conclusion, partnering with a custom web application development company empowers businesses to leverage technology in a way that is fully aligned with their unique goals.In today's digital-first world, businesses are constantly looking for ways to differentiate themselves and provide",openpr,2025-10-06T15:04:04,NewsData
+Python,"""I think my story is pretty complete"" - Aung La N Sang at peace with retirement following knockout win over Zebaztian Kadestam","After two decades of competing at the highest level, former two-division world champion 'The Burmese Python' Aung La N Sang walked away from mixed martial arts with no regrets and a heart full of grat",sportskeeda,2025-10-06T14:59:19,NewsData
+Python,In-N-Out employee finds large python trying to order at the drive thru - 50 miles from home,,the-independent.com,2025-10-07T12:12:55.488837,GoogleNews
+Python,Florida pythons are being spotted more often near neighborhoods. Is suburbia their next conquest?,,Sun Sentinel,2025-10-07T12:12:55.489676,GoogleNews
+Python,"6-year-old loses pet python, discovered 50 miles away at fast food restaurant",,WKEF,2025-10-07T12:12:55.490829,GoogleNews
+Python,"A Cloud Built for Python Data Scientists, Not Infrastructure Engineers",,The New Stack,2025-10-07T12:12:55.491583,GoogleNews
+Python,Snake found in EaDo club The Secret Group after hiding for four months,,Houston Chronicle,2025-10-07T12:12:55.492110,GoogleNews
+Python,Florida pythons are being spotted more often near neighborhoods. Is suburbia their next conquest?,,Yahoo,2025-10-07T12:12:55.493075,GoogleNews
+Python,Florida Built $4K Furry Robo-Rabbits to Catfish Giant Pyt...,,Complex,2025-10-07T12:12:55.493833,GoogleNews
+Python,Snake owners baffled as missing pet found 50 miles away in fast food restaurant,,the-independent.com,2025-10-07T12:12:55.494693,GoogleNews
+Python,7 Python Libraries Every Analytics Engineer Should Know,,KDnuggets,2025-10-07T12:12:55.495344,GoogleNews
+Python,Cold snap in Florida made Burmese python puke up a whole deer,,Live Science,2025-10-07T12:12:55.495761,GoogleNews
+Python,Women's Fashion Trends Python Scale Printed Shoulder Bag One-Shoulder Mobile Wallet Card Wallet-Porcelaine Print,,The San Joaquin Valley Sun,2025-10-07T12:12:55.496136,GoogleNews
+Python,"Python found at In-N-Out restaurant in Monrovia, California reunited with owner",,ABC7 New York,2025-10-07T12:12:55.496608,GoogleNews
+Python,Python found at In-N-Out in Monrovia reunited with owner,,ABC7 Los Angeles,2025-10-07T12:12:55.497046,GoogleNews
+Python,Python found at Los Angeles County In-N-Out reunited with owner,,CBS News,2025-10-07T12:12:55.497449,GoogleNews
+Python,Programmer's Python - The Python Difference,,i-programmer.info,2025-10-07T12:12:55.497954,GoogleNews
+Python,When A Snake Says Forever: Why I Used My Pet Python In My Queer Wedding,,GO Magazine,2025-10-07T12:12:55.498379,GoogleNews
+Python,KarmaViz: music visualization software for Linux PCs #Python,,Adafruit,2025-10-07T12:12:55.498700,GoogleNews
+Python,Python at Calif. In-N-Out drive-thru reunited with owners nearly 50 miles away,,SFGATE,2025-10-07T12:12:55.499047,GoogleNews
+Python,Giant python makes slithering stop at In-N-Out Burger drive-thru,,USA Today,2025-10-07T12:12:55.499351,GoogleNews
+Python,Pet python slithers its way to an In-N-Out in Monrovia,,NBC Los Angeles,2025-10-07T12:12:55.499638,GoogleNews
+Python,Made a VS Code hover extension that pulls live Python docs (helped me learn a ton),"Hey folks I built a little VS Code extension that shows Python documentation when you hover over stuff, but it goes a bit further than usual:
+
+Instead of just static docstrings, it pulls live documentation from Intersphinx mappings (like ReadTheDocs projects). That means it updates automatically when the docs do so you always get the latest info right in your editor.
+
+I originally made it for myself because I was tired of switching between tabs every time I wanted to remember what a function did. Ended up getting kind of addicted to just hovering around code and passively learning things I didn’t know I needed. It’s genuinely made me a better Python dev without even trying that hard.
+
+If it sounds useful to you, feel free to check it out or drop feedback.  
+🛠️ Marketplace: [https://marketplace.visualstudio.com/items?itemName=KiidxAtlas.python-hover](https://marketplace.visualstudio.com/items?itemName=KiidxAtlas.python-hover&amp;utm_source=chatgpt.com)",pythontips,2025-10-07T12:09:42,Reddit
+Python,MD to HTML simple idea,"Like many of you, I live in Markdown for all my notes, documentation, and reports. It's fast and efficient for writing, but I always hated sharing the raw .md files with clients or non-technical stakeholders.  
+
+
+It just looks unprofessional. The code blocks are flat walls of text, and the whole document feels like a messy first draft, not a polished final report.
+
+So, I decided to build a simple tool to fix this for myself: a web-based converter that transforms plain Markdown into a clean, professional HTML page with proper syntax highlighting.
+
+
+
+You can try it out here: [https://boldtake.io/md-to-html](https://boldtake.io/md-to-html)
+
+
+
+What it does:  
+
+
+Instantly converts your Markdown to clean HTML.
+
+Adds VS Code-style syntax highlighting for 190+ languages.
+
+Has a live preview that updates as you type.
+
+Includes light/dark themes.
+
+Lets you copy or download the final HTML with one click.
+
+It's free, and no sign-up is needed.
+
+
+
+I built this to solve my own problem, but I'm sure others have similar frustrations. I'd love to get some feedback from this community.
+
+My main question for you all is: What else do you wish you could do with your Markdown files?
+
+Are there other formats you constantly need to convert to (like clean PDFs, Word docs)? Do you need pre-made templates for certain types of reports? Any other annoying little problems you face when sharing your work?
+
+I'm happy to build out more features based on what people actually need. Let me know what you think, or if there's anything else I can help with!
+
+Thanks for checking it out.",SideProject,2025-10-07T12:09:25,Reddit
+Python,How hard is CS 1063?,"So I’m currently working on a double major and have to take CS 1063 in the spring. For context I’ve taken a lot of math classes (Calc I,II, &amp; III, Diff. Eq. I &amp; II, Linear Algebra) and an engineering numerical method class where we used python. I thought python was extremely easy, I know it’s meant to be easy. 
+
+Anyways, do you believe I would struggle in CS 1063? I just wanna know if I could blow off the class and focus on my other harder classes or if I actually need to pay attention. 
+
+Also any other tips you could give me would be appreciated. ",UTSA,2025-10-07T12:06:37,Reddit
+Python,"Remote Data &amp; AI opportunity: Staff Data Scientist, Life Sciences AI","### 🚀 New remote opportunity: Staff Data Scientist, Life Sciences AI
+
+Job Category: [*Data &amp; AI*](https://remotearmy.io/categories/remote-data-ai-jobs)
+
+Job summary:
+
+- 💼 Imo-online
+- 🌎 USA Only
+- 🛠️ data, python, sql
+- 💵 $150K - $180K USD
+
+👉 Learn more and apply here: https://remotearmy.io/jobs/H3uiIMEj-staff-data-scientist-life-sciences-ai
+
+Register for free at [remotearmy.io](https://remotearmy.io) for more remote opportunities and content to succeed at remote work!",remotearmy,2025-10-07T12:00:30,Reddit
+Python,Python doesn't have something like dotenv that you can just import to imitate this one character behavior of read?,,Chto_ne_skache,2025-10-07T11:57:48,Reddit
+Python,What niche should i pursue after this.,"Where should i go from here please suggest me. I have 6 years of experience in total and i want to find a niche. Here are the options-
+
+Data engineer
+DevOps engineer
+Backend engineer
+AI engineer
+
+My long term plan is to get into a FAANG like company.
+
+Please advice",aiengineering,2025-10-07T11:57:32,Reddit
+Python,High speed bridge between unreal 5.5 and python,"I was working on my 3D game in Unreal Engine 5.5, and part of it involved Reinforcement Learning (RL) AI in Python.
+
+I looked around for existing bridges between Python and Unreal, but none of them met my requirements — not even close.
+So I decided to build my own, a Simple Socket Bridge (SSB) based purely on Unreal’s native TCP sockets.
+
+It’s designed mainly for offline AI training, with Unreal 5.5 acting as the environment and Python doing the training logic.
+There’s no TLS or web protocols, just a lightweight, optimized TCP bridge.
+
+Performance results:
+• Average latency: ~1.6 ms round trip (rare spikes up to 5 ms)
+• Average throughput: ~1.44 GB/s one-way (tested with continuous 4096-byte chunks for 5 seconds)
+• Tested on localhost, single thread, Windows 10
+
+The throughput number is likely limited by my PC’s hardware rather than the bridge itself — since it uses only built-in Unreal networking and Python’s standard socket library.
+
+I haven’t tested other Unreal versions yet, but because there are no external dependencies or protocol locks, so it will most likely be fine and I expect very low or no maintenance even after engine updates.
+
+The thing I like the most is how easy it is to set up — you literally just paste the plugin folder into your project, generate project files, build, and it works.
+
+I want to ask your opinions about this software's worth as i have no idea where to even start but I'm sure it worth quite a lot especially when thinking about the amount of time this can reduce for training AI in real time using the realistic visual from unreal 5.5 and onwards with the AI advancement daily.
+
+I can also include a small test Python server and Unreal example if that helps demonstrate it better as well as some cautions demonstrated there as there are some real headaches when you try to use this without understanding.
+
+English isn’t my first language, so please be kind.
+I’ll be around for about an hour to answer questions before I head to sleep as there will be things i didn't know to add into this post or just simply forgot because of how fried my brain is
+",unrealengine,2025-10-07T11:56:42,Reddit
+Python,"My pet snake (children’s python) attacked my boyfriend’s shirt, while she was slithering around on him.","for deeper context, my snake blossom, went int my boyfriend’s sleeve, my boyfriend moved his shirt collar to see where her head was, but when he did this, my snake striked at his hand but latched on to his shirt collar instead, she wouldn’t let go and i had to pry her off, full on strangling a inanimate object, why did this happen? why didn’t she let go? any advice on how to avoid this in the future? ",snakes,2025-10-07T11:54:03,Reddit
+Python,Any app that auto process and filter GPX tracks then upload them,"I have around couple hundred to 1K GPX traces. Initial I started cleaning up manually but that at this scale it became tremendous task. Some tracks slipped unfiltered (I was using GPS Prune).
+
+I am looking for tools to auto-process them:
+
+1. Clean up raw traces. (GPS Babel works good besice offers time shift) 
+2. Remove portions in area for privacy (GPS Babel is moderate, but could be tweaked). Basically I don't want to remove section if record doesn't start or end there, just passing-by. 
+3. Split trace based map features: missing road, administrative border, road grades. (for privacy) 
+4. Auto generate name and upload tags using revere-geocode
+5. Upload to OSM (I didn't look yet)
+
+So Anyone aware of any app or scripts for 3 &amp; 4?
+
+I was thinking about implementing it using GeoDesk python lib. As for Osmand plugin, it seems over complicated to benefit only few users.   ",openstreetmap,2025-10-07T11:53:42,Reddit
+Python,3 years of owning my ball python and I made the biggest mistake tonight💔,"I made a mistake and now my ball python is stuck behind my cabinet. 
+
+If you want to comment and tell me how irresponsible it was to not keep an eye on him, you can. But please know that I’m already beating myself up over it enough.
+
+“Boo” is about to shed and was soaking in his water bowl all day today. His water bowl is on the cold side of his tank, so my boyfriend and I decided we should let him have a warm soak in the sink where it would be more comfortable temperature-wise. 
+
+My boyfriend watched him for a good 20 minutes and then he was ready to put him back, but he seemed to be really enjoying his soak so I said I’d keep an eye on him. After another 20 minutes or so I went over the couch where I THOUGHT (stupidly) I could keep an eye on him because I can see the sink from the couch. 
+
+I don’t want to go into detail about everything that transpired after but he wedged himself into the gap underneath the window sill and by the time we were attempting to get him out he managed to get a third of his body into a hole that appears to go behind our corner cabinet. 
+
+We tried hard to just keep a firm hold on him and not pull - but as you can see in the third photo he appeared to get himself stuck even more by trying to bring his head back out and go so stressed that he defecated 🥺
+
+At that point, we were worried about hurting his and let him go. 
+
+We cut a hole in the back of the corner cabinet and left a hide and some water in there and we plan to borrow a scope tomorrow to see if we can locate him.
+
+I feel absolutely horrible and just hope he’s okay 💔 
+
+I felt I should share here as a PSA not to be as irresponsible as me. ",ballpython,2025-10-07T11:52:33,Reddit
+Python,Just built a tool that turns any app into a windows service - open-soure alternative to AlwaysUp &amp; FireDaemon,"Hi all,
+
+I built Servy, a Windows tool that lets you run any app as a native Windows service with full control over working directory, startup type, process priority, logging, health checks, environment variables, dependencies, pre-launch and post-launch hooks, and parameters.
+
+If you've ever struggled with the limitations of the built-in sc tool or found nssm lacking in features or ui, Servy might be exactly what you need. It solves a common problem where services default to C:\Windows\System32 as their working directory, breaking apps that rely on relative paths or local configs.
+
+Servy lets you run any executable as a windows service, including Node.js, Python, .NET apps, scripts, and more. It allows you to set a custom working directory to avoid path issues, redirect stdout and stderr to log files with rotation, and includes built-in health checks with automatic recovery and restart policies. The tool features a clean, modern UI for easy service management, service monitoring with cpu/ram usage tracking and logs, and is compatible with Windows 7 through Windows 11 as well as Windows Server.
+
+It's perfect for keeping non-service apps running in the background and ensuring they start automatically at system boot without having to rewrite them as services.
+
+Check it out on GitHub: https://github.com/aelassas/servy
+
+Any feedback welcome.",software,2025-10-07T11:50:22,Reddit
+Python,"Largest Free Quant Job Board: 3,500+ Live Roles at 65+ Firms (Oct 2025)","I built (what looks to be) the largest free quant job aggregator right now: 3,500+ active roles across 65+ hedge funds &amp; prop shops (Millennium, Citadel, Two Sigma, D.E. Shaw, Optiver, IMC, DRW, etc.).
+
+Features:
+
+Fast filters: company, partial location (“Bangal” → Bangalore), tech tags (C++ / Python / Rust / ML)
+
+Saved searches &amp; email alerts
+
+De‑duplicated postings (canonical IDs, merged variants)
+
+Partial + tag search that actually works together
+
+I’d love feedback or feature requests (what’s the next filter you want?).
+
+Link: https://quantbase.fyi",quantindia,2025-10-07T11:47:08,Reddit
+Python,Why does Claude Code sessions start at 30% context usage?,"For the past few days, every Claude Code session I start begins with 30% of the context already used. As you can see in the screenshot, this is a fresh session with no messages sent, yet 60k tokens are already consumed.
+
+What's going on, Anthropic? I'm on a Pro plan and the usage limits are already tight as it is.",ClaudeAI,2025-10-07T11:46:55,Reddit
+Python,I built a Python hover extension that pulls live docs from Intersphinx — been addicted to it lately,"I made a VS Code extension that shows Python documentation on hover — but instead of just static docstrings, it **pulls live data from Intersphinx mappings**, so it stays up to date as the docs do.
+
+Been using it myself for a few weeks and honestly I’ve learned *way* more just by hovering over stuff. It’s wild how much easier it is to explore a library when the docs are right there, context-aware.
+
+[https://marketplace.visualstudio.com/items?itemName=KiidxAtlas.python-hover](https://marketplace.visualstudio.com/items?itemName=KiidxAtlas.python-hover)
+
+I've also added support for a handful of other third party modules but i want to see if people find it useful before i decide to make additions that i don't personally need. if you can check it out let me know what you think
+
+",vscode,2025-10-07T11:42:18,Reddit
+Python,"By the way, it's possible that there's a way to make praw reach more than the last 1,000 posts. I think this behavior is not very stable, but right now you can access the next 1,000 posts, if you hide the last 1,000. You just need to unhide everything when you finish",,Chto_ne_skache,2025-10-07T11:40:41,Reddit
+Python,"Senior Backend Software Engineer — Golang, Remote at Atlassian (paid)","Atlassian is looking for a Senior Backend Software Engineer for a remote role, with a focus on Golang and potentially Java.
+
+**What we're looking for:**
+- Drive large, complex projects autonomously from design to launch.
+- Tackle complex architecture challenges and apply architectural standards.
+- Lead code reviews and documentation, handle complex bug fixes.
+- Mentor more junior members of the team.
+
+**Requirements:**
+- Expert-level experience with one or more prominent languages (e.g., Java, Kotlin, Golang, Python, C#, C/C++, Ruby).
+- Highly-trusted knowledge in at least one domain and working knowledge in multiple tech domains.
+- Passion for collaborating with and mentoring junior team members.",DevJobLeadsOnReddit,2025-10-07T11:32:59,Reddit
+Python,"[OFFER] I will code you almost anything in Python, for an affordable price","
+
+
+
+Hey there!
+
+[PORTFOLIO](https://www.terracciano.eu/Daniele/)
+
+Are you drowning in boring tasks or dreaming up with exciting projects? Let me bring some coding magic to the table with Python.
+
+With over 4 years of experience, I've worked in a variety of projects, including automation, chatbots, APIs, web development, web scraping, and more!
+
+What can I do for you?
+
+* Automate the boring stuff: Say goodbye to repetitive tasks!
+* Build Chatbots: Want a digital buddy? I can make that happen.
+* Build your web app: Time to build the next big thing together.
+* Grab data from websites: Web scraping made easy.
+* Work with AI: Using cool stuff like Langchain or the Chat-GPT API.
+
+If you believe you have something that I could do for you, please place a $bid and send me the details of the project. As always, the price depends, but It's usually from 35$ to 50$ for simple or intermediate projects.",slavelabour,2025-10-07T11:28:02,Reddit
+Python,Is his aving almost no work at a corporate job the new normal? Help?,"I genuinely work maybe 8 to 12 hours a week. The rest of the time, I'm just... sitting. I read long-form articles on The Atlantic, watch videos about restoring old tools, and I've even started learning to cook French cuisine. My biggest stress right now is looking busy with my camera on during team meetings. Is this really corporate life in America?
+
+About eight months ago, I was hired as a business intelligence analyst at a large fintech company right after finishing grad school. The hiring process was incredibly tough - there was a technical challenge where I had to untangle some messy sales data and build a dashboard, a case study presentation, and several rounds of behavioral interviews with some Python logic puzzles mixed in. They seemed serious about hiring for a demanding role.
+
+Now I'm here with a respectable six-figure salary and excellent benefits in a hybrid role (3 days in the office, 2 from home), but I spend my days with an almost comical amount of free time. My first big task was to clean up the sales pipeline data and build some new performance dashboards. I finished it super fast, way ahead of schedule, and my manager was thrilled with the result.
+
+But since finishing that project four months ago, my workload has plummeted. I get occasional requests to pull specific data or create a simple chart that takes me 45 minutes at most. I've started using some simple, modern methods that feel obvious to me.
+
+I created a few dynamic templates on our data viz platform that I can tweak for most new requests. The head of sales called me a 'data wizard' in a team meeting because I used a waterfall chart instead of the standard bar graphs they've apparently been using since 2005. I'm not kidding.
+
+The operations team is convinced I work extra hours because I schedule their weekly report emails to be sent at 7 AM. In reality, I have them done by 3 PM the day before and spend the rest of the day making cocktails.
+
+My 'secret' is that I rely heavily on AI. I use an AI assistant to write most of my SQL queries. My 60-year-old manager saw some nested queries on my screen a few days ago and said, 'It's amazing how you young folks are so gifted with this database stuff.' Sir, I'm just copy-pasting. I also wrote a simple script to help the ops team merge their monthly reports (honestly, I just explained the problem to an AI and cleaned up the code). We learned this exact thing in a course, but they acted like I invented fire. Their previous solution? Manually copy-pasting in Excel like it's 1999.
+
+In the big weekly department meetings, I use an AI meeting tool to take notes so I can zone out. When someone asked about a specific metric from last quarter's meeting, I simply queried the AI transcript while they were all still trying to remember. It feels like a superpower, but... why isn't everyone doing this?
+
+So yeah, I'm mostly just waiting for something to do. I've started renaming all my digital photos with a uniform naming system just to feel productive. In college, they drilled the idea of 'fast-paced corporate environments' and 'crushing deadlines' into our heads. This... is not that.
+
+Last week, my manager pulled me into a surprise meeting. I thought, 'This is it, I'm busted.' Instead, he praised my efficiency and asked if I could run a workshop for the rest of the team to 'share my advanced techniques.' I don't know what techniques I'm supposed to teach them - how to phrase an AI prompt? How to use Google effectively?
+
+Is this a common experience? Did I just stumble upon a cheat code for corporate life? I feel like I'm living in a strange dream where the perception of my work is completely disconnected from the actual effort involved. What am I missing?",SecurityCareerAdvice,2025-10-07T11:27:37,Reddit
+Python,10 Best Educative Courses for Python Developers in 2025,,javarevisited,2025-10-07T11:26:32,Reddit
+Python,Unsure which direction to go in: infrastructure/systems or back-end/full-stack,"For a quick background, I graduated in 2020 with a BS in CS + math minor. Shortly after, I did 11 weeks of App Academy’s full-stack bootcamp (JavaScript/HTML/CSS, Ruby on Rails). Then I worked at TCS for 2 months that was basically training in Java, SQL, and microservices.
+
+Then I got an offer from AWS and I worked there for about a year and 3 months on the EBS (Elastic Block Store, cloud storage for EC2 instances) encryption team. I did stuff like:
+
+* Worldwide deployments and monitoring of encryption software updates to 100+ availability zones, including government regions.
+* Worked on a Python CLI tool to speed up provisioning of encryption servers to reduce insufficient capacity problems.
+* Wrote periodic metric collection code for the encryption codebase rewrite in Rust
+* On-call shifts: root cause analysis, fixing errors, customer tickets, and maintaining encryption servers. So basically a mix of deployments, distributed systems code, tooling, and production maintenance.
+
+After that, I did 4 months at a company called Pride Automation where I worked on their checklist web app (PrideView). Mostly front-end bug fixes in JavaScript/HTML/CSS/Bootstrap, and fixed a backend endpoint. Overall, this is about 2 years of experience, most of it at AWS.
+
+I've been unemployed for nearly a year and a half at this point (largely due to uncomfortable hand symptoms, haven't sent out a large amount of applications). I’ve been doing online courses on Spring Boot, Java EE, Docker, React, TypeScript, HTML/CSS, SQL, building small full-stack projects, solving many LeetCode problems, and generally targeting full-stack or back-end roles.
+
+My main question:  
+After chatting with ChatGPT, it says my AWS experience aligns with mainly **infrastructure or systems software engineering**, and that my best chances are to get a job in that area, though my last day there was over 2.5 years ago. Is it correct and should I double down on this path, or should I keep aiming for back-end or full-stack? Both areas interest me, but I do want to have the best chance at landing a job.",cscareerquestions,2025-10-07T11:25:42,Reddit
