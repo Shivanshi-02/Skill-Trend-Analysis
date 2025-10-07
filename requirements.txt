@@ -1,0 +1,12 @@
+# Core  utility libraries
+pandas
+numpy
+python-dotenv
+pathlib 
+streamlit
+plotly
+prophet
+requests
+scikit-learn 
+transformers 
+slack_sdk
