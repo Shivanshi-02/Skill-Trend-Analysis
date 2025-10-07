@@ -5,6 +5,7 @@ python-dotenv
 pathlib 
 streamlit
 plotly
+matplotlib
 prophet
 requests
 scikit-learn 
